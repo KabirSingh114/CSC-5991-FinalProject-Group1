@@ -1,10 +1,12 @@
 from flask import Flask
 
 import json
+import os
+
 
 app = Flask(__name__)
 
-with open("../URL HERE") as f:
+with open("../URL HERE") as f: #replace with db get 
     trending = json.load(f)
 
 @app.route("/", methods=['GET'])
@@ -23,5 +25,5 @@ def trending_list():
 
 
 if __name__ == '__main__':
-    app.secret_key = os.urandom(12)
+    #app.secret_key = os.urandom(12) #needed?
     app.run(host='0.0.0.0', port=5000)
