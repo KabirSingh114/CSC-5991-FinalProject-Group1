@@ -28,6 +28,6 @@ for x in range(1000):
                    "ISBN": str(random.randint(1000000000000, 999999999999999)),
                    "Genre": random.choice(genre),
                    "Author": random.choice(first_names) + " " + random.choice(last_names),
-                   "Date Added:": str(fake.date_between(start_date='today', end_date='+10y'))})
+                   "DateAdded": str(fake.date_between(start_date='today', end_date='+10y'))})
 json.dump(book_dict, out_file, indent = 4)
 out_file.close()
