@@ -21,10 +21,10 @@ genre = ['Action and adventure', 'Art/architecture', 'Alternate history', 'Autob
 
 
 
-book_dict = {}
+book_dict = []
 out_file = open("book_list.json", "w+")
 for x in range(1000):
-    book_dict[x]=({"Book": random.choice(first_word) + " " + random.choice(second_word) + " " + random.choice(third_word),
+    book_dict.append({"Book": random.choice(first_word) + " " + random.choice(second_word) + " " + random.choice(third_word),
                    "ISBN": str(random.randint(1000000000000, 999999999999999)),
                    "Genre": random.choice(genre),
                    "Author": random.choice(first_names) + " " + random.choice(last_names),

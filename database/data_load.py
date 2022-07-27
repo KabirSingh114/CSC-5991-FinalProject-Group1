@@ -20,3 +20,4 @@ cursor = mongo_coll.find({})
 for document in cursor:
     print(document)
 
+

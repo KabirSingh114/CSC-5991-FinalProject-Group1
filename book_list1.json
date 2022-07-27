@@ -1,0 +1,7002 @@
+{
+    "0": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "903152376815596",
+        "Genre": "Historical fiction",
+        "Author": "Amelia Wilson",
+        "DateAdded": "2026-08-27"
+    },
+    "1": {
+        "Book": "The Men Ice",
+        "ISBN": "82261230842169",
+        "Genre": "Biography",
+        "Author": "Ava Jones",
+        "DateAdded": "2024-12-21"
+    },
+    "2": {
+        "Book": "A Father Blizzard",
+        "ISBN": "342589586255558",
+        "Genre": "Health/fitness",
+        "Author": "Elijah Davis",
+        "DateAdded": "2022-11-06"
+    },
+    "3": {
+        "Book": "A Octopus Fire",
+        "ISBN": "702775947872875",
+        "Genre": "Alternate history",
+        "Author": "Noah Anderson",
+        "DateAdded": "2032-03-05"
+    },
+    "4": {
+        "Book": "We Men Fire",
+        "ISBN": "530453054808785",
+        "Genre": "True crime",
+        "Author": "Henry Taylor",
+        "DateAdded": "2031-12-25"
+    },
+    "5": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "383635836475829",
+        "Genre": "Sports",
+        "Author": "Henry Anderson",
+        "DateAdded": "2032-03-04"
+    },
+    "6": {
+        "Book": "The Men Storm",
+        "ISBN": "515669439731931",
+        "Genre": "Art/architecture",
+        "Author": "Benjamin Wilson",
+        "DateAdded": "2030-03-14"
+    },
+    "7": {
+        "Book": "A Never Ice",
+        "ISBN": "50574055463910",
+        "Genre": "Historical fiction",
+        "Author": "Ava Jones",
+        "DateAdded": "2028-11-14"
+    },
+    "8": {
+        "Book": "The Plane Fire",
+        "ISBN": "579255244745117",
+        "Genre": "Textbook",
+        "Author": "Liam Thomas",
+        "DateAdded": "2024-07-06"
+    },
+    "9": {
+        "Book": "A Trial Blizzard",
+        "ISBN": "539951121901880",
+        "Genre": "Chick lit",
+        "Author": "Noah Williams",
+        "DateAdded": "2024-01-12"
+    },
+    "10": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "37897232900124",
+        "Genre": "Science",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2026-12-04"
+    },
+    "11": {
+        "Book": "A Octopus Legacy",
+        "ISBN": "593936820340530",
+        "Genre": "Home and garden",
+        "Author": "Theodore Rodriguez",
+        "DateAdded": "2028-12-29"
+    },
+    "12": {
+        "Book": "A Never Beneath",
+        "ISBN": "682308398136557",
+        "Genre": "Romance",
+        "Author": "Emma Jackson",
+        "DateAdded": "2031-04-10"
+    },
+    "13": {
+        "Book": "The Men Legacy",
+        "ISBN": "458276492151216",
+        "Genre": "Autobiography",
+        "Author": "Elijah Thomas",
+        "DateAdded": "2024-01-29"
+    },
+    "14": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "573959104720401",
+        "Genre": "Home and garden",
+        "Author": "Amelia Davis",
+        "DateAdded": "2022-11-10"
+    },
+    "15": {
+        "Book": "A War Legacy",
+        "ISBN": "30899059074978",
+        "Genre": "Textbook",
+        "Author": "Emma Martinez",
+        "DateAdded": "2023-05-24"
+    },
+    "16": {
+        "Book": "A Father Sorrow",
+        "ISBN": "621896068057581",
+        "Genre": "Health/fitness",
+        "Author": "Elijah Taylor",
+        "DateAdded": "2024-12-16"
+    },
+    "17": {
+        "Book": "A Murder Sorrow",
+        "ISBN": "646302879635049",
+        "Genre": "Textbook",
+        "Author": "Olivia Taylor",
+        "DateAdded": "2031-10-19"
+    },
+    "18": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "655846621256563",
+        "Genre": "Guide",
+        "Author": "James Johnson",
+        "DateAdded": "2028-04-17"
+    },
+    "19": {
+        "Book": "The Murder Beneath",
+        "ISBN": "277963491555747",
+        "Genre": "Business/economics",
+        "Author": "Ava Lee",
+        "DateAdded": "2028-05-10"
+    },
+    "20": {
+        "Book": "A Crime Legacy",
+        "ISBN": "359848604613600",
+        "Genre": "Mystery",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2023-10-24"
+    },
+    "21": {
+        "Book": "The Octopus Forever",
+        "ISBN": "741662097276225",
+        "Genre": "Encyclopedia",
+        "Author": "Emma Moore",
+        "DateAdded": "2025-03-13"
+    },
+    "22": {
+        "Book": "The Father Dragon",
+        "ISBN": "398873527721136",
+        "Genre": "Young adult",
+        "Author": "Oliver Jackson",
+        "DateAdded": "2031-04-14"
+    },
+    "23": {
+        "Book": "The Murder Storm",
+        "ISBN": "331019578987778",
+        "Genre": "Drama",
+        "Author": "Elijah Garcia",
+        "DateAdded": "2026-12-28"
+    },
+    "24": {
+        "Book": "A Crime Fire",
+        "ISBN": "512324641566587",
+        "Genre": "Diary",
+        "Author": "Emma Lee",
+        "DateAdded": "2023-04-05"
+    },
+    "25": {
+        "Book": "The Trial Fire",
+        "ISBN": "403851309032117",
+        "Genre": "Poetry",
+        "Author": "Lucas Moore",
+        "DateAdded": "2028-11-12"
+    },
+    "26": {
+        "Book": "We Deer Sorrow",
+        "ISBN": "392163186086970",
+        "Genre": "Philosophy",
+        "Author": "William Rodriguez",
+        "DateAdded": "2027-06-17"
+    },
+    "27": {
+        "Book": "The Never Forever",
+        "ISBN": "457442019276250",
+        "Genre": "Chick lit",
+        "Author": "Ava Jones",
+        "DateAdded": "2027-07-06"
+    },
+    "28": {
+        "Book": "The Trial Legacy",
+        "ISBN": "596885390410452",
+        "Genre": "Classic",
+        "Author": "Emma Taylor",
+        "DateAdded": "2028-06-08"
+    },
+    "29": {
+        "Book": "The Crime Fire",
+        "ISBN": "163831673771636",
+        "Genre": "Science",
+        "Author": "Oliver Garcia",
+        "DateAdded": "2026-04-27"
+    },
+    "30": {
+        "Book": "We Octopus Ice",
+        "ISBN": "390057814952728",
+        "Genre": "Sports",
+        "Author": "Amelia Davis",
+        "DateAdded": "2025-07-16"
+    },
+    "31": {
+        "Book": "A Men Fire",
+        "ISBN": "353782168149115",
+        "Genre": "Humor",
+        "Author": "Olivia Miller",
+        "DateAdded": "2031-12-15"
+    },
+    "32": {
+        "Book": "The Murder Sorrow",
+        "ISBN": "439877809938795",
+        "Genre": "Coming-of-age",
+        "Author": "Emma Davis",
+        "DateAdded": "2030-05-31"
+    },
+    "33": {
+        "Book": "We Deer Blizzard",
+        "ISBN": "400516140033907",
+        "Genre": "Alternate history",
+        "Author": "Noah Brown",
+        "DateAdded": "2028-07-10"
+    },
+    "34": {
+        "Book": "A Men Legacy",
+        "ISBN": "475223695027009",
+        "Genre": "Historical fiction",
+        "Author": "James Jackson",
+        "DateAdded": "2028-04-28"
+    },
+    "35": {
+        "Book": "A Never Dragon",
+        "ISBN": "216957968244372",
+        "Genre": "Humor",
+        "Author": "Lucas Taylor",
+        "DateAdded": "2028-02-06"
+    },
+    "36": {
+        "Book": "A Trial Blizzard",
+        "ISBN": "710557698041604",
+        "Genre": "Textbook",
+        "Author": "Noah Brown",
+        "DateAdded": "2031-08-24"
+    },
+    "37": {
+        "Book": "We Deer Ice",
+        "ISBN": "1197710121713",
+        "Genre": "Home and garden",
+        "Author": "William Thomas",
+        "DateAdded": "2024-12-31"
+    },
+    "38": {
+        "Book": "The Men Fire",
+        "ISBN": "724515246089794",
+        "Genre": "Western",
+        "Author": "Isabella Taylor",
+        "DateAdded": "2022-10-29"
+    },
+    "39": {
+        "Book": "A War Beneath",
+        "ISBN": "384942619678943",
+        "Genre": "Thriller",
+        "Author": "James Martin",
+        "DateAdded": "2032-07-06"
+    },
+    "40": {
+        "Book": "We Octopus Beneath",
+        "ISBN": "827434785460395",
+        "Genre": "Young adult",
+        "Author": "Oliver Taylor",
+        "DateAdded": "2024-06-04"
+    },
+    "41": {
+        "Book": "We Father Blizzard",
+        "ISBN": "397891450895972",
+        "Genre": "Historical fiction",
+        "Author": "Theodore Brown",
+        "DateAdded": "2023-02-17"
+    },
+    "42": {
+        "Book": "A Octopus Legacy",
+        "ISBN": "464054173126634",
+        "Genre": "Art/architecture",
+        "Author": "Charlotte Miller",
+        "DateAdded": "2031-07-07"
+    },
+    "43": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "742967457435760",
+        "Genre": "True crime",
+        "Author": "Henry Martinez",
+        "DateAdded": "2027-12-01"
+    },
+    "44": {
+        "Book": "The Deer Forever",
+        "ISBN": "176338669435082",
+        "Genre": "Graphic novel",
+        "Author": "Theodore Williams",
+        "DateAdded": "2024-08-30"
+    },
+    "45": {
+        "Book": "We Never Beneath",
+        "ISBN": "472225313695211",
+        "Genre": "Guide",
+        "Author": "James Smith",
+        "DateAdded": "2025-09-09"
+    },
+    "46": {
+        "Book": "A Men Forever",
+        "ISBN": "709159250432538",
+        "Genre": "Chick lit",
+        "Author": "Theodore Martinez",
+        "DateAdded": "2030-08-19"
+    },
+    "47": {
+        "Book": "The Men Beneath",
+        "ISBN": "648147235120976",
+        "Genre": "Classic",
+        "Author": "Henry Johnson",
+        "DateAdded": "2026-10-20"
+    },
+    "48": {
+        "Book": "We Murder Ice",
+        "ISBN": "256965549442197",
+        "Genre": "Alternate history",
+        "Author": "Evelyn Thomas",
+        "DateAdded": "2023-12-17"
+    },
+    "49": {
+        "Book": "The Octopus Legacy",
+        "ISBN": "508701496536801",
+        "Genre": "Drama",
+        "Author": "Isabella Jackson",
+        "DateAdded": "2030-07-30"
+    },
+    "50": {
+        "Book": "We Never Fire",
+        "ISBN": "537108063843311",
+        "Genre": "Poetry",
+        "Author": "Mia Anderson",
+        "DateAdded": "2022-09-01"
+    },
+    "51": {
+        "Book": "The Never Blizzard",
+        "ISBN": "326508957067816",
+        "Genre": "Graphic novel",
+        "Author": "Harper Johnson",
+        "DateAdded": "2030-02-25"
+    },
+    "52": {
+        "Book": "We Crime Beneath",
+        "ISBN": "17030221369224",
+        "Genre": "Romance",
+        "Author": "Elijah Williams",
+        "DateAdded": "2022-08-27"
+    },
+    "53": {
+        "Book": "A Deer Ice",
+        "ISBN": "850688185553368",
+        "Genre": "Dictionary",
+        "Author": "Henry Davis",
+        "DateAdded": "2027-06-07"
+    },
+    "54": {
+        "Book": "The Crime Ice",
+        "ISBN": "176160341016679",
+        "Genre": "Dictionary",
+        "Author": "Benjamin Anderson",
+        "DateAdded": "2025-05-31"
+    },
+    "55": {
+        "Book": "The Plane Beneath",
+        "ISBN": "180530666445657",
+        "Genre": "Journal",
+        "Author": "Elijah Lopez",
+        "DateAdded": "2031-09-08"
+    },
+    "56": {
+        "Book": "The Father Fire",
+        "ISBN": "144725813934446",
+        "Genre": "Sports",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2030-10-15"
+    },
+    "57": {
+        "Book": "The Plane Sorrow",
+        "ISBN": "192374755639366",
+        "Genre": "Coming-of-age",
+        "Author": "Elijah Smith",
+        "DateAdded": "2026-02-27"
+    },
+    "58": {
+        "Book": "We Trial Fire",
+        "ISBN": "501178372693523",
+        "Genre": "True crime",
+        "Author": "Harper Jackson",
+        "DateAdded": "2028-06-11"
+    },
+    "59": {
+        "Book": "The Trial Blizzard",
+        "ISBN": "660199946762781",
+        "Genre": "Guide",
+        "Author": "Emma Jones",
+        "DateAdded": "2027-04-30"
+    },
+    "60": {
+        "Book": "We Father Beneath",
+        "ISBN": "213964568228563",
+        "Genre": "Art/architecture",
+        "Author": "Ava Martin",
+        "DateAdded": "2030-07-29"
+    },
+    "61": {
+        "Book": "The Plane Ice",
+        "ISBN": "157274326947541",
+        "Genre": "Comic book",
+        "Author": "Harper Davis",
+        "DateAdded": "2031-10-05"
+    },
+    "62": {
+        "Book": "A Never Blizzard",
+        "ISBN": "5891344970259",
+        "Genre": "Crime",
+        "Author": "Lucas Thomas",
+        "DateAdded": "2030-10-10"
+    },
+    "63": {
+        "Book": "The Never Beneath",
+        "ISBN": "302156896416063",
+        "Genre": "Drama",
+        "Author": "Lucas Jackson",
+        "DateAdded": "2031-05-10"
+    },
+    "64": {
+        "Book": "The Plane Forever",
+        "ISBN": "643217278368584",
+        "Genre": "Coming-of-age",
+        "Author": "Charlotte Moore",
+        "DateAdded": "2031-08-07"
+    },
+    "65": {
+        "Book": "The Murder Fire",
+        "ISBN": "716373476201462",
+        "Genre": "Mystery",
+        "Author": "Liam Davis",
+        "DateAdded": "2026-05-01"
+    },
+    "66": {
+        "Book": "We Men Storm",
+        "ISBN": "271626719575723",
+        "Genre": "Cookbook",
+        "Author": "Benjamin Thomas",
+        "DateAdded": "2024-10-04"
+    },
+    "67": {
+        "Book": "We Plane Dragon",
+        "ISBN": "551088772133431",
+        "Genre": "Crafts/hobbies",
+        "Author": "Isabella Martin",
+        "DateAdded": "2023-07-01"
+    },
+    "68": {
+        "Book": "A Crime Storm",
+        "ISBN": "59377617173210",
+        "Genre": "Guide",
+        "Author": "Isabella Anderson",
+        "DateAdded": "2027-03-26"
+    },
+    "69": {
+        "Book": "We Octopus Beneath",
+        "ISBN": "32919239023010",
+        "Genre": "Encyclopedia",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2032-04-04"
+    },
+    "70": {
+        "Book": "A Never Dragon",
+        "ISBN": "730221585968749",
+        "Genre": "Action and adventure",
+        "Author": "Mia Johnson",
+        "DateAdded": "2032-01-22"
+    },
+    "71": {
+        "Book": "The War Blizzard",
+        "ISBN": "223220975176541",
+        "Genre": "Children",
+        "Author": "Lucas Jones",
+        "DateAdded": "2029-09-22"
+    },
+    "72": {
+        "Book": "The Deer Ice",
+        "ISBN": "615233995926104",
+        "Genre": "Classic",
+        "Author": "Emma Brown",
+        "DateAdded": "2023-09-02"
+    },
+    "73": {
+        "Book": "A Trial Ice",
+        "ISBN": "634256255845959",
+        "Genre": "Diary",
+        "Author": "Liam Lopez",
+        "DateAdded": "2028-11-02"
+    },
+    "74": {
+        "Book": "The Plane Fire",
+        "ISBN": "96668248981965",
+        "Genre": "History",
+        "Author": "Noah Jones",
+        "DateAdded": "2029-01-24"
+    },
+    "75": {
+        "Book": "A Plane Fire",
+        "ISBN": "682633352672340",
+        "Genre": "Poetry",
+        "Author": "Olivia Martin",
+        "DateAdded": "2023-07-23"
+    },
+    "76": {
+        "Book": "A Octopus Dragon",
+        "ISBN": "106253543964859",
+        "Genre": "Autobiography",
+        "Author": "Lucas Taylor",
+        "DateAdded": "2025-10-13"
+    },
+    "77": {
+        "Book": "The Crime Forever",
+        "ISBN": "913577010369462",
+        "Genre": "Biography",
+        "Author": "Charlotte Johnson",
+        "DateAdded": "2025-09-27"
+    },
+    "78": {
+        "Book": "A Octopus Fire",
+        "ISBN": "445393647789772",
+        "Genre": "Fantasy",
+        "Author": "Theodore Smith",
+        "DateAdded": "2023-07-31"
+    },
+    "79": {
+        "Book": "The Plane Sorrow",
+        "ISBN": "679923744141552",
+        "Genre": "Philosophy",
+        "Author": "Henry Williams",
+        "DateAdded": "2029-08-27"
+    },
+    "80": {
+        "Book": "We War Storm",
+        "ISBN": "688005312986608",
+        "Genre": "Textbook",
+        "Author": "James Thomas",
+        "DateAdded": "2027-05-22"
+    },
+    "81": {
+        "Book": "A Octopus Blizzard",
+        "ISBN": "83253991078990",
+        "Genre": "Dictionary",
+        "Author": "Isabella Wilson",
+        "DateAdded": "2030-11-30"
+    },
+    "82": {
+        "Book": "A Octopus Dragon",
+        "ISBN": "692339929026262",
+        "Genre": "Dictionary",
+        "Author": "Elijah Rodriguez",
+        "DateAdded": "2024-08-29"
+    },
+    "83": {
+        "Book": "The Father Legacy",
+        "ISBN": "706476773029031",
+        "Genre": "Poetry",
+        "Author": "Liam Moore",
+        "DateAdded": "2030-07-08"
+    },
+    "84": {
+        "Book": "The Trial Sorrow",
+        "ISBN": "215966224603532",
+        "Genre": "History",
+        "Author": "Benjamin Taylor",
+        "DateAdded": "2023-09-29"
+    },
+    "85": {
+        "Book": "We Never Storm",
+        "ISBN": "354810595345501",
+        "Genre": "Encyclopedia",
+        "Author": "Benjamin Martinez",
+        "DateAdded": "2026-08-15"
+    },
+    "86": {
+        "Book": "We Trial Fire",
+        "ISBN": "750828120632096",
+        "Genre": "Chick lit",
+        "Author": "Evelyn Miller",
+        "DateAdded": "2023-03-20"
+    },
+    "87": {
+        "Book": "The Never Blizzard",
+        "ISBN": "121509597191195",
+        "Genre": "Autobiography",
+        "Author": "Charlotte Garcia",
+        "DateAdded": "2024-01-20"
+    },
+    "88": {
+        "Book": "We Plane Ice",
+        "ISBN": "701988465549639",
+        "Genre": "Journal",
+        "Author": "Oliver Johnson",
+        "DateAdded": "2027-08-10"
+    },
+    "89": {
+        "Book": "We Father Beneath",
+        "ISBN": "290666257842044",
+        "Genre": "True crime",
+        "Author": "Noah Lopez",
+        "DateAdded": "2023-08-31"
+    },
+    "90": {
+        "Book": "We Men Ice",
+        "ISBN": "902588926303102",
+        "Genre": "Textbook",
+        "Author": "Amelia Williams",
+        "DateAdded": "2030-01-21"
+    },
+    "91": {
+        "Book": "We War Legacy",
+        "ISBN": "895732968184202",
+        "Genre": "Philosophy",
+        "Author": "Charlotte Jones",
+        "DateAdded": "2027-10-17"
+    },
+    "92": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "831567873468280",
+        "Genre": "Classic",
+        "Author": "Noah Taylor",
+        "DateAdded": "2023-04-07"
+    },
+    "93": {
+        "Book": "We Men Forever",
+        "ISBN": "798369868916638",
+        "Genre": "Fantasy",
+        "Author": "Mia Lee",
+        "DateAdded": "2024-06-04"
+    },
+    "94": {
+        "Book": "A Trial Fire",
+        "ISBN": "225461685807817",
+        "Genre": "Sports",
+        "Author": "Olivia Jones",
+        "DateAdded": "2023-05-23"
+    },
+    "95": {
+        "Book": "The Father Fire",
+        "ISBN": "877409182043173",
+        "Genre": "Biography",
+        "Author": "Amelia Miller",
+        "DateAdded": "2023-07-27"
+    },
+    "96": {
+        "Book": "We Crime Beneath",
+        "ISBN": "232361401180283",
+        "Genre": "Diary",
+        "Author": "Lucas Lopez",
+        "DateAdded": "2031-06-11"
+    },
+    "97": {
+        "Book": "A Trial Beneath",
+        "ISBN": "697715012227742",
+        "Genre": "True crime",
+        "Author": "William Miller",
+        "DateAdded": "2024-03-13"
+    },
+    "98": {
+        "Book": "The Plane Ice",
+        "ISBN": "321171517413387",
+        "Genre": "True crime",
+        "Author": "Harper Garcia",
+        "DateAdded": "2024-05-12"
+    },
+    "99": {
+        "Book": "We Deer Legacy",
+        "ISBN": "121744092416639",
+        "Genre": "True crime",
+        "Author": "Harper Wilson",
+        "DateAdded": "2030-08-17"
+    },
+    "100": {
+        "Book": "The Plane Dragon",
+        "ISBN": "76876951141994",
+        "Genre": "Crafts/hobbies",
+        "Author": "Henry Garcia",
+        "DateAdded": "2024-12-03"
+    },
+    "101": {
+        "Book": "The Trial Blizzard",
+        "ISBN": "145729661726492",
+        "Genre": "True crime",
+        "Author": "Amelia Lee",
+        "DateAdded": "2026-12-05"
+    },
+    "102": {
+        "Book": "The Never Storm",
+        "ISBN": "846422338025630",
+        "Genre": "Dictionary",
+        "Author": "James Miller",
+        "DateAdded": "2027-02-01"
+    },
+    "103": {
+        "Book": "The Men Storm",
+        "ISBN": "996394294388565",
+        "Genre": "Action and adventure",
+        "Author": "Henry Moore",
+        "DateAdded": "2029-11-24"
+    },
+    "104": {
+        "Book": "A Deer Dragon",
+        "ISBN": "388360577799830",
+        "Genre": "Diary",
+        "Author": "Evelyn Rodriguez",
+        "DateAdded": "2029-01-17"
+    },
+    "105": {
+        "Book": "The Octopus Forever",
+        "ISBN": "259008348150091",
+        "Genre": "Romance",
+        "Author": "Lucas Moore",
+        "DateAdded": "2028-10-03"
+    },
+    "106": {
+        "Book": "A Octopus Legacy",
+        "ISBN": "384785890092787",
+        "Genre": "History",
+        "Author": "Evelyn Rodriguez",
+        "DateAdded": "2025-03-30"
+    },
+    "107": {
+        "Book": "We War Beneath",
+        "ISBN": "557455374895722",
+        "Genre": "Cookbook",
+        "Author": "Theodore Smith",
+        "DateAdded": "2026-04-28"
+    },
+    "108": {
+        "Book": "A Murder Forever",
+        "ISBN": "318616482329818",
+        "Genre": "Humor",
+        "Author": "Evelyn Lopez",
+        "DateAdded": "2026-10-03"
+    },
+    "109": {
+        "Book": "We Octopus Forever",
+        "ISBN": "153210808876760",
+        "Genre": "Classic",
+        "Author": "Charlotte Jackson",
+        "DateAdded": "2026-08-26"
+    },
+    "110": {
+        "Book": "The Trial Storm",
+        "ISBN": "267870691343856",
+        "Genre": "Young adult",
+        "Author": "Lucas Brown",
+        "DateAdded": "2029-09-07"
+    },
+    "111": {
+        "Book": "A War Legacy",
+        "ISBN": "629049242834070",
+        "Genre": "Humor",
+        "Author": "Mia Rodriguez",
+        "DateAdded": "2032-02-07"
+    },
+    "112": {
+        "Book": "The Trial Ice",
+        "ISBN": "13089611374390",
+        "Genre": "Historical fiction",
+        "Author": "Lucas Johnson",
+        "DateAdded": "2031-04-19"
+    },
+    "113": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "24524953377621",
+        "Genre": "Young adult",
+        "Author": "Liam Rodriguez",
+        "DateAdded": "2027-10-11"
+    },
+    "114": {
+        "Book": "We War Sorrow",
+        "ISBN": "378196161628758",
+        "Genre": "Crafts/hobbies",
+        "Author": "Sophia Miller",
+        "DateAdded": "2027-08-07"
+    },
+    "115": {
+        "Book": "A War Storm",
+        "ISBN": "907339038208469",
+        "Genre": "Graphic novel",
+        "Author": "James Jackson",
+        "DateAdded": "2030-04-14"
+    },
+    "116": {
+        "Book": "A War Beneath",
+        "ISBN": "860302125568186",
+        "Genre": "Crime",
+        "Author": "Ava Lee",
+        "DateAdded": "2028-12-04"
+    },
+    "117": {
+        "Book": "We Never Beneath",
+        "ISBN": "321927041798724",
+        "Genre": "Home and garden",
+        "Author": "Lucas Johnson",
+        "DateAdded": "2029-03-29"
+    },
+    "118": {
+        "Book": "A Men Forever",
+        "ISBN": "864304247231902",
+        "Genre": "Art/architecture",
+        "Author": "Charlotte Anderson",
+        "DateAdded": "2023-06-28"
+    },
+    "119": {
+        "Book": "We Octopus Ice",
+        "ISBN": "501926561202118",
+        "Genre": "Drama",
+        "Author": "Amelia Miller",
+        "DateAdded": "2026-06-05"
+    },
+    "120": {
+        "Book": "The Murder Dragon",
+        "ISBN": "698978947274548",
+        "Genre": "Textbook",
+        "Author": "Isabella Martin",
+        "DateAdded": "2027-02-28"
+    },
+    "121": {
+        "Book": "We Plane Storm",
+        "ISBN": "114912241630347",
+        "Genre": "Humor",
+        "Author": "Benjamin Williams",
+        "DateAdded": "2024-02-16"
+    },
+    "122": {
+        "Book": "We Murder Dragon",
+        "ISBN": "896868075866956",
+        "Genre": "Science",
+        "Author": "Harper Moore",
+        "DateAdded": "2026-05-12"
+    },
+    "123": {
+        "Book": "A Trial Dragon",
+        "ISBN": "413555361745508",
+        "Genre": "Graphic novel",
+        "Author": "Oliver Jones",
+        "DateAdded": "2027-11-05"
+    },
+    "124": {
+        "Book": "The War Dragon",
+        "ISBN": "608556096511798",
+        "Genre": "Comic book",
+        "Author": "James Smith",
+        "DateAdded": "2030-01-21"
+    },
+    "125": {
+        "Book": "We Deer Blizzard",
+        "ISBN": "202757578969812",
+        "Genre": "Drama",
+        "Author": "Lucas Jackson",
+        "DateAdded": "2026-03-18"
+    },
+    "126": {
+        "Book": "A Plane Fire",
+        "ISBN": "949715390851483",
+        "Genre": "Poetry",
+        "Author": "Liam Moore",
+        "DateAdded": "2028-07-09"
+    },
+    "127": {
+        "Book": "We War Beneath",
+        "ISBN": "556738688093594",
+        "Genre": "Textbook",
+        "Author": "Harper Smith",
+        "DateAdded": "2031-07-08"
+    },
+    "128": {
+        "Book": "The Plane Forever",
+        "ISBN": "572003579279536",
+        "Genre": "Biography",
+        "Author": "Noah Brown",
+        "DateAdded": "2029-04-28"
+    },
+    "129": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "716679919151743",
+        "Genre": "Graphic novel",
+        "Author": "Harper Jones",
+        "DateAdded": "2025-02-04"
+    },
+    "130": {
+        "Book": "A Never Dragon",
+        "ISBN": "316554926932395",
+        "Genre": "Home and garden",
+        "Author": "Evelyn Williams",
+        "DateAdded": "2029-09-23"
+    },
+    "131": {
+        "Book": "The Trial Ice",
+        "ISBN": "689529247202074",
+        "Genre": "Humor",
+        "Author": "Charlotte Moore",
+        "DateAdded": "2024-02-06"
+    },
+    "132": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "668548645350046",
+        "Genre": "Textbook",
+        "Author": "Isabella Miller",
+        "DateAdded": "2031-08-13"
+    },
+    "133": {
+        "Book": "A Plane Forever",
+        "ISBN": "926881922314023",
+        "Genre": "Health/fitness",
+        "Author": "Harper Smith",
+        "DateAdded": "2027-04-16"
+    },
+    "134": {
+        "Book": "We Father Blizzard",
+        "ISBN": "602590812447438",
+        "Genre": "Coming-of-age",
+        "Author": "James Miller",
+        "DateAdded": "2027-07-05"
+    },
+    "135": {
+        "Book": "A War Blizzard",
+        "ISBN": "576396956907813",
+        "Genre": "Encyclopedia",
+        "Author": "Liam Wilson",
+        "DateAdded": "2030-05-12"
+    },
+    "136": {
+        "Book": "We Trial Dragon",
+        "ISBN": "992957233824585",
+        "Genre": "Historical fiction",
+        "Author": "Amelia Jones",
+        "DateAdded": "2031-08-19"
+    },
+    "137": {
+        "Book": "We Plane Legacy",
+        "ISBN": "900437853294722",
+        "Genre": "Young adult",
+        "Author": "Charlotte Garcia",
+        "DateAdded": "2032-06-01"
+    },
+    "138": {
+        "Book": "We Deer Storm",
+        "ISBN": "761032579406572",
+        "Genre": "Classic",
+        "Author": "Emma Lopez",
+        "DateAdded": "2022-09-13"
+    },
+    "139": {
+        "Book": "A Father Dragon",
+        "ISBN": "917013015671120",
+        "Genre": "Mystery",
+        "Author": "James Wilson",
+        "DateAdded": "2023-01-07"
+    },
+    "140": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "450421877985361",
+        "Genre": "Graphic novel",
+        "Author": "James Martin",
+        "DateAdded": "2025-07-28"
+    },
+    "141": {
+        "Book": "A Octopus Storm",
+        "ISBN": "224542449327687",
+        "Genre": "Chick lit",
+        "Author": "Henry Jones",
+        "DateAdded": "2030-11-03"
+    },
+    "142": {
+        "Book": "A Father Blizzard",
+        "ISBN": "129265604929712",
+        "Genre": "Cookbook",
+        "Author": "Theodore Jones",
+        "DateAdded": "2024-01-16"
+    },
+    "143": {
+        "Book": "The Trial Dragon",
+        "ISBN": "470709666080873",
+        "Genre": "Guide",
+        "Author": "Oliver Williams",
+        "DateAdded": "2031-07-18"
+    },
+    "144": {
+        "Book": "The Never Legacy",
+        "ISBN": "280204507008997",
+        "Genre": "Art/architecture",
+        "Author": "Mia Brown",
+        "DateAdded": "2025-04-08"
+    },
+    "145": {
+        "Book": "A War Legacy",
+        "ISBN": "429449472021355",
+        "Genre": "Thriller",
+        "Author": "Olivia Jackson",
+        "DateAdded": "2030-11-20"
+    },
+    "146": {
+        "Book": "A Plane Dragon",
+        "ISBN": "84602296994232",
+        "Genre": "Western",
+        "Author": "James Taylor",
+        "DateAdded": "2025-04-12"
+    },
+    "147": {
+        "Book": "The Plane Legacy",
+        "ISBN": "398148793749865",
+        "Genre": "Comic book",
+        "Author": "Elijah Williams",
+        "DateAdded": "2022-08-24"
+    },
+    "148": {
+        "Book": "The Trial Beneath",
+        "ISBN": "264291428319343",
+        "Genre": "Guide",
+        "Author": "Oliver Miller",
+        "DateAdded": "2027-07-09"
+    },
+    "149": {
+        "Book": "A Never Blizzard",
+        "ISBN": "421614845202862",
+        "Genre": "Coming-of-age",
+        "Author": "Ava Garcia",
+        "DateAdded": "2024-08-23"
+    },
+    "150": {
+        "Book": "We Father Beneath",
+        "ISBN": "322565014473723",
+        "Genre": "Action and adventure",
+        "Author": "Emma Brown",
+        "DateAdded": "2032-02-04"
+    },
+    "151": {
+        "Book": "The Deer Beneath",
+        "ISBN": "704554746149193",
+        "Genre": "Young adult",
+        "Author": "Lucas Williams",
+        "DateAdded": "2027-04-15"
+    },
+    "152": {
+        "Book": "A Murder Dragon",
+        "ISBN": "639266158980645",
+        "Genre": "Philosophy",
+        "Author": "Evelyn Miller",
+        "DateAdded": "2029-04-13"
+    },
+    "153": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "801448036087951",
+        "Genre": "Sports",
+        "Author": "Sophia Lee",
+        "DateAdded": "2028-04-18"
+    },
+    "154": {
+        "Book": "We Crime Legacy",
+        "ISBN": "472470852066000",
+        "Genre": "Mystery",
+        "Author": "Harper Wilson",
+        "DateAdded": "2026-03-27"
+    },
+    "155": {
+        "Book": "The Murder Fire",
+        "ISBN": "98042709005680",
+        "Genre": "Crime",
+        "Author": "Liam Jackson",
+        "DateAdded": "2030-03-24"
+    },
+    "156": {
+        "Book": "We Octopus Fire",
+        "ISBN": "442654941490425",
+        "Genre": "Philosophy",
+        "Author": "Evelyn Moore",
+        "DateAdded": "2024-06-23"
+    },
+    "157": {
+        "Book": "The Father Dragon",
+        "ISBN": "912726688905089",
+        "Genre": "Sports",
+        "Author": "James Lopez",
+        "DateAdded": "2022-10-31"
+    },
+    "158": {
+        "Book": "We War Sorrow",
+        "ISBN": "410342329247938",
+        "Genre": "Coming-of-age",
+        "Author": "Noah Wilson",
+        "DateAdded": "2028-05-06"
+    },
+    "159": {
+        "Book": "A Deer Forever",
+        "ISBN": "729477063057132",
+        "Genre": "Science",
+        "Author": "Olivia Smith",
+        "DateAdded": "2023-12-08"
+    },
+    "160": {
+        "Book": "We Men Beneath",
+        "ISBN": "543215707227202",
+        "Genre": "Crime",
+        "Author": "James Jones",
+        "DateAdded": "2030-07-26"
+    },
+    "161": {
+        "Book": "We Crime Blizzard",
+        "ISBN": "449556669775008",
+        "Genre": "Cookbook",
+        "Author": "Mia Davis",
+        "DateAdded": "2023-09-08"
+    },
+    "162": {
+        "Book": "A Murder Forever",
+        "ISBN": "279336753578502",
+        "Genre": "Science",
+        "Author": "Sophia Miller",
+        "DateAdded": "2027-01-06"
+    },
+    "163": {
+        "Book": "The Men Beneath",
+        "ISBN": "269089697588850",
+        "Genre": "Textbook",
+        "Author": "Isabella Anderson",
+        "DateAdded": "2028-03-17"
+    },
+    "164": {
+        "Book": "We Murder Beneath",
+        "ISBN": "899177436256397",
+        "Genre": "Young adult",
+        "Author": "Harper Johnson",
+        "DateAdded": "2025-10-28"
+    },
+    "165": {
+        "Book": "We Murder Legacy",
+        "ISBN": "119755250330083",
+        "Genre": "True crime",
+        "Author": "Liam Jackson",
+        "DateAdded": "2026-07-08"
+    },
+    "166": {
+        "Book": "We Crime Forever",
+        "ISBN": "307310834424209",
+        "Genre": "Humor",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2023-08-22"
+    },
+    "167": {
+        "Book": "A Trial Forever",
+        "ISBN": "436535924190166",
+        "Genre": "Textbook",
+        "Author": "Oliver Williams",
+        "DateAdded": "2026-04-10"
+    },
+    "168": {
+        "Book": "We Deer Storm",
+        "ISBN": "816463133064412",
+        "Genre": "Journal",
+        "Author": "Ava Jackson",
+        "DateAdded": "2027-03-12"
+    },
+    "169": {
+        "Book": "The Men Forever",
+        "ISBN": "152500225196548",
+        "Genre": "True crime",
+        "Author": "Charlotte Davis",
+        "DateAdded": "2027-12-01"
+    },
+    "170": {
+        "Book": "The Men Storm",
+        "ISBN": "347127184266410",
+        "Genre": "Western",
+        "Author": "Sophia Lee",
+        "DateAdded": "2029-06-10"
+    },
+    "171": {
+        "Book": "The Father Storm",
+        "ISBN": "810035436170059",
+        "Genre": "Comic book",
+        "Author": "Harper Taylor",
+        "DateAdded": "2025-05-21"
+    },
+    "172": {
+        "Book": "We Men Ice",
+        "ISBN": "159629262631010",
+        "Genre": "Horror",
+        "Author": "Elijah Miller",
+        "DateAdded": "2029-04-22"
+    },
+    "173": {
+        "Book": "A Murder Ice",
+        "ISBN": "159677523577510",
+        "Genre": "Home and garden",
+        "Author": "Isabella Brown",
+        "DateAdded": "2029-09-19"
+    },
+    "174": {
+        "Book": "The Men Storm",
+        "ISBN": "978015201905774",
+        "Genre": "History",
+        "Author": "Theodore Garcia",
+        "DateAdded": "2024-01-03"
+    },
+    "175": {
+        "Book": "The Trial Beneath",
+        "ISBN": "404624990356624",
+        "Genre": "Anthology",
+        "Author": "Henry Moore",
+        "DateAdded": "2024-09-25"
+    },
+    "176": {
+        "Book": "A War Sorrow",
+        "ISBN": "46991673727154",
+        "Genre": "Classic",
+        "Author": "Amelia Anderson",
+        "DateAdded": "2025-01-08"
+    },
+    "177": {
+        "Book": "The Octopus Sorrow",
+        "ISBN": "724751629644607",
+        "Genre": "Fantasy",
+        "Author": "Theodore Taylor",
+        "DateAdded": "2027-06-25"
+    },
+    "178": {
+        "Book": "The Octopus Storm",
+        "ISBN": "735298650560947",
+        "Genre": "Biography",
+        "Author": "Ava Miller",
+        "DateAdded": "2031-09-17"
+    },
+    "179": {
+        "Book": "A Crime Forever",
+        "ISBN": "306290046789626",
+        "Genre": "Western",
+        "Author": "Noah Jones",
+        "DateAdded": "2029-02-05"
+    },
+    "180": {
+        "Book": "We Never Legacy",
+        "ISBN": "614009662254624",
+        "Genre": "Action and adventure",
+        "Author": "Charlotte Martinez",
+        "DateAdded": "2029-10-16"
+    },
+    "181": {
+        "Book": "We Men Storm",
+        "ISBN": "826904584087501",
+        "Genre": "Fantasy",
+        "Author": "Liam Thomas",
+        "DateAdded": "2024-11-28"
+    },
+    "182": {
+        "Book": "The War Sorrow",
+        "ISBN": "14111283277409",
+        "Genre": "Children",
+        "Author": "Ava Garcia",
+        "DateAdded": "2031-08-31"
+    },
+    "183": {
+        "Book": "A Murder Storm",
+        "ISBN": "802864346126548",
+        "Genre": "Science",
+        "Author": "Theodore Brown",
+        "DateAdded": "2029-08-20"
+    },
+    "184": {
+        "Book": "A War Ice",
+        "ISBN": "862108708105200",
+        "Genre": "Travel",
+        "Author": "Emma Martin",
+        "DateAdded": "2023-06-29"
+    },
+    "185": {
+        "Book": "We Father Legacy",
+        "ISBN": "59810778160561",
+        "Genre": "Historical fiction",
+        "Author": "Oliver Martin",
+        "DateAdded": "2028-04-30"
+    },
+    "186": {
+        "Book": "The Father Beneath",
+        "ISBN": "780588630494702",
+        "Genre": "Philosophy",
+        "Author": "Sophia Taylor",
+        "DateAdded": "2026-08-08"
+    },
+    "187": {
+        "Book": "We Plane Dragon",
+        "ISBN": "34626810255555",
+        "Genre": "Autobiography",
+        "Author": "Evelyn Smith",
+        "DateAdded": "2028-02-13"
+    },
+    "188": {
+        "Book": "A Deer Dragon",
+        "ISBN": "913813148875654",
+        "Genre": "Health/fitness",
+        "Author": "Elijah Jackson",
+        "DateAdded": "2031-12-09"
+    },
+    "189": {
+        "Book": "We Men Storm",
+        "ISBN": "127191013233903",
+        "Genre": "Art/architecture",
+        "Author": "Olivia Johnson",
+        "DateAdded": "2031-06-20"
+    },
+    "190": {
+        "Book": "A War Fire",
+        "ISBN": "744768672955253",
+        "Genre": "Encyclopedia",
+        "Author": "Benjamin Martinez",
+        "DateAdded": "2023-05-25"
+    },
+    "191": {
+        "Book": "A Never Legacy",
+        "ISBN": "863964336317511",
+        "Genre": "Coming-of-age",
+        "Author": "Isabella Martin",
+        "DateAdded": "2027-06-03"
+    },
+    "192": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "272818250079404",
+        "Genre": "Encyclopedia",
+        "Author": "Evelyn Garcia",
+        "DateAdded": "2023-02-17"
+    },
+    "193": {
+        "Book": "A Plane Blizzard",
+        "ISBN": "34617249684685",
+        "Genre": "Western",
+        "Author": "Amelia Taylor",
+        "DateAdded": "2032-01-25"
+    },
+    "194": {
+        "Book": "We Deer Legacy",
+        "ISBN": "743293441482821",
+        "Genre": "Textbook",
+        "Author": "Sophia Martin",
+        "DateAdded": "2028-10-16"
+    },
+    "195": {
+        "Book": "We Deer Beneath",
+        "ISBN": "606388337267047",
+        "Genre": "Biography",
+        "Author": "Oliver Jackson",
+        "DateAdded": "2031-12-25"
+    },
+    "196": {
+        "Book": "A Plane Storm",
+        "ISBN": "254730540829326",
+        "Genre": "Autobiography",
+        "Author": "Evelyn Jackson",
+        "DateAdded": "2027-11-01"
+    },
+    "197": {
+        "Book": "The Father Sorrow",
+        "ISBN": "505968836078164",
+        "Genre": "Drama",
+        "Author": "Emma Martin",
+        "DateAdded": "2029-06-24"
+    },
+    "198": {
+        "Book": "A Murder Beneath",
+        "ISBN": "449602452009161",
+        "Genre": "Science fiction",
+        "Author": "Isabella Martinez",
+        "DateAdded": "2023-09-01"
+    },
+    "199": {
+        "Book": "A Crime Fire",
+        "ISBN": "830791146858055",
+        "Genre": "Poetry",
+        "Author": "James Lee",
+        "DateAdded": "2029-01-16"
+    },
+    "200": {
+        "Book": "We Octopus Beneath",
+        "ISBN": "159225242446095",
+        "Genre": "Art/architecture",
+        "Author": "Henry Thomas",
+        "DateAdded": "2022-10-01"
+    },
+    "201": {
+        "Book": "We Men Ice",
+        "ISBN": "328157986540219",
+        "Genre": "Coming-of-age",
+        "Author": "Oliver Martin",
+        "DateAdded": "2031-08-27"
+    },
+    "202": {
+        "Book": "The Never Ice",
+        "ISBN": "138881155492304",
+        "Genre": "Children",
+        "Author": "Olivia Williams",
+        "DateAdded": "2031-09-02"
+    },
+    "203": {
+        "Book": "We Men Beneath",
+        "ISBN": "832128189313192",
+        "Genre": "Children",
+        "Author": "Henry Johnson",
+        "DateAdded": "2027-02-17"
+    },
+    "204": {
+        "Book": "A Father Forever",
+        "ISBN": "610335736045878",
+        "Genre": "Mystery",
+        "Author": "Evelyn Martinez",
+        "DateAdded": "2029-11-14"
+    },
+    "205": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "431231462059040",
+        "Genre": "Science",
+        "Author": "Oliver Brown",
+        "DateAdded": "2023-05-11"
+    },
+    "206": {
+        "Book": "We Crime Forever",
+        "ISBN": "402928831969674",
+        "Genre": "Horror",
+        "Author": "Isabella Moore",
+        "DateAdded": "2023-07-07"
+    },
+    "207": {
+        "Book": "A Father Blizzard",
+        "ISBN": "626772799073149",
+        "Genre": "Home and garden",
+        "Author": "Harper Moore",
+        "DateAdded": "2029-08-05"
+    },
+    "208": {
+        "Book": "We War Blizzard",
+        "ISBN": "83132906906472",
+        "Genre": "Humor",
+        "Author": "Benjamin Davis",
+        "DateAdded": "2031-03-11"
+    },
+    "209": {
+        "Book": "We Trial Ice",
+        "ISBN": "824914707887297",
+        "Genre": "Travel",
+        "Author": "Elijah Martin",
+        "DateAdded": "2022-08-30"
+    },
+    "210": {
+        "Book": "The Octopus Beneath",
+        "ISBN": "245457598872437",
+        "Genre": "Journal",
+        "Author": "Theodore Davis",
+        "DateAdded": "2029-04-20"
+    },
+    "211": {
+        "Book": "The Octopus Sorrow",
+        "ISBN": "192818596016845",
+        "Genre": "Sports",
+        "Author": "James Smith",
+        "DateAdded": "2031-09-09"
+    },
+    "212": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "758769169167717",
+        "Genre": "Drama",
+        "Author": "Olivia Miller",
+        "DateAdded": "2023-12-22"
+    },
+    "213": {
+        "Book": "We Deer Beneath",
+        "ISBN": "521375147208586",
+        "Genre": "Business/economics",
+        "Author": "James Lopez",
+        "DateAdded": "2024-11-28"
+    },
+    "214": {
+        "Book": "The Murder Fire",
+        "ISBN": "590333219831912",
+        "Genre": "Children",
+        "Author": "Emma Wilson",
+        "DateAdded": "2027-02-08"
+    },
+    "215": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "637587045845569",
+        "Genre": "Encyclopedia",
+        "Author": "Olivia Martin",
+        "DateAdded": "2025-08-24"
+    },
+    "216": {
+        "Book": "The Father Legacy",
+        "ISBN": "53973546539731",
+        "Genre": "Action and adventure",
+        "Author": "Elijah Rodriguez",
+        "DateAdded": "2026-06-09"
+    },
+    "217": {
+        "Book": "A Plane Forever",
+        "ISBN": "404805210428747",
+        "Genre": "History",
+        "Author": "Charlotte Johnson",
+        "DateAdded": "2032-05-19"
+    },
+    "218": {
+        "Book": "We Father Forever",
+        "ISBN": "161452380663778",
+        "Genre": "Drama",
+        "Author": "James Rodriguez",
+        "DateAdded": "2026-05-17"
+    },
+    "219": {
+        "Book": "The Trial Fire",
+        "ISBN": "788153423782924",
+        "Genre": "Humor",
+        "Author": "Isabella Brown",
+        "DateAdded": "2026-12-07"
+    },
+    "220": {
+        "Book": "The War Fire",
+        "ISBN": "350686428192382",
+        "Genre": "Poetry",
+        "Author": "Olivia Smith",
+        "DateAdded": "2028-07-26"
+    },
+    "221": {
+        "Book": "We Men Ice",
+        "ISBN": "966036248808081",
+        "Genre": "Classic",
+        "Author": "Noah Johnson",
+        "DateAdded": "2025-04-02"
+    },
+    "222": {
+        "Book": "We Plane Forever",
+        "ISBN": "796949802852854",
+        "Genre": "Science",
+        "Author": "Elijah Williams",
+        "DateAdded": "2028-03-26"
+    },
+    "223": {
+        "Book": "A Deer Legacy",
+        "ISBN": "33706216939049",
+        "Genre": "Horror",
+        "Author": "Oliver Smith",
+        "DateAdded": "2026-03-02"
+    },
+    "224": {
+        "Book": "The Crime Dragon",
+        "ISBN": "395627715769778",
+        "Genre": "True crime",
+        "Author": "Sophia Brown",
+        "DateAdded": "2029-04-30"
+    },
+    "225": {
+        "Book": "The Crime Storm",
+        "ISBN": "719014752391673",
+        "Genre": "Fantasy",
+        "Author": "Amelia Williams",
+        "DateAdded": "2025-08-31"
+    },
+    "226": {
+        "Book": "We Murder Ice",
+        "ISBN": "999985861571702",
+        "Genre": "Poetry",
+        "Author": "Ava Lee",
+        "DateAdded": "2027-05-07"
+    },
+    "227": {
+        "Book": "We Murder Blizzard",
+        "ISBN": "74249275486036",
+        "Genre": "Sports",
+        "Author": "Elijah Martin",
+        "DateAdded": "2032-06-16"
+    },
+    "228": {
+        "Book": "The Octopus Beneath",
+        "ISBN": "36295871261329",
+        "Genre": "Drama",
+        "Author": "Elijah Miller",
+        "DateAdded": "2022-08-17"
+    },
+    "229": {
+        "Book": "A Plane Ice",
+        "ISBN": "414696965932708",
+        "Genre": "Coming-of-age",
+        "Author": "Theodore Moore",
+        "DateAdded": "2024-09-23"
+    },
+    "230": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "587791120975715",
+        "Genre": "Encyclopedia",
+        "Author": "Theodore Taylor",
+        "DateAdded": "2027-04-21"
+    },
+    "231": {
+        "Book": "A Plane Blizzard",
+        "ISBN": "174036285563363",
+        "Genre": "Drama",
+        "Author": "Evelyn Wilson",
+        "DateAdded": "2022-08-11"
+    },
+    "232": {
+        "Book": "We Plane Dragon",
+        "ISBN": "462048183999463",
+        "Genre": "Crafts/hobbies",
+        "Author": "Noah Lopez",
+        "DateAdded": "2029-12-14"
+    },
+    "233": {
+        "Book": "We Plane Blizzard",
+        "ISBN": "49256668625361",
+        "Genre": "Art/architecture",
+        "Author": "Mia Garcia",
+        "DateAdded": "2027-08-13"
+    },
+    "234": {
+        "Book": "A Octopus Forever",
+        "ISBN": "472320768086285",
+        "Genre": "Action and adventure",
+        "Author": "Elijah Williams",
+        "DateAdded": "2028-08-13"
+    },
+    "235": {
+        "Book": "The Murder Forever",
+        "ISBN": "652602465724032",
+        "Genre": "Autobiography",
+        "Author": "William Davis",
+        "DateAdded": "2030-12-02"
+    },
+    "236": {
+        "Book": "A Murder Dragon",
+        "ISBN": "189089412805244",
+        "Genre": "Guide",
+        "Author": "Liam Wilson",
+        "DateAdded": "2031-03-13"
+    },
+    "237": {
+        "Book": "A Deer Blizzard",
+        "ISBN": "923597863470764",
+        "Genre": "Western",
+        "Author": "Noah Johnson",
+        "DateAdded": "2031-04-12"
+    },
+    "238": {
+        "Book": "We Octopus Storm",
+        "ISBN": "701814077664963",
+        "Genre": "Sports",
+        "Author": "Harper Anderson",
+        "DateAdded": "2024-10-16"
+    },
+    "239": {
+        "Book": "A Men Beneath",
+        "ISBN": "493066997604506",
+        "Genre": "Travel",
+        "Author": "Lucas Moore",
+        "DateAdded": "2031-01-10"
+    },
+    "240": {
+        "Book": "The Men Fire",
+        "ISBN": "613577001952563",
+        "Genre": "Thriller",
+        "Author": "Elijah Jones",
+        "DateAdded": "2025-08-21"
+    },
+    "241": {
+        "Book": "We Octopus Legacy",
+        "ISBN": "511536056132216",
+        "Genre": "Children",
+        "Author": "Sophia Brown",
+        "DateAdded": "2026-12-15"
+    },
+    "242": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "665144427261219",
+        "Genre": "Chick lit",
+        "Author": "Ava Williams",
+        "DateAdded": "2029-09-24"
+    },
+    "243": {
+        "Book": "The Plane Fire",
+        "ISBN": "195134422406973",
+        "Genre": "Dictionary",
+        "Author": "Sophia Garcia",
+        "DateAdded": "2023-03-19"
+    },
+    "244": {
+        "Book": "A Trial Legacy",
+        "ISBN": "801871737312452",
+        "Genre": "Alternate history",
+        "Author": "Amelia Miller",
+        "DateAdded": "2025-08-28"
+    },
+    "245": {
+        "Book": "We Father Ice",
+        "ISBN": "192424287963146",
+        "Genre": "Home and garden",
+        "Author": "Elijah Williams",
+        "DateAdded": "2024-01-18"
+    },
+    "246": {
+        "Book": "We Deer Forever",
+        "ISBN": "746761101990265",
+        "Genre": "Action and adventure",
+        "Author": "Harper Lee",
+        "DateAdded": "2028-06-07"
+    },
+    "247": {
+        "Book": "We Murder Legacy",
+        "ISBN": "74974810445469",
+        "Genre": "Coming-of-age",
+        "Author": "William Wilson",
+        "DateAdded": "2032-05-12"
+    },
+    "248": {
+        "Book": "A Never Blizzard",
+        "ISBN": "917581574761760",
+        "Genre": "Home and garden",
+        "Author": "Lucas Wilson",
+        "DateAdded": "2023-02-15"
+    },
+    "249": {
+        "Book": "We Men Dragon",
+        "ISBN": "209818057254236",
+        "Genre": "Action and adventure",
+        "Author": "Evelyn Lopez",
+        "DateAdded": "2029-04-07"
+    },
+    "250": {
+        "Book": "A Deer Forever",
+        "ISBN": "917892873105232",
+        "Genre": "Western",
+        "Author": "Liam Garcia",
+        "DateAdded": "2027-02-20"
+    },
+    "251": {
+        "Book": "The War Beneath",
+        "ISBN": "728001193740202",
+        "Genre": "Young adult",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2030-06-13"
+    },
+    "252": {
+        "Book": "A War Sorrow",
+        "ISBN": "845550127181528",
+        "Genre": "Art/architecture",
+        "Author": "Isabella Thomas",
+        "DateAdded": "2027-05-24"
+    },
+    "253": {
+        "Book": "The Trial Blizzard",
+        "ISBN": "538424102007561",
+        "Genre": "Autobiography",
+        "Author": "Charlotte Lopez",
+        "DateAdded": "2027-11-29"
+    },
+    "254": {
+        "Book": "The Plane Forever",
+        "ISBN": "173546367706080",
+        "Genre": "Business/economics",
+        "Author": "Mia Smith",
+        "DateAdded": "2022-09-06"
+    },
+    "255": {
+        "Book": "The War Blizzard",
+        "ISBN": "870547388690398",
+        "Genre": "Art/architecture",
+        "Author": "Liam Moore",
+        "DateAdded": "2022-12-29"
+    },
+    "256": {
+        "Book": "We Plane Blizzard",
+        "ISBN": "587026816575713",
+        "Genre": "Guide",
+        "Author": "Elijah Jones",
+        "DateAdded": "2032-05-26"
+    },
+    "257": {
+        "Book": "We Octopus Blizzard",
+        "ISBN": "427583700405010",
+        "Genre": "Health/fitness",
+        "Author": "Amelia Moore",
+        "DateAdded": "2023-12-12"
+    },
+    "258": {
+        "Book": "The Men Blizzard",
+        "ISBN": "544515181023416",
+        "Genre": "Biography",
+        "Author": "Olivia Smith",
+        "DateAdded": "2029-09-20"
+    },
+    "259": {
+        "Book": "We Plane Fire",
+        "ISBN": "42899842528789",
+        "Genre": "True crime",
+        "Author": "Olivia Martinez",
+        "DateAdded": "2027-05-25"
+    },
+    "260": {
+        "Book": "A Octopus Fire",
+        "ISBN": "55065822188755",
+        "Genre": "Humor",
+        "Author": "Theodore Anderson",
+        "DateAdded": "2028-10-02"
+    },
+    "261": {
+        "Book": "A Never Fire",
+        "ISBN": "143015041727567",
+        "Genre": "Historical fiction",
+        "Author": "Emma Smith",
+        "DateAdded": "2023-10-04"
+    },
+    "262": {
+        "Book": "A Father Legacy",
+        "ISBN": "835271139307699",
+        "Genre": "Thriller",
+        "Author": "Elijah Martin",
+        "DateAdded": "2030-11-17"
+    },
+    "263": {
+        "Book": "A Deer Ice",
+        "ISBN": "274272037393064",
+        "Genre": "Diary",
+        "Author": "Olivia Johnson",
+        "DateAdded": "2028-04-19"
+    },
+    "264": {
+        "Book": "A Father Dragon",
+        "ISBN": "493407513398503",
+        "Genre": "Dictionary",
+        "Author": "Charlotte Williams",
+        "DateAdded": "2028-08-25"
+    },
+    "265": {
+        "Book": "We Crime Blizzard",
+        "ISBN": "149138770620528",
+        "Genre": "Business/economics",
+        "Author": "James Martin",
+        "DateAdded": "2027-07-04"
+    },
+    "266": {
+        "Book": "A Murder Sorrow",
+        "ISBN": "687679866624152",
+        "Genre": "Coming-of-age",
+        "Author": "Henry Jackson",
+        "DateAdded": "2025-11-23"
+    },
+    "267": {
+        "Book": "A Crime Forever",
+        "ISBN": "15266128018440",
+        "Genre": "Guide",
+        "Author": "Isabella Martin",
+        "DateAdded": "2028-11-05"
+    },
+    "268": {
+        "Book": "A Deer Beneath",
+        "ISBN": "359378109038206",
+        "Genre": "Poetry",
+        "Author": "Lucas Wilson",
+        "DateAdded": "2030-09-07"
+    },
+    "269": {
+        "Book": "A Murder Fire",
+        "ISBN": "790843723351707",
+        "Genre": "Poetry",
+        "Author": "William Wilson",
+        "DateAdded": "2026-01-13"
+    },
+    "270": {
+        "Book": "We War Storm",
+        "ISBN": "138936269994382",
+        "Genre": "Philosophy",
+        "Author": "Ava Smith",
+        "DateAdded": "2025-03-25"
+    },
+    "271": {
+        "Book": "A Trial Legacy",
+        "ISBN": "43897868855602",
+        "Genre": "Comic book",
+        "Author": "Evelyn Anderson",
+        "DateAdded": "2023-05-05"
+    },
+    "272": {
+        "Book": "A Never Fire",
+        "ISBN": "455967496379463",
+        "Genre": "Cookbook",
+        "Author": "Mia Taylor",
+        "DateAdded": "2026-10-07"
+    },
+    "273": {
+        "Book": "The Deer Beneath",
+        "ISBN": "20644665563490",
+        "Genre": "Classic",
+        "Author": "Oliver Anderson",
+        "DateAdded": "2025-09-30"
+    },
+    "274": {
+        "Book": "The Plane Blizzard",
+        "ISBN": "320112258710567",
+        "Genre": "Autobiography",
+        "Author": "Olivia Martinez",
+        "DateAdded": "2027-05-13"
+    },
+    "275": {
+        "Book": "We Deer Legacy",
+        "ISBN": "814957611764213",
+        "Genre": "Autobiography",
+        "Author": "Ava Lee",
+        "DateAdded": "2028-04-06"
+    },
+    "276": {
+        "Book": "A Trial Forever",
+        "ISBN": "915625859093914",
+        "Genre": "Historical fiction",
+        "Author": "Elijah Williams",
+        "DateAdded": "2023-08-09"
+    },
+    "277": {
+        "Book": "The War Ice",
+        "ISBN": "410971131171239",
+        "Genre": "Graphic novel",
+        "Author": "Liam Brown",
+        "DateAdded": "2032-07-24"
+    },
+    "278": {
+        "Book": "We Crime Beneath",
+        "ISBN": "825898445773428",
+        "Genre": "Action and adventure",
+        "Author": "Benjamin Smith",
+        "DateAdded": "2029-10-24"
+    },
+    "279": {
+        "Book": "The Trial Sorrow",
+        "ISBN": "141991625344026",
+        "Genre": "Textbook",
+        "Author": "Emma Anderson",
+        "DateAdded": "2023-07-18"
+    },
+    "280": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "509316018451868",
+        "Genre": "Historical fiction",
+        "Author": "Benjamin Rodriguez",
+        "DateAdded": "2027-05-22"
+    },
+    "281": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "754215750639196",
+        "Genre": "Business/economics",
+        "Author": "Amelia Davis",
+        "DateAdded": "2031-04-14"
+    },
+    "282": {
+        "Book": "A Plane Beneath",
+        "ISBN": "977560579188308",
+        "Genre": "Science fiction",
+        "Author": "Lucas Johnson",
+        "DateAdded": "2027-08-16"
+    },
+    "283": {
+        "Book": "The War Sorrow",
+        "ISBN": "247147693171035",
+        "Genre": "Romance",
+        "Author": "Harper Miller",
+        "DateAdded": "2030-03-23"
+    },
+    "284": {
+        "Book": "The Never Blizzard",
+        "ISBN": "998158092732665",
+        "Genre": "Travel",
+        "Author": "Oliver Smith",
+        "DateAdded": "2027-08-04"
+    },
+    "285": {
+        "Book": "A Men Beneath",
+        "ISBN": "492448332983264",
+        "Genre": "Autobiography",
+        "Author": "Henry Wilson",
+        "DateAdded": "2028-12-18"
+    },
+    "286": {
+        "Book": "The War Fire",
+        "ISBN": "190569869618170",
+        "Genre": "Cookbook",
+        "Author": "Benjamin Williams",
+        "DateAdded": "2025-03-14"
+    },
+    "287": {
+        "Book": "The Men Storm",
+        "ISBN": "879655927398751",
+        "Genre": "Crafts/hobbies",
+        "Author": "Theodore Smith",
+        "DateAdded": "2026-07-10"
+    },
+    "288": {
+        "Book": "The Plane Beneath",
+        "ISBN": "77319201165578",
+        "Genre": "Fantasy",
+        "Author": "Emma Martinez",
+        "DateAdded": "2027-05-15"
+    },
+    "289": {
+        "Book": "A Never Fire",
+        "ISBN": "663789099270903",
+        "Genre": "Children",
+        "Author": "Theodore Moore",
+        "DateAdded": "2032-06-04"
+    },
+    "290": {
+        "Book": "A Crime Ice",
+        "ISBN": "835860550047049",
+        "Genre": "Science fiction",
+        "Author": "Sophia Jackson",
+        "DateAdded": "2028-11-05"
+    },
+    "291": {
+        "Book": "The War Sorrow",
+        "ISBN": "832996868986317",
+        "Genre": "History",
+        "Author": "Liam Taylor",
+        "DateAdded": "2028-05-13"
+    },
+    "292": {
+        "Book": "The War Dragon",
+        "ISBN": "563095308786612",
+        "Genre": "Sports",
+        "Author": "Sophia Johnson",
+        "DateAdded": "2024-10-29"
+    },
+    "293": {
+        "Book": "A War Forever",
+        "ISBN": "841675384316223",
+        "Genre": "Health/fitness",
+        "Author": "Benjamin Taylor",
+        "DateAdded": "2027-08-16"
+    },
+    "294": {
+        "Book": "A Men Blizzard",
+        "ISBN": "262001867198943",
+        "Genre": "Diary",
+        "Author": "James Thomas",
+        "DateAdded": "2030-08-14"
+    },
+    "295": {
+        "Book": "A Plane Fire",
+        "ISBN": "278555297672901",
+        "Genre": "Biography",
+        "Author": "Charlotte Rodriguez",
+        "DateAdded": "2024-10-29"
+    },
+    "296": {
+        "Book": "We Murder Fire",
+        "ISBN": "678022500867561",
+        "Genre": "Sports",
+        "Author": "Oliver Williams",
+        "DateAdded": "2029-09-23"
+    },
+    "297": {
+        "Book": "We Deer Blizzard",
+        "ISBN": "998587593494840",
+        "Genre": "Travel",
+        "Author": "Theodore Garcia",
+        "DateAdded": "2027-08-02"
+    },
+    "298": {
+        "Book": "We Octopus Forever",
+        "ISBN": "601125926066413",
+        "Genre": "True crime",
+        "Author": "Henry Johnson",
+        "DateAdded": "2029-04-26"
+    },
+    "299": {
+        "Book": "We Never Legacy",
+        "ISBN": "505141393307474",
+        "Genre": "Horror",
+        "Author": "Oliver Davis",
+        "DateAdded": "2028-11-23"
+    },
+    "300": {
+        "Book": "The Murder Blizzard",
+        "ISBN": "936720670701393",
+        "Genre": "Drama",
+        "Author": "Henry Lopez",
+        "DateAdded": "2026-05-09"
+    },
+    "301": {
+        "Book": "A War Forever",
+        "ISBN": "359458895034827",
+        "Genre": "Horror",
+        "Author": "Elijah Lopez",
+        "DateAdded": "2032-02-08"
+    },
+    "302": {
+        "Book": "A Men Forever",
+        "ISBN": "547303518953758",
+        "Genre": "Encyclopedia",
+        "Author": "William Wilson",
+        "DateAdded": "2031-06-04"
+    },
+    "303": {
+        "Book": "A Trial Blizzard",
+        "ISBN": "270224295526271",
+        "Genre": "Diary",
+        "Author": "Amelia Jackson",
+        "DateAdded": "2031-01-31"
+    },
+    "304": {
+        "Book": "The Octopus Beneath",
+        "ISBN": "934473901628951",
+        "Genre": "Biography",
+        "Author": "Ava Wilson",
+        "DateAdded": "2025-07-03"
+    },
+    "305": {
+        "Book": "The Plane Storm",
+        "ISBN": "485424791701669",
+        "Genre": "Classic",
+        "Author": "Emma Brown",
+        "DateAdded": "2028-03-27"
+    },
+    "306": {
+        "Book": "The Plane Fire",
+        "ISBN": "832115739017530",
+        "Genre": "Cookbook",
+        "Author": "Elijah Johnson",
+        "DateAdded": "2027-05-24"
+    },
+    "307": {
+        "Book": "The Octopus Fire",
+        "ISBN": "916270745746130",
+        "Genre": "Chick lit",
+        "Author": "Evelyn Martin",
+        "DateAdded": "2022-09-13"
+    },
+    "308": {
+        "Book": "The Trial Beneath",
+        "ISBN": "59792737670065",
+        "Genre": "Guide",
+        "Author": "Ava Rodriguez",
+        "DateAdded": "2029-09-05"
+    },
+    "309": {
+        "Book": "We Crime Legacy",
+        "ISBN": "921514896958151",
+        "Genre": "Philosophy",
+        "Author": "Ava Davis",
+        "DateAdded": "2022-07-27"
+    },
+    "310": {
+        "Book": "The Never Fire",
+        "ISBN": "436527620681590",
+        "Genre": "Encyclopedia",
+        "Author": "Liam Martinez",
+        "DateAdded": "2029-08-23"
+    },
+    "311": {
+        "Book": "We War Sorrow",
+        "ISBN": "623019363808470",
+        "Genre": "Textbook",
+        "Author": "William Wilson",
+        "DateAdded": "2029-09-25"
+    },
+    "312": {
+        "Book": "A Never Fire",
+        "ISBN": "52178896378932",
+        "Genre": "Horror",
+        "Author": "Oliver Wilson",
+        "DateAdded": "2024-02-06"
+    },
+    "313": {
+        "Book": "A War Sorrow",
+        "ISBN": "232650555969275",
+        "Genre": "Dictionary",
+        "Author": "Mia Anderson",
+        "DateAdded": "2025-07-01"
+    },
+    "314": {
+        "Book": "We Deer Dragon",
+        "ISBN": "950630483932627",
+        "Genre": "Business/economics",
+        "Author": "William Wilson",
+        "DateAdded": "2030-09-03"
+    },
+    "315": {
+        "Book": "A Men Sorrow",
+        "ISBN": "36532724440254",
+        "Genre": "Cookbook",
+        "Author": "Liam Taylor",
+        "DateAdded": "2031-06-10"
+    },
+    "316": {
+        "Book": "We Deer Legacy",
+        "ISBN": "604065012241853",
+        "Genre": "History",
+        "Author": "Lucas Brown",
+        "DateAdded": "2029-03-16"
+    },
+    "317": {
+        "Book": "We Never Forever",
+        "ISBN": "196405532434193",
+        "Genre": "Autobiography",
+        "Author": "Oliver Smith",
+        "DateAdded": "2030-01-07"
+    },
+    "318": {
+        "Book": "We Murder Fire",
+        "ISBN": "575914173640583",
+        "Genre": "Home and garden",
+        "Author": "Mia Anderson",
+        "DateAdded": "2024-03-30"
+    },
+    "319": {
+        "Book": "The Murder Beneath",
+        "ISBN": "727859461643992",
+        "Genre": "Thriller",
+        "Author": "Isabella Thomas",
+        "DateAdded": "2028-10-03"
+    },
+    "320": {
+        "Book": "The Trial Storm",
+        "ISBN": "848486609301209",
+        "Genre": "Young adult",
+        "Author": "James Williams",
+        "DateAdded": "2024-12-14"
+    },
+    "321": {
+        "Book": "The Octopus Forever",
+        "ISBN": "650681873720496",
+        "Genre": "Crafts/hobbies",
+        "Author": "James Brown",
+        "DateAdded": "2025-09-04"
+    },
+    "322": {
+        "Book": "A Trial Forever",
+        "ISBN": "846169365433780",
+        "Genre": "Guide",
+        "Author": "Amelia Johnson",
+        "DateAdded": "2023-11-18"
+    },
+    "323": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "631257937121358",
+        "Genre": "Philosophy",
+        "Author": "Evelyn Lopez",
+        "DateAdded": "2022-11-17"
+    },
+    "324": {
+        "Book": "We Never Fire",
+        "ISBN": "160306141786058",
+        "Genre": "Drama",
+        "Author": "Harper Wilson",
+        "DateAdded": "2029-05-17"
+    },
+    "325": {
+        "Book": "The War Ice",
+        "ISBN": "383840043966264",
+        "Genre": "Autobiography",
+        "Author": "Evelyn Davis",
+        "DateAdded": "2029-12-07"
+    },
+    "326": {
+        "Book": "We Trial Fire",
+        "ISBN": "885244052239598",
+        "Genre": "Romance",
+        "Author": "Charlotte Williams",
+        "DateAdded": "2031-12-28"
+    },
+    "327": {
+        "Book": "A Trial Legacy",
+        "ISBN": "744761552759743",
+        "Genre": "Home and garden",
+        "Author": "Olivia Jackson",
+        "DateAdded": "2028-04-10"
+    },
+    "328": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "155578716863115",
+        "Genre": "Historical fiction",
+        "Author": "William Smith",
+        "DateAdded": "2023-12-28"
+    },
+    "329": {
+        "Book": "The Octopus Legacy",
+        "ISBN": "779329733635601",
+        "Genre": "Historical fiction",
+        "Author": "Oliver Martinez",
+        "DateAdded": "2026-12-12"
+    },
+    "330": {
+        "Book": "We Men Sorrow",
+        "ISBN": "270977239347503",
+        "Genre": "Coming-of-age",
+        "Author": "Noah Davis",
+        "DateAdded": "2024-12-06"
+    },
+    "331": {
+        "Book": "A Father Blizzard",
+        "ISBN": "224259708971430",
+        "Genre": "Travel",
+        "Author": "Lucas Brown",
+        "DateAdded": "2031-03-25"
+    },
+    "332": {
+        "Book": "A Plane Legacy",
+        "ISBN": "472051892140207",
+        "Genre": "Mystery",
+        "Author": "Theodore Rodriguez",
+        "DateAdded": "2031-03-07"
+    },
+    "333": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "8121155181793",
+        "Genre": "History",
+        "Author": "Sophia Miller",
+        "DateAdded": "2029-04-29"
+    },
+    "334": {
+        "Book": "A Octopus Storm",
+        "ISBN": "700461043145723",
+        "Genre": "Autobiography",
+        "Author": "Charlotte Garcia",
+        "DateAdded": "2031-09-07"
+    },
+    "335": {
+        "Book": "We Father Storm",
+        "ISBN": "935582880859592",
+        "Genre": "Western",
+        "Author": "Olivia Smith",
+        "DateAdded": "2026-05-16"
+    },
+    "336": {
+        "Book": "The Octopus Fire",
+        "ISBN": "484043270374865",
+        "Genre": "Poetry",
+        "Author": "Emma Williams",
+        "DateAdded": "2023-08-09"
+    },
+    "337": {
+        "Book": "We Murder Dragon",
+        "ISBN": "21057197589013",
+        "Genre": "Guide",
+        "Author": "Mia Lee",
+        "DateAdded": "2026-11-08"
+    },
+    "338": {
+        "Book": "A Men Storm",
+        "ISBN": "940117727022692",
+        "Genre": "Biography",
+        "Author": "Noah Moore",
+        "DateAdded": "2032-02-27"
+    },
+    "339": {
+        "Book": "A Octopus Fire",
+        "ISBN": "676150160641510",
+        "Genre": "Science fiction",
+        "Author": "William Taylor",
+        "DateAdded": "2025-01-27"
+    },
+    "340": {
+        "Book": "A Men Storm",
+        "ISBN": "939772565206165",
+        "Genre": "Children",
+        "Author": "Emma Jones",
+        "DateAdded": "2030-06-14"
+    },
+    "341": {
+        "Book": "We Men Fire",
+        "ISBN": "622349974027873",
+        "Genre": "Children",
+        "Author": "Amelia Moore",
+        "DateAdded": "2027-03-02"
+    },
+    "342": {
+        "Book": "The Trial Beneath",
+        "ISBN": "458184698488977",
+        "Genre": "Philosophy",
+        "Author": "Isabella Martin",
+        "DateAdded": "2030-01-07"
+    },
+    "343": {
+        "Book": "A Crime Ice",
+        "ISBN": "869867214628796",
+        "Genre": "Chick lit",
+        "Author": "Liam Miller",
+        "DateAdded": "2029-10-16"
+    },
+    "344": {
+        "Book": "We Father Ice",
+        "ISBN": "92021267444391",
+        "Genre": "Mystery",
+        "Author": "Oliver Lopez",
+        "DateAdded": "2024-06-08"
+    },
+    "345": {
+        "Book": "A Trial Beneath",
+        "ISBN": "380913471383816",
+        "Genre": "Historical fiction",
+        "Author": "James Brown",
+        "DateAdded": "2028-07-06"
+    },
+    "346": {
+        "Book": "The Deer Blizzard",
+        "ISBN": "669852497813434",
+        "Genre": "Chick lit",
+        "Author": "Charlotte Taylor",
+        "DateAdded": "2023-07-12"
+    },
+    "347": {
+        "Book": "We Plane Fire",
+        "ISBN": "502975071822269",
+        "Genre": "Thriller",
+        "Author": "Charlotte Garcia",
+        "DateAdded": "2026-12-15"
+    },
+    "348": {
+        "Book": "We Men Fire",
+        "ISBN": "316537227658440",
+        "Genre": "Home and garden",
+        "Author": "Noah Anderson",
+        "DateAdded": "2027-04-14"
+    },
+    "349": {
+        "Book": "We Octopus Ice",
+        "ISBN": "582032853604049",
+        "Genre": "Historical fiction",
+        "Author": "Noah Williams",
+        "DateAdded": "2030-03-12"
+    },
+    "350": {
+        "Book": "A Father Forever",
+        "ISBN": "232696729717023",
+        "Genre": "Autobiography",
+        "Author": "Isabella Garcia",
+        "DateAdded": "2032-01-22"
+    },
+    "351": {
+        "Book": "The Never Ice",
+        "ISBN": "230311102497231",
+        "Genre": "Biography",
+        "Author": "Harper Garcia",
+        "DateAdded": "2026-09-16"
+    },
+    "352": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "936628808322048",
+        "Genre": "Children",
+        "Author": "Elijah Martin",
+        "DateAdded": "2022-08-08"
+    },
+    "353": {
+        "Book": "We War Ice",
+        "ISBN": "337930707455429",
+        "Genre": "Anthology",
+        "Author": "Theodore Jackson",
+        "DateAdded": "2027-03-08"
+    },
+    "354": {
+        "Book": "We Murder Forever",
+        "ISBN": "173172670201825",
+        "Genre": "Poetry",
+        "Author": "Benjamin Miller",
+        "DateAdded": "2028-04-12"
+    },
+    "355": {
+        "Book": "The Crime Ice",
+        "ISBN": "336435443682694",
+        "Genre": "Diary",
+        "Author": "Henry Anderson",
+        "DateAdded": "2026-02-14"
+    },
+    "356": {
+        "Book": "The Deer Storm",
+        "ISBN": "218164946151433",
+        "Genre": "Philosophy",
+        "Author": "Lucas Moore",
+        "DateAdded": "2028-02-09"
+    },
+    "357": {
+        "Book": "We Crime Storm",
+        "ISBN": "4419656292998",
+        "Genre": "Chick lit",
+        "Author": "Lucas Rodriguez",
+        "DateAdded": "2022-10-13"
+    },
+    "358": {
+        "Book": "A Never Beneath",
+        "ISBN": "117962637396412",
+        "Genre": "Chick lit",
+        "Author": "Henry Taylor",
+        "DateAdded": "2028-05-27"
+    },
+    "359": {
+        "Book": "We Deer Ice",
+        "ISBN": "900900674125478",
+        "Genre": "Chick lit",
+        "Author": "Evelyn Rodriguez",
+        "DateAdded": "2030-12-16"
+    },
+    "360": {
+        "Book": "A Murder Beneath",
+        "ISBN": "433130053508874",
+        "Genre": "Cookbook",
+        "Author": "Amelia Moore",
+        "DateAdded": "2031-04-27"
+    },
+    "361": {
+        "Book": "We Trial Forever",
+        "ISBN": "496613749985735",
+        "Genre": "Diary",
+        "Author": "Emma Davis",
+        "DateAdded": "2023-07-04"
+    },
+    "362": {
+        "Book": "We Father Sorrow",
+        "ISBN": "725835578728759",
+        "Genre": "Romance",
+        "Author": "Elijah Miller",
+        "DateAdded": "2025-01-02"
+    },
+    "363": {
+        "Book": "The Father Sorrow",
+        "ISBN": "911114034904130",
+        "Genre": "True crime",
+        "Author": "William Jones",
+        "DateAdded": "2027-07-28"
+    },
+    "364": {
+        "Book": "A Crime Dragon",
+        "ISBN": "650228512905832",
+        "Genre": "Romance",
+        "Author": "Mia Miller",
+        "DateAdded": "2030-09-03"
+    },
+    "365": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "302567428468527",
+        "Genre": "Horror",
+        "Author": "Emma Taylor",
+        "DateAdded": "2029-03-29"
+    },
+    "366": {
+        "Book": "We Father Ice",
+        "ISBN": "226221595265045",
+        "Genre": "Philosophy",
+        "Author": "Ava Thomas",
+        "DateAdded": "2030-04-22"
+    },
+    "367": {
+        "Book": "The Plane Blizzard",
+        "ISBN": "971526200437841",
+        "Genre": "Crafts/hobbies",
+        "Author": "Emma Moore",
+        "DateAdded": "2028-03-27"
+    },
+    "368": {
+        "Book": "The Trial Fire",
+        "ISBN": "780029741904268",
+        "Genre": "Health/fitness",
+        "Author": "Amelia Taylor",
+        "DateAdded": "2028-12-17"
+    },
+    "369": {
+        "Book": "We Plane Storm",
+        "ISBN": "963214432504838",
+        "Genre": "Anthology",
+        "Author": "James Miller",
+        "DateAdded": "2027-08-19"
+    },
+    "370": {
+        "Book": "A Plane Legacy",
+        "ISBN": "575818933584689",
+        "Genre": "Comic book",
+        "Author": "Charlotte Lopez",
+        "DateAdded": "2030-10-31"
+    },
+    "371": {
+        "Book": "The War Fire",
+        "ISBN": "137427209173617",
+        "Genre": "Western",
+        "Author": "Liam Miller",
+        "DateAdded": "2025-08-04"
+    },
+    "372": {
+        "Book": "A Trial Sorrow",
+        "ISBN": "466590571857340",
+        "Genre": "Sports",
+        "Author": "Benjamin Johnson",
+        "DateAdded": "2022-09-20"
+    },
+    "373": {
+        "Book": "The Deer Beneath",
+        "ISBN": "731248267642659",
+        "Genre": "Anthology",
+        "Author": "Isabella Thomas",
+        "DateAdded": "2026-05-22"
+    },
+    "374": {
+        "Book": "We Father Ice",
+        "ISBN": "914543501529313",
+        "Genre": "Science",
+        "Author": "Harper Brown",
+        "DateAdded": "2030-03-07"
+    },
+    "375": {
+        "Book": "A Octopus Storm",
+        "ISBN": "916820889808561",
+        "Genre": "Mystery",
+        "Author": "Isabella Anderson",
+        "DateAdded": "2023-04-06"
+    },
+    "376": {
+        "Book": "A Murder Forever",
+        "ISBN": "902179276241624",
+        "Genre": "Coming-of-age",
+        "Author": "Liam Jackson",
+        "DateAdded": "2032-02-01"
+    },
+    "377": {
+        "Book": "The Crime Dragon",
+        "ISBN": "528192632479257",
+        "Genre": "Art/architecture",
+        "Author": "Oliver Brown",
+        "DateAdded": "2026-01-22"
+    },
+    "378": {
+        "Book": "We Crime Beneath",
+        "ISBN": "933309436906595",
+        "Genre": "Drama",
+        "Author": "Noah Jones",
+        "DateAdded": "2023-04-19"
+    },
+    "379": {
+        "Book": "The War Blizzard",
+        "ISBN": "348117280430108",
+        "Genre": "Fantasy",
+        "Author": "Lucas Jones",
+        "DateAdded": "2023-05-02"
+    },
+    "380": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "487947422383992",
+        "Genre": "Textbook",
+        "Author": "Noah Davis",
+        "DateAdded": "2023-04-01"
+    },
+    "381": {
+        "Book": "We Father Blizzard",
+        "ISBN": "95818712007217",
+        "Genre": "Autobiography",
+        "Author": "Oliver Martinez",
+        "DateAdded": "2030-01-17"
+    },
+    "382": {
+        "Book": "The Octopus Sorrow",
+        "ISBN": "996344301453393",
+        "Genre": "Graphic novel",
+        "Author": "Olivia Martin",
+        "DateAdded": "2031-07-05"
+    },
+    "383": {
+        "Book": "The Men Forever",
+        "ISBN": "19781565062878",
+        "Genre": "Philosophy",
+        "Author": "Oliver Rodriguez",
+        "DateAdded": "2031-09-30"
+    },
+    "384": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "591999491143407",
+        "Genre": "Classic",
+        "Author": "James Martinez",
+        "DateAdded": "2025-03-25"
+    },
+    "385": {
+        "Book": "The Father Forever",
+        "ISBN": "725866197212204",
+        "Genre": "Historical fiction",
+        "Author": "Isabella Wilson",
+        "DateAdded": "2026-05-29"
+    },
+    "386": {
+        "Book": "A Plane Ice",
+        "ISBN": "937899977258621",
+        "Genre": "Fantasy",
+        "Author": "Elijah Martin",
+        "DateAdded": "2022-12-20"
+    },
+    "387": {
+        "Book": "We War Storm",
+        "ISBN": "148505099827645",
+        "Genre": "Cookbook",
+        "Author": "Elijah Jackson",
+        "DateAdded": "2029-05-08"
+    },
+    "388": {
+        "Book": "We Murder Storm",
+        "ISBN": "53906197755223",
+        "Genre": "Autobiography",
+        "Author": "Elijah Rodriguez",
+        "DateAdded": "2028-08-01"
+    },
+    "389": {
+        "Book": "We Trial Legacy",
+        "ISBN": "238925595095200",
+        "Genre": "Horror",
+        "Author": "Theodore Taylor",
+        "DateAdded": "2023-11-06"
+    },
+    "390": {
+        "Book": "We Men Beneath",
+        "ISBN": "715135664541756",
+        "Genre": "Thriller",
+        "Author": "Harper Moore",
+        "DateAdded": "2025-01-23"
+    },
+    "391": {
+        "Book": "We Octopus Forever",
+        "ISBN": "819281155968016",
+        "Genre": "Mystery",
+        "Author": "Amelia Lopez",
+        "DateAdded": "2032-07-24"
+    },
+    "392": {
+        "Book": "A Octopus Blizzard",
+        "ISBN": "927462153662977",
+        "Genre": "Biography",
+        "Author": "William Moore",
+        "DateAdded": "2030-12-04"
+    },
+    "393": {
+        "Book": "We War Storm",
+        "ISBN": "238323763343801",
+        "Genre": "Dictionary",
+        "Author": "Isabella Jackson",
+        "DateAdded": "2028-10-21"
+    },
+    "394": {
+        "Book": "A Never Storm",
+        "ISBN": "819798211116789",
+        "Genre": "Alternate history",
+        "Author": "Elijah Smith",
+        "DateAdded": "2030-12-08"
+    },
+    "395": {
+        "Book": "We Trial Sorrow",
+        "ISBN": "522392090891669",
+        "Genre": "Science fiction",
+        "Author": "Amelia Lopez",
+        "DateAdded": "2023-04-15"
+    },
+    "396": {
+        "Book": "We Men Sorrow",
+        "ISBN": "746716694083151",
+        "Genre": "Home and garden",
+        "Author": "Elijah Moore",
+        "DateAdded": "2023-05-09"
+    },
+    "397": {
+        "Book": "We Never Dragon",
+        "ISBN": "383441745430858",
+        "Genre": "Guide",
+        "Author": "Charlotte Moore",
+        "DateAdded": "2024-01-15"
+    },
+    "398": {
+        "Book": "A Never Ice",
+        "ISBN": "630026708134089",
+        "Genre": "Encyclopedia",
+        "Author": "Mia Lee",
+        "DateAdded": "2031-12-05"
+    },
+    "399": {
+        "Book": "A Men Dragon",
+        "ISBN": "807577117214538",
+        "Genre": "Chick lit",
+        "Author": "Sophia Lee",
+        "DateAdded": "2024-06-16"
+    },
+    "400": {
+        "Book": "A Plane Sorrow",
+        "ISBN": "537058974694342",
+        "Genre": "Chick lit",
+        "Author": "Charlotte Anderson",
+        "DateAdded": "2028-07-28"
+    },
+    "401": {
+        "Book": "The Plane Sorrow",
+        "ISBN": "531321268471921",
+        "Genre": "Sports",
+        "Author": "Henry Rodriguez",
+        "DateAdded": "2025-10-22"
+    },
+    "402": {
+        "Book": "A Father Legacy",
+        "ISBN": "993523827768626",
+        "Genre": "Romance",
+        "Author": "Olivia Williams",
+        "DateAdded": "2028-02-20"
+    },
+    "403": {
+        "Book": "We Men Storm",
+        "ISBN": "486222899157741",
+        "Genre": "Alternate history",
+        "Author": "Olivia Brown",
+        "DateAdded": "2032-06-03"
+    },
+    "404": {
+        "Book": "A Murder Forever",
+        "ISBN": "915042980138972",
+        "Genre": "Chick lit",
+        "Author": "Amelia Johnson",
+        "DateAdded": "2030-01-29"
+    },
+    "405": {
+        "Book": "We Never Sorrow",
+        "ISBN": "856543688617441",
+        "Genre": "Comic book",
+        "Author": "Liam Smith",
+        "DateAdded": "2027-05-10"
+    },
+    "406": {
+        "Book": "A Crime Legacy",
+        "ISBN": "851082280446541",
+        "Genre": "Romance",
+        "Author": "Isabella Taylor",
+        "DateAdded": "2030-01-20"
+    },
+    "407": {
+        "Book": "The War Storm",
+        "ISBN": "159582894744207",
+        "Genre": "Health/fitness",
+        "Author": "Lucas Martin",
+        "DateAdded": "2026-09-15"
+    },
+    "408": {
+        "Book": "A Never Forever",
+        "ISBN": "390232144778439",
+        "Genre": "Thriller",
+        "Author": "Amelia Miller",
+        "DateAdded": "2028-07-30"
+    },
+    "409": {
+        "Book": "We Crime Beneath",
+        "ISBN": "687628783035832",
+        "Genre": "Science",
+        "Author": "William Lee",
+        "DateAdded": "2030-04-06"
+    },
+    "410": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "524743052518294",
+        "Genre": "Business/economics",
+        "Author": "Theodore Martin",
+        "DateAdded": "2024-01-19"
+    },
+    "411": {
+        "Book": "We Father Storm",
+        "ISBN": "680043515830898",
+        "Genre": "Coming-of-age",
+        "Author": "Oliver Garcia",
+        "DateAdded": "2029-02-10"
+    },
+    "412": {
+        "Book": "We Octopus Forever",
+        "ISBN": "565945415852204",
+        "Genre": "Guide",
+        "Author": "Emma Moore",
+        "DateAdded": "2030-08-04"
+    },
+    "413": {
+        "Book": "A Father Beneath",
+        "ISBN": "821846295889894",
+        "Genre": "History",
+        "Author": "William Brown",
+        "DateAdded": "2029-08-24"
+    },
+    "414": {
+        "Book": "A War Dragon",
+        "ISBN": "299837554690501",
+        "Genre": "Science fiction",
+        "Author": "Evelyn Moore",
+        "DateAdded": "2026-01-11"
+    },
+    "415": {
+        "Book": "A Deer Legacy",
+        "ISBN": "400691596686977",
+        "Genre": "Comic book",
+        "Author": "Isabella Martinez",
+        "DateAdded": "2023-03-24"
+    },
+    "416": {
+        "Book": "We Deer Fire",
+        "ISBN": "608122174981064",
+        "Genre": "Romance",
+        "Author": "Theodore Johnson",
+        "DateAdded": "2023-11-16"
+    },
+    "417": {
+        "Book": "We Plane Dragon",
+        "ISBN": "894980840914004",
+        "Genre": "Comic book",
+        "Author": "Harper Davis",
+        "DateAdded": "2023-05-20"
+    },
+    "418": {
+        "Book": "A Men Beneath",
+        "ISBN": "543887068280533",
+        "Genre": "Young adult",
+        "Author": "Ava Jones",
+        "DateAdded": "2023-07-31"
+    },
+    "419": {
+        "Book": "A Crime Forever",
+        "ISBN": "512915699937951",
+        "Genre": "Cookbook",
+        "Author": "Ava Williams",
+        "DateAdded": "2023-07-11"
+    },
+    "420": {
+        "Book": "We Murder Blizzard",
+        "ISBN": "166802591215022",
+        "Genre": "Biography",
+        "Author": "William Smith",
+        "DateAdded": "2024-11-14"
+    },
+    "421": {
+        "Book": "We Deer Legacy",
+        "ISBN": "400011313908990",
+        "Genre": "Guide",
+        "Author": "Benjamin Johnson",
+        "DateAdded": "2027-09-13"
+    },
+    "422": {
+        "Book": "A War Blizzard",
+        "ISBN": "905928563230355",
+        "Genre": "Western",
+        "Author": "Elijah Smith",
+        "DateAdded": "2025-01-22"
+    },
+    "423": {
+        "Book": "A Trial Legacy",
+        "ISBN": "449978365776438",
+        "Genre": "Textbook",
+        "Author": "Theodore Taylor",
+        "DateAdded": "2023-11-29"
+    },
+    "424": {
+        "Book": "A Crime Blizzard",
+        "ISBN": "900246029980948",
+        "Genre": "Encyclopedia",
+        "Author": "William Lee",
+        "DateAdded": "2032-04-14"
+    },
+    "425": {
+        "Book": "We Murder Legacy",
+        "ISBN": "196952266526765",
+        "Genre": "Historical fiction",
+        "Author": "Elijah Johnson",
+        "DateAdded": "2032-05-01"
+    },
+    "426": {
+        "Book": "A Trial Blizzard",
+        "ISBN": "921372117712568",
+        "Genre": "Drama",
+        "Author": "Amelia Jones",
+        "DateAdded": "2028-08-27"
+    },
+    "427": {
+        "Book": "A Trial Fire",
+        "ISBN": "387514043819760",
+        "Genre": "Cookbook",
+        "Author": "Sophia Jones",
+        "DateAdded": "2029-09-19"
+    },
+    "428": {
+        "Book": "The Octopus Forever",
+        "ISBN": "348421175747930",
+        "Genre": "Historical fiction",
+        "Author": "Sophia Brown",
+        "DateAdded": "2032-06-30"
+    },
+    "429": {
+        "Book": "A Trial Legacy",
+        "ISBN": "308950249270149",
+        "Genre": "Drama",
+        "Author": "Henry Anderson",
+        "DateAdded": "2026-12-30"
+    },
+    "430": {
+        "Book": "A Never Beneath",
+        "ISBN": "332345414139658",
+        "Genre": "Poetry",
+        "Author": "Charlotte Lopez",
+        "DateAdded": "2028-11-14"
+    },
+    "431": {
+        "Book": "The Deer Dragon",
+        "ISBN": "350908287039824",
+        "Genre": "Biography",
+        "Author": "James Jones",
+        "DateAdded": "2026-02-24"
+    },
+    "432": {
+        "Book": "A Murder Legacy",
+        "ISBN": "188141318771720",
+        "Genre": "Dictionary",
+        "Author": "Mia Thomas",
+        "DateAdded": "2030-09-23"
+    },
+    "433": {
+        "Book": "The Octopus Storm",
+        "ISBN": "58788701183386",
+        "Genre": "Alternate history",
+        "Author": "Evelyn Martinez",
+        "DateAdded": "2027-11-27"
+    },
+    "434": {
+        "Book": "A Trial Legacy",
+        "ISBN": "838513136577564",
+        "Genre": "Fantasy",
+        "Author": "Lucas Davis",
+        "DateAdded": "2027-10-01"
+    },
+    "435": {
+        "Book": "A Deer Beneath",
+        "ISBN": "89507007936209",
+        "Genre": "Health/fitness",
+        "Author": "Benjamin Lopez",
+        "DateAdded": "2030-03-25"
+    },
+    "436": {
+        "Book": "A War Storm",
+        "ISBN": "831530922715730",
+        "Genre": "Biography",
+        "Author": "Elijah Thomas",
+        "DateAdded": "2022-09-25"
+    },
+    "437": {
+        "Book": "We Octopus Sorrow",
+        "ISBN": "269243265779347",
+        "Genre": "Alternate history",
+        "Author": "Noah Taylor",
+        "DateAdded": "2026-10-14"
+    },
+    "438": {
+        "Book": "The War Beneath",
+        "ISBN": "46599443722874",
+        "Genre": "Art/architecture",
+        "Author": "Ava Thomas",
+        "DateAdded": "2028-10-19"
+    },
+    "439": {
+        "Book": "We Murder Forever",
+        "ISBN": "613855180459121",
+        "Genre": "Mystery",
+        "Author": "Lucas Martin",
+        "DateAdded": "2032-06-07"
+    },
+    "440": {
+        "Book": "We War Dragon",
+        "ISBN": "815532598423281",
+        "Genre": "Poetry",
+        "Author": "Isabella Smith",
+        "DateAdded": "2024-03-01"
+    },
+    "441": {
+        "Book": "We Father Storm",
+        "ISBN": "187623080123653",
+        "Genre": "Crime",
+        "Author": "Lucas Anderson",
+        "DateAdded": "2032-04-15"
+    },
+    "442": {
+        "Book": "A Plane Storm",
+        "ISBN": "853719050117996",
+        "Genre": "Horror",
+        "Author": "Charlotte Williams",
+        "DateAdded": "2029-07-21"
+    },
+    "443": {
+        "Book": "We War Forever",
+        "ISBN": "806775634491080",
+        "Genre": "Sports",
+        "Author": "Ava Lee",
+        "DateAdded": "2023-08-16"
+    },
+    "444": {
+        "Book": "We Octopus Blizzard",
+        "ISBN": "974033252793223",
+        "Genre": "Dictionary",
+        "Author": "Amelia Rodriguez",
+        "DateAdded": "2031-03-24"
+    },
+    "445": {
+        "Book": "A Trial Beneath",
+        "ISBN": "740118873384585",
+        "Genre": "Encyclopedia",
+        "Author": "Lucas Jackson",
+        "DateAdded": "2027-12-21"
+    },
+    "446": {
+        "Book": "We Deer Fire",
+        "ISBN": "23050026355983",
+        "Genre": "Comic book",
+        "Author": "Oliver Johnson",
+        "DateAdded": "2028-10-24"
+    },
+    "447": {
+        "Book": "A Deer Legacy",
+        "ISBN": "165037742547526",
+        "Genre": "True crime",
+        "Author": "Elijah Taylor",
+        "DateAdded": "2023-06-13"
+    },
+    "448": {
+        "Book": "We Trial Legacy",
+        "ISBN": "823329839234207",
+        "Genre": "Horror",
+        "Author": "Lucas Rodriguez",
+        "DateAdded": "2031-06-26"
+    },
+    "449": {
+        "Book": "A Never Legacy",
+        "ISBN": "183464784995908",
+        "Genre": "Comic book",
+        "Author": "Lucas Martinez",
+        "DateAdded": "2025-11-27"
+    },
+    "450": {
+        "Book": "A Deer Forever",
+        "ISBN": "567120780187681",
+        "Genre": "Drama",
+        "Author": "Charlotte Miller",
+        "DateAdded": "2024-03-15"
+    },
+    "451": {
+        "Book": "A Deer Beneath",
+        "ISBN": "319914897200339",
+        "Genre": "Journal",
+        "Author": "Sophia Martin",
+        "DateAdded": "2030-01-19"
+    },
+    "452": {
+        "Book": "The Trial Dragon",
+        "ISBN": "451732114296479",
+        "Genre": "Textbook",
+        "Author": "Isabella Martinez",
+        "DateAdded": "2023-09-13"
+    },
+    "453": {
+        "Book": "The Plane Ice",
+        "ISBN": "993077706136543",
+        "Genre": "Science",
+        "Author": "Lucas Jackson",
+        "DateAdded": "2027-10-16"
+    },
+    "454": {
+        "Book": "We Octopus Storm",
+        "ISBN": "382186021729822",
+        "Genre": "Action and adventure",
+        "Author": "Harper Martin",
+        "DateAdded": "2029-01-07"
+    },
+    "455": {
+        "Book": "The Father Sorrow",
+        "ISBN": "871996958537354",
+        "Genre": "Thriller",
+        "Author": "Benjamin Miller",
+        "DateAdded": "2026-11-26"
+    },
+    "456": {
+        "Book": "The Men Sorrow",
+        "ISBN": "44299909076094",
+        "Genre": "Guide",
+        "Author": "Liam Miller",
+        "DateAdded": "2026-10-19"
+    },
+    "457": {
+        "Book": "The Octopus Storm",
+        "ISBN": "899072612690290",
+        "Genre": "Drama",
+        "Author": "Harper Thomas",
+        "DateAdded": "2025-02-15"
+    },
+    "458": {
+        "Book": "We Murder Legacy",
+        "ISBN": "937351195922183",
+        "Genre": "Business/economics",
+        "Author": "Isabella Taylor",
+        "DateAdded": "2027-12-03"
+    },
+    "459": {
+        "Book": "We Never Beneath",
+        "ISBN": "754841845407382",
+        "Genre": "Home and garden",
+        "Author": "Elijah Lee",
+        "DateAdded": "2025-07-25"
+    },
+    "460": {
+        "Book": "A Deer Blizzard",
+        "ISBN": "411585841814994",
+        "Genre": "Guide",
+        "Author": "Amelia Smith",
+        "DateAdded": "2029-04-25"
+    },
+    "461": {
+        "Book": "We Deer Sorrow",
+        "ISBN": "490944045192735",
+        "Genre": "Poetry",
+        "Author": "Harper Lopez",
+        "DateAdded": "2023-05-28"
+    },
+    "462": {
+        "Book": "The Octopus Beneath",
+        "ISBN": "385305855929236",
+        "Genre": "Sports",
+        "Author": "Evelyn Martinez",
+        "DateAdded": "2024-12-24"
+    },
+    "463": {
+        "Book": "The Father Blizzard",
+        "ISBN": "895740453471037",
+        "Genre": "Alternate history",
+        "Author": "Isabella Thomas",
+        "DateAdded": "2028-08-23"
+    },
+    "464": {
+        "Book": "A Deer Ice",
+        "ISBN": "719485780208477",
+        "Genre": "Classic",
+        "Author": "Ava Anderson",
+        "DateAdded": "2023-08-05"
+    },
+    "465": {
+        "Book": "A Crime Beneath",
+        "ISBN": "931062349388020",
+        "Genre": "Home and garden",
+        "Author": "Theodore Lopez",
+        "DateAdded": "2029-08-01"
+    },
+    "466": {
+        "Book": "A Murder Legacy",
+        "ISBN": "841429135573192",
+        "Genre": "Travel",
+        "Author": "Charlotte Smith",
+        "DateAdded": "2028-01-29"
+    },
+    "467": {
+        "Book": "We Father Beneath",
+        "ISBN": "768840832101402",
+        "Genre": "Drama",
+        "Author": "Sophia Rodriguez",
+        "DateAdded": "2030-09-26"
+    },
+    "468": {
+        "Book": "The Father Dragon",
+        "ISBN": "106583930140005",
+        "Genre": "History",
+        "Author": "Olivia Anderson",
+        "DateAdded": "2026-12-08"
+    },
+    "469": {
+        "Book": "A Trial Storm",
+        "ISBN": "579471802921290",
+        "Genre": "Coming-of-age",
+        "Author": "Emma Jones",
+        "DateAdded": "2029-11-14"
+    },
+    "470": {
+        "Book": "The War Blizzard",
+        "ISBN": "585729768103101",
+        "Genre": "Autobiography",
+        "Author": "Theodore Moore",
+        "DateAdded": "2024-09-02"
+    },
+    "471": {
+        "Book": "A War Forever",
+        "ISBN": "385737752471788",
+        "Genre": "Health/fitness",
+        "Author": "Oliver Miller",
+        "DateAdded": "2031-07-18"
+    },
+    "472": {
+        "Book": "A Men Beneath",
+        "ISBN": "858041183460961",
+        "Genre": "Science",
+        "Author": "Isabella Anderson",
+        "DateAdded": "2023-09-24"
+    },
+    "473": {
+        "Book": "A Murder Legacy",
+        "ISBN": "579505671770059",
+        "Genre": "Thriller",
+        "Author": "Isabella Lopez",
+        "DateAdded": "2028-07-01"
+    },
+    "474": {
+        "Book": "We Crime Forever",
+        "ISBN": "311641690602735",
+        "Genre": "Home and garden",
+        "Author": "Lucas Williams",
+        "DateAdded": "2026-12-23"
+    },
+    "475": {
+        "Book": "A Murder Legacy",
+        "ISBN": "910874700525837",
+        "Genre": "Historical fiction",
+        "Author": "Isabella Thomas",
+        "DateAdded": "2025-07-17"
+    },
+    "476": {
+        "Book": "We Murder Ice",
+        "ISBN": "983938383837471",
+        "Genre": "Drama",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2031-06-28"
+    },
+    "477": {
+        "Book": "We Father Dragon",
+        "ISBN": "912960491120429",
+        "Genre": "Dictionary",
+        "Author": "Olivia Miller",
+        "DateAdded": "2030-06-23"
+    },
+    "478": {
+        "Book": "The Deer Ice",
+        "ISBN": "798045227777239",
+        "Genre": "Textbook",
+        "Author": "Mia Martinez",
+        "DateAdded": "2023-01-18"
+    },
+    "479": {
+        "Book": "A Plane Dragon",
+        "ISBN": "35048261129827",
+        "Genre": "Journal",
+        "Author": "James Lee",
+        "DateAdded": "2026-08-12"
+    },
+    "480": {
+        "Book": "The Crime Ice",
+        "ISBN": "159177263407636",
+        "Genre": "Business/economics",
+        "Author": "Lucas Miller",
+        "DateAdded": "2027-03-22"
+    },
+    "481": {
+        "Book": "The War Fire",
+        "ISBN": "325848739174801",
+        "Genre": "Autobiography",
+        "Author": "Lucas Jones",
+        "DateAdded": "2026-04-08"
+    },
+    "482": {
+        "Book": "We Crime Sorrow",
+        "ISBN": "711340333917357",
+        "Genre": "Home and garden",
+        "Author": "Lucas Jones",
+        "DateAdded": "2023-01-03"
+    },
+    "483": {
+        "Book": "The Never Sorrow",
+        "ISBN": "918655807349534",
+        "Genre": "Poetry",
+        "Author": "James Taylor",
+        "DateAdded": "2024-09-04"
+    },
+    "484": {
+        "Book": "A Murder Fire",
+        "ISBN": "313707446642088",
+        "Genre": "Philosophy",
+        "Author": "Sophia Miller",
+        "DateAdded": "2029-12-12"
+    },
+    "485": {
+        "Book": "The Never Fire",
+        "ISBN": "40176359185118",
+        "Genre": "Travel",
+        "Author": "Harper Anderson",
+        "DateAdded": "2022-08-14"
+    },
+    "486": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "22832029078025",
+        "Genre": "Art/architecture",
+        "Author": "Henry Martinez",
+        "DateAdded": "2022-08-30"
+    },
+    "487": {
+        "Book": "The Deer Storm",
+        "ISBN": "912552014160368",
+        "Genre": "Biography",
+        "Author": "Amelia Garcia",
+        "DateAdded": "2025-12-11"
+    },
+    "488": {
+        "Book": "We Deer Blizzard",
+        "ISBN": "885348966639010",
+        "Genre": "Fantasy",
+        "Author": "Amelia Rodriguez",
+        "DateAdded": "2025-02-13"
+    },
+    "489": {
+        "Book": "The Plane Dragon",
+        "ISBN": "999484931317419",
+        "Genre": "Fantasy",
+        "Author": "Theodore Jones",
+        "DateAdded": "2022-08-15"
+    },
+    "490": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "912634276775629",
+        "Genre": "Science",
+        "Author": "Elijah Martin",
+        "DateAdded": "2030-03-21"
+    },
+    "491": {
+        "Book": "The Murder Fire",
+        "ISBN": "261535850954424",
+        "Genre": "Crafts/hobbies",
+        "Author": "Noah Brown",
+        "DateAdded": "2024-02-13"
+    },
+    "492": {
+        "Book": "The War Blizzard",
+        "ISBN": "691475959179756",
+        "Genre": "Crime",
+        "Author": "Lucas Brown",
+        "DateAdded": "2024-10-21"
+    },
+    "493": {
+        "Book": "A Father Dragon",
+        "ISBN": "410922487106734",
+        "Genre": "Science",
+        "Author": "Liam Smith",
+        "DateAdded": "2031-06-05"
+    },
+    "494": {
+        "Book": "A Crime Ice",
+        "ISBN": "367815625693801",
+        "Genre": "Coming-of-age",
+        "Author": "Mia Lee",
+        "DateAdded": "2030-05-03"
+    },
+    "495": {
+        "Book": "We Octopus Forever",
+        "ISBN": "224867674282712",
+        "Genre": "Cookbook",
+        "Author": "Benjamin Martinez",
+        "DateAdded": "2024-03-07"
+    },
+    "496": {
+        "Book": "The Octopus Storm",
+        "ISBN": "870510175239542",
+        "Genre": "Home and garden",
+        "Author": "Oliver Martinez",
+        "DateAdded": "2031-07-30"
+    },
+    "497": {
+        "Book": "We Plane Forever",
+        "ISBN": "2908946567548",
+        "Genre": "Horror",
+        "Author": "Mia Garcia",
+        "DateAdded": "2028-03-02"
+    },
+    "498": {
+        "Book": "A War Blizzard",
+        "ISBN": "584124485550909",
+        "Genre": "Humor",
+        "Author": "Liam Davis",
+        "DateAdded": "2030-04-29"
+    },
+    "499": {
+        "Book": "A Trial Forever",
+        "ISBN": "120236526524778",
+        "Genre": "Horror",
+        "Author": "Amelia Garcia",
+        "DateAdded": "2029-03-15"
+    },
+    "500": {
+        "Book": "The Men Ice",
+        "ISBN": "315795566297422",
+        "Genre": "Western",
+        "Author": "Liam Jones",
+        "DateAdded": "2023-01-14"
+    },
+    "501": {
+        "Book": "We Plane Beneath",
+        "ISBN": "363196672185898",
+        "Genre": "Dictionary",
+        "Author": "Ava Williams",
+        "DateAdded": "2026-12-01"
+    },
+    "502": {
+        "Book": "A Men Blizzard",
+        "ISBN": "993933417028587",
+        "Genre": "Art/architecture",
+        "Author": "Liam Thomas",
+        "DateAdded": "2031-04-12"
+    },
+    "503": {
+        "Book": "The Father Fire",
+        "ISBN": "463423866751015",
+        "Genre": "Encyclopedia",
+        "Author": "Evelyn Martinez",
+        "DateAdded": "2024-03-24"
+    },
+    "504": {
+        "Book": "We Crime Forever",
+        "ISBN": "345608118028820",
+        "Genre": "Coming-of-age",
+        "Author": "Lucas Thomas",
+        "DateAdded": "2022-07-29"
+    },
+    "505": {
+        "Book": "A Octopus Blizzard",
+        "ISBN": "123913248978686",
+        "Genre": "Business/economics",
+        "Author": "Noah Lee",
+        "DateAdded": "2028-10-14"
+    },
+    "506": {
+        "Book": "A Crime Sorrow",
+        "ISBN": "371189511840225",
+        "Genre": "Biography",
+        "Author": "Harper Martin",
+        "DateAdded": "2023-09-15"
+    },
+    "507": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "178460276480195",
+        "Genre": "Young adult",
+        "Author": "James Moore",
+        "DateAdded": "2024-06-03"
+    },
+    "508": {
+        "Book": "A Plane Storm",
+        "ISBN": "455953587332493",
+        "Genre": "Drama",
+        "Author": "James Williams",
+        "DateAdded": "2024-12-22"
+    },
+    "509": {
+        "Book": "The War Ice",
+        "ISBN": "699279816794874",
+        "Genre": "History",
+        "Author": "Noah Taylor",
+        "DateAdded": "2028-10-23"
+    },
+    "510": {
+        "Book": "The Murder Ice",
+        "ISBN": "822711198639462",
+        "Genre": "Fantasy",
+        "Author": "Ava Taylor",
+        "DateAdded": "2031-05-24"
+    },
+    "511": {
+        "Book": "We Murder Ice",
+        "ISBN": "511672877529586",
+        "Genre": "Mystery",
+        "Author": "Oliver Rodriguez",
+        "DateAdded": "2030-11-23"
+    },
+    "512": {
+        "Book": "The Never Sorrow",
+        "ISBN": "736587494932407",
+        "Genre": "Alternate history",
+        "Author": "Olivia Jones",
+        "DateAdded": "2028-09-14"
+    },
+    "513": {
+        "Book": "A Murder Legacy",
+        "ISBN": "635752041127135",
+        "Genre": "Autobiography",
+        "Author": "Benjamin Miller",
+        "DateAdded": "2024-01-31"
+    },
+    "514": {
+        "Book": "We Trial Sorrow",
+        "ISBN": "56607460594412",
+        "Genre": "Horror",
+        "Author": "Ava Moore",
+        "DateAdded": "2027-05-28"
+    },
+    "515": {
+        "Book": "We Never Fire",
+        "ISBN": "265618844333288",
+        "Genre": "Autobiography",
+        "Author": "Theodore Williams",
+        "DateAdded": "2031-05-11"
+    },
+    "516": {
+        "Book": "A Plane Dragon",
+        "ISBN": "882055605333757",
+        "Genre": "Action and adventure",
+        "Author": "Benjamin Wilson",
+        "DateAdded": "2027-11-19"
+    },
+    "517": {
+        "Book": "The Father Beneath",
+        "ISBN": "528497057976847",
+        "Genre": "Drama",
+        "Author": "Benjamin Moore",
+        "DateAdded": "2027-02-13"
+    },
+    "518": {
+        "Book": "The Trial Sorrow",
+        "ISBN": "218161433876886",
+        "Genre": "Journal",
+        "Author": "Emma Martin",
+        "DateAdded": "2023-10-20"
+    },
+    "519": {
+        "Book": "We Father Dragon",
+        "ISBN": "548320426467510",
+        "Genre": "Humor",
+        "Author": "Sophia Taylor",
+        "DateAdded": "2028-08-06"
+    },
+    "520": {
+        "Book": "The Plane Beneath",
+        "ISBN": "683266076710801",
+        "Genre": "Sports",
+        "Author": "Elijah Brown",
+        "DateAdded": "2024-02-26"
+    },
+    "521": {
+        "Book": "A Plane Ice",
+        "ISBN": "280293677073103",
+        "Genre": "Autobiography",
+        "Author": "James Moore",
+        "DateAdded": "2024-11-10"
+    },
+    "522": {
+        "Book": "We Octopus Beneath",
+        "ISBN": "681111003193116",
+        "Genre": "Drama",
+        "Author": "Olivia Jones",
+        "DateAdded": "2030-02-13"
+    },
+    "523": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "33535901975821",
+        "Genre": "Science",
+        "Author": "Sophia Williams",
+        "DateAdded": "2024-08-21"
+    },
+    "524": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "688247721039895",
+        "Genre": "Thriller",
+        "Author": "Elijah Davis",
+        "DateAdded": "2032-03-16"
+    },
+    "525": {
+        "Book": "The Never Dragon",
+        "ISBN": "985472867613695",
+        "Genre": "Crime",
+        "Author": "Liam Jackson",
+        "DateAdded": "2023-03-30"
+    },
+    "526": {
+        "Book": "We Octopus Legacy",
+        "ISBN": "113461882135122",
+        "Genre": "Romance",
+        "Author": "Evelyn Lee",
+        "DateAdded": "2026-06-27"
+    },
+    "527": {
+        "Book": "A Plane Dragon",
+        "ISBN": "687654524949046",
+        "Genre": "Graphic novel",
+        "Author": "Emma Smith",
+        "DateAdded": "2028-08-14"
+    },
+    "528": {
+        "Book": "We Plane Blizzard",
+        "ISBN": "466080627711391",
+        "Genre": "Journal",
+        "Author": "Charlotte Brown",
+        "DateAdded": "2026-10-25"
+    },
+    "529": {
+        "Book": "A Men Blizzard",
+        "ISBN": "853074562223073",
+        "Genre": "Humor",
+        "Author": "Harper Davis",
+        "DateAdded": "2029-07-02"
+    },
+    "530": {
+        "Book": "The Murder Beneath",
+        "ISBN": "796363948985292",
+        "Genre": "Anthology",
+        "Author": "Sophia Wilson",
+        "DateAdded": "2022-09-27"
+    },
+    "531": {
+        "Book": "The Never Legacy",
+        "ISBN": "292793016557451",
+        "Genre": "Health/fitness",
+        "Author": "Mia Brown",
+        "DateAdded": "2023-08-30"
+    },
+    "532": {
+        "Book": "We Father Sorrow",
+        "ISBN": "1347173301353",
+        "Genre": "Science",
+        "Author": "Amelia Martin",
+        "DateAdded": "2027-01-04"
+    },
+    "533": {
+        "Book": "A Murder Beneath",
+        "ISBN": "10225162279761",
+        "Genre": "Historical fiction",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2024-12-14"
+    },
+    "534": {
+        "Book": "The War Blizzard",
+        "ISBN": "534814188125215",
+        "Genre": "Textbook",
+        "Author": "Olivia Martin",
+        "DateAdded": "2028-07-10"
+    },
+    "535": {
+        "Book": "We Octopus Blizzard",
+        "ISBN": "935724886706623",
+        "Genre": "Comic book",
+        "Author": "James Smith",
+        "DateAdded": "2022-11-01"
+    },
+    "536": {
+        "Book": "We Deer Storm",
+        "ISBN": "369781638578585",
+        "Genre": "Art/architecture",
+        "Author": "Mia Miller",
+        "DateAdded": "2030-01-22"
+    },
+    "537": {
+        "Book": "The Never Forever",
+        "ISBN": "768602350512954",
+        "Genre": "Alternate history",
+        "Author": "Elijah Wilson",
+        "DateAdded": "2030-07-14"
+    },
+    "538": {
+        "Book": "The War Legacy",
+        "ISBN": "777768698262918",
+        "Genre": "Anthology",
+        "Author": "Amelia Brown",
+        "DateAdded": "2029-02-04"
+    },
+    "539": {
+        "Book": "We Octopus Legacy",
+        "ISBN": "396949409037184",
+        "Genre": "Horror",
+        "Author": "James Johnson",
+        "DateAdded": "2028-04-18"
+    },
+    "540": {
+        "Book": "The Never Sorrow",
+        "ISBN": "976599079584458",
+        "Genre": "Horror",
+        "Author": "Lucas Moore",
+        "DateAdded": "2031-11-20"
+    },
+    "541": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "873581736028970",
+        "Genre": "Children",
+        "Author": "William Williams",
+        "DateAdded": "2029-06-10"
+    },
+    "542": {
+        "Book": "We Father Ice",
+        "ISBN": "487852684061855",
+        "Genre": "Graphic novel",
+        "Author": "James Martinez",
+        "DateAdded": "2028-08-15"
+    },
+    "543": {
+        "Book": "We Plane Storm",
+        "ISBN": "288383646019182",
+        "Genre": "Science fiction",
+        "Author": "Charlotte Rodriguez",
+        "DateAdded": "2026-01-16"
+    },
+    "544": {
+        "Book": "We Plane Dragon",
+        "ISBN": "239583050454013",
+        "Genre": "Biography",
+        "Author": "Isabella Jones",
+        "DateAdded": "2024-11-07"
+    },
+    "545": {
+        "Book": "We Father Forever",
+        "ISBN": "552966132265941",
+        "Genre": "Chick lit",
+        "Author": "Oliver Jackson",
+        "DateAdded": "2030-04-29"
+    },
+    "546": {
+        "Book": "We Octopus Forever",
+        "ISBN": "765349819986990",
+        "Genre": "Graphic novel",
+        "Author": "Lucas Martin",
+        "DateAdded": "2029-06-04"
+    },
+    "547": {
+        "Book": "The Father Legacy",
+        "ISBN": "176815862692956",
+        "Genre": "Western",
+        "Author": "Sophia Martinez",
+        "DateAdded": "2031-09-22"
+    },
+    "548": {
+        "Book": "A War Legacy",
+        "ISBN": "362705305179970",
+        "Genre": "Science",
+        "Author": "Olivia Jackson",
+        "DateAdded": "2024-01-17"
+    },
+    "549": {
+        "Book": "We Men Legacy",
+        "ISBN": "408912801611959",
+        "Genre": "Thriller",
+        "Author": "Amelia Rodriguez",
+        "DateAdded": "2031-07-15"
+    },
+    "550": {
+        "Book": "The Crime Forever",
+        "ISBN": "620787531179460",
+        "Genre": "Sports",
+        "Author": "Sophia Jackson",
+        "DateAdded": "2028-01-27"
+    },
+    "551": {
+        "Book": "The Men Beneath",
+        "ISBN": "312337149128408",
+        "Genre": "Coming-of-age",
+        "Author": "Oliver Williams",
+        "DateAdded": "2023-04-29"
+    },
+    "552": {
+        "Book": "A Never Sorrow",
+        "ISBN": "542969496168522",
+        "Genre": "Poetry",
+        "Author": "Benjamin Garcia",
+        "DateAdded": "2024-10-29"
+    },
+    "553": {
+        "Book": "The Men Sorrow",
+        "ISBN": "306271049186411",
+        "Genre": "Biography",
+        "Author": "Liam Jackson",
+        "DateAdded": "2025-05-17"
+    },
+    "554": {
+        "Book": "The War Fire",
+        "ISBN": "180765074460502",
+        "Genre": "Drama",
+        "Author": "Ava Williams",
+        "DateAdded": "2029-06-08"
+    },
+    "555": {
+        "Book": "A Plane Blizzard",
+        "ISBN": "831720020079447",
+        "Genre": "Thriller",
+        "Author": "Sophia Martinez",
+        "DateAdded": "2030-08-21"
+    },
+    "556": {
+        "Book": "We Deer Blizzard",
+        "ISBN": "768304070457009",
+        "Genre": "Romance",
+        "Author": "James Davis",
+        "DateAdded": "2031-03-22"
+    },
+    "557": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "326928021339510",
+        "Genre": "Coming-of-age",
+        "Author": "Oliver Taylor",
+        "DateAdded": "2022-10-29"
+    },
+    "558": {
+        "Book": "We Crime Beneath",
+        "ISBN": "934701650141177",
+        "Genre": "Western",
+        "Author": "Ava Wilson",
+        "DateAdded": "2030-05-12"
+    },
+    "559": {
+        "Book": "We Men Ice",
+        "ISBN": "786574621886574",
+        "Genre": "Health/fitness",
+        "Author": "Olivia Smith",
+        "DateAdded": "2031-01-23"
+    },
+    "560": {
+        "Book": "A Plane Sorrow",
+        "ISBN": "355376962874691",
+        "Genre": "Chick lit",
+        "Author": "Mia Williams",
+        "DateAdded": "2031-12-12"
+    },
+    "561": {
+        "Book": "We Trial Forever",
+        "ISBN": "341241985534333",
+        "Genre": "Guide",
+        "Author": "Elijah Garcia",
+        "DateAdded": "2023-09-15"
+    },
+    "562": {
+        "Book": "A Men Forever",
+        "ISBN": "610953409491150",
+        "Genre": "Crime",
+        "Author": "Isabella Wilson",
+        "DateAdded": "2027-05-09"
+    },
+    "563": {
+        "Book": "We War Fire",
+        "ISBN": "899027082707537",
+        "Genre": "Travel",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2024-02-18"
+    },
+    "564": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "166959950474119",
+        "Genre": "Chick lit",
+        "Author": "Elijah Garcia",
+        "DateAdded": "2028-12-07"
+    },
+    "565": {
+        "Book": "We Plane Forever",
+        "ISBN": "230174675981506",
+        "Genre": "Cookbook",
+        "Author": "Emma Garcia",
+        "DateAdded": "2025-02-01"
+    },
+    "566": {
+        "Book": "The Octopus Dragon",
+        "ISBN": "613913477176411",
+        "Genre": "Health/fitness",
+        "Author": "Oliver Smith",
+        "DateAdded": "2023-05-08"
+    },
+    "567": {
+        "Book": "A War Blizzard",
+        "ISBN": "462617841275661",
+        "Genre": "Historical fiction",
+        "Author": "Liam Moore",
+        "DateAdded": "2031-08-19"
+    },
+    "568": {
+        "Book": "A Never Beneath",
+        "ISBN": "849283872920716",
+        "Genre": "Art/architecture",
+        "Author": "William Smith",
+        "DateAdded": "2026-07-02"
+    },
+    "569": {
+        "Book": "We Crime Storm",
+        "ISBN": "787241516601417",
+        "Genre": "Humor",
+        "Author": "Henry Johnson",
+        "DateAdded": "2028-09-04"
+    },
+    "570": {
+        "Book": "A Crime Legacy",
+        "ISBN": "252051703660004",
+        "Genre": "Textbook",
+        "Author": "Olivia Jackson",
+        "DateAdded": "2027-01-20"
+    },
+    "571": {
+        "Book": "A Octopus Storm",
+        "ISBN": "683407873554175",
+        "Genre": "Diary",
+        "Author": "Noah Lee",
+        "DateAdded": "2031-11-06"
+    },
+    "572": {
+        "Book": "The Trial Storm",
+        "ISBN": "444072394252032",
+        "Genre": "Biography",
+        "Author": "Ava Anderson",
+        "DateAdded": "2028-08-28"
+    },
+    "573": {
+        "Book": "We Men Beneath",
+        "ISBN": "952533153222666",
+        "Genre": "Anthology",
+        "Author": "Amelia Anderson",
+        "DateAdded": "2022-09-05"
+    },
+    "574": {
+        "Book": "The Plane Dragon",
+        "ISBN": "190964950706315",
+        "Genre": "True crime",
+        "Author": "Benjamin Smith",
+        "DateAdded": "2024-02-25"
+    },
+    "575": {
+        "Book": "We Men Fire",
+        "ISBN": "492761873291928",
+        "Genre": "Crime",
+        "Author": "Harper Williams",
+        "DateAdded": "2031-05-26"
+    },
+    "576": {
+        "Book": "We Murder Blizzard",
+        "ISBN": "985660402236018",
+        "Genre": "Encyclopedia",
+        "Author": "William Martinez",
+        "DateAdded": "2023-12-03"
+    },
+    "577": {
+        "Book": "A Never Beneath",
+        "ISBN": "359154471416673",
+        "Genre": "Autobiography",
+        "Author": "William Smith",
+        "DateAdded": "2027-08-18"
+    },
+    "578": {
+        "Book": "A Father Fire",
+        "ISBN": "629436374572239",
+        "Genre": "Action and adventure",
+        "Author": "Isabella Davis",
+        "DateAdded": "2027-06-07"
+    },
+    "579": {
+        "Book": "The Plane Storm",
+        "ISBN": "564374920368758",
+        "Genre": "Anthology",
+        "Author": "Charlotte Smith",
+        "DateAdded": "2023-10-26"
+    },
+    "580": {
+        "Book": "The Father Fire",
+        "ISBN": "120460929013655",
+        "Genre": "Journal",
+        "Author": "Elijah Lopez",
+        "DateAdded": "2031-12-18"
+    },
+    "581": {
+        "Book": "The War Dragon",
+        "ISBN": "860687957905882",
+        "Genre": "True crime",
+        "Author": "Theodore Lopez",
+        "DateAdded": "2028-11-09"
+    },
+    "582": {
+        "Book": "We Father Sorrow",
+        "ISBN": "707130239622778",
+        "Genre": "Sports",
+        "Author": "Henry Martinez",
+        "DateAdded": "2024-09-07"
+    },
+    "583": {
+        "Book": "We Octopus Sorrow",
+        "ISBN": "61888749983414",
+        "Genre": "Encyclopedia",
+        "Author": "Liam Brown",
+        "DateAdded": "2025-04-12"
+    },
+    "584": {
+        "Book": "The Men Fire",
+        "ISBN": "251862761148423",
+        "Genre": "Business/economics",
+        "Author": "Oliver Davis",
+        "DateAdded": "2027-01-03"
+    },
+    "585": {
+        "Book": "We Never Legacy",
+        "ISBN": "953592971979286",
+        "Genre": "Poetry",
+        "Author": "Mia Smith",
+        "DateAdded": "2031-08-02"
+    },
+    "586": {
+        "Book": "We Octopus Forever",
+        "ISBN": "504239641495108",
+        "Genre": "Science fiction",
+        "Author": "Noah Wilson",
+        "DateAdded": "2026-08-12"
+    },
+    "587": {
+        "Book": "A Octopus Legacy",
+        "ISBN": "116176804415309",
+        "Genre": "Diary",
+        "Author": "Lucas Smith",
+        "DateAdded": "2030-10-12"
+    },
+    "588": {
+        "Book": "A Murder Sorrow",
+        "ISBN": "306741781879777",
+        "Genre": "Alternate history",
+        "Author": "Noah Wilson",
+        "DateAdded": "2029-01-24"
+    },
+    "589": {
+        "Book": "The Father Beneath",
+        "ISBN": "205597255417495",
+        "Genre": "Classic",
+        "Author": "Lucas Davis",
+        "DateAdded": "2030-01-28"
+    },
+    "590": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "378846868897001",
+        "Genre": "Mystery",
+        "Author": "Theodore Lee",
+        "DateAdded": "2030-06-13"
+    },
+    "591": {
+        "Book": "The Murder Sorrow",
+        "ISBN": "645893362577625",
+        "Genre": "True crime",
+        "Author": "Ava Davis",
+        "DateAdded": "2027-03-04"
+    },
+    "592": {
+        "Book": "We War Dragon",
+        "ISBN": "451455661391539",
+        "Genre": "Humor",
+        "Author": "Theodore Rodriguez",
+        "DateAdded": "2026-10-13"
+    },
+    "593": {
+        "Book": "We Crime Dragon",
+        "ISBN": "95256679459666",
+        "Genre": "Crafts/hobbies",
+        "Author": "Lucas Taylor",
+        "DateAdded": "2023-08-27"
+    },
+    "594": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "376995365936805",
+        "Genre": "Art/architecture",
+        "Author": "Harper Rodriguez",
+        "DateAdded": "2031-08-23"
+    },
+    "595": {
+        "Book": "The Deer Ice",
+        "ISBN": "182584343069530",
+        "Genre": "Journal",
+        "Author": "Benjamin Johnson",
+        "DateAdded": "2023-08-29"
+    },
+    "596": {
+        "Book": "We Crime Storm",
+        "ISBN": "103940139539608",
+        "Genre": "Home and garden",
+        "Author": "Elijah Jackson",
+        "DateAdded": "2023-11-12"
+    },
+    "597": {
+        "Book": "The Men Beneath",
+        "ISBN": "843343890664459",
+        "Genre": "Science",
+        "Author": "Ava Martin",
+        "DateAdded": "2024-03-20"
+    },
+    "598": {
+        "Book": "We Father Blizzard",
+        "ISBN": "278531826372311",
+        "Genre": "Children",
+        "Author": "Harper Thomas",
+        "DateAdded": "2029-03-21"
+    },
+    "599": {
+        "Book": "We Plane Ice",
+        "ISBN": "17899351413739",
+        "Genre": "Sports",
+        "Author": "James Lopez",
+        "DateAdded": "2029-10-11"
+    },
+    "600": {
+        "Book": "We Crime Storm",
+        "ISBN": "875318322604833",
+        "Genre": "Fantasy",
+        "Author": "Sophia Lopez",
+        "DateAdded": "2027-10-10"
+    },
+    "601": {
+        "Book": "The Trial Fire",
+        "ISBN": "704107120992971",
+        "Genre": "Cookbook",
+        "Author": "Amelia Smith",
+        "DateAdded": "2025-06-01"
+    },
+    "602": {
+        "Book": "We Crime Legacy",
+        "ISBN": "430778563123325",
+        "Genre": "Young adult",
+        "Author": "Liam Garcia",
+        "DateAdded": "2024-08-21"
+    },
+    "603": {
+        "Book": "A War Sorrow",
+        "ISBN": "398979816241151",
+        "Genre": "Journal",
+        "Author": "Evelyn Anderson",
+        "DateAdded": "2029-08-25"
+    },
+    "604": {
+        "Book": "A Father Dragon",
+        "ISBN": "726262240723838",
+        "Genre": "History",
+        "Author": "Evelyn Moore",
+        "DateAdded": "2027-06-27"
+    },
+    "605": {
+        "Book": "We Plane Fire",
+        "ISBN": "303151922936604",
+        "Genre": "Thriller",
+        "Author": "Noah Lee",
+        "DateAdded": "2023-01-12"
+    },
+    "606": {
+        "Book": "The Plane Blizzard",
+        "ISBN": "965291966135872",
+        "Genre": "Coming-of-age",
+        "Author": "Emma Rodriguez",
+        "DateAdded": "2025-08-19"
+    },
+    "607": {
+        "Book": "The Never Blizzard",
+        "ISBN": "413610856771294",
+        "Genre": "Philosophy",
+        "Author": "Isabella Williams",
+        "DateAdded": "2031-11-30"
+    },
+    "608": {
+        "Book": "A Never Legacy",
+        "ISBN": "952655638282478",
+        "Genre": "Business/economics",
+        "Author": "Theodore Smith",
+        "DateAdded": "2025-05-06"
+    },
+    "609": {
+        "Book": "We Father Dragon",
+        "ISBN": "6653821462836",
+        "Genre": "Fantasy",
+        "Author": "William Moore",
+        "DateAdded": "2024-01-27"
+    },
+    "610": {
+        "Book": "The War Storm",
+        "ISBN": "232483898186416",
+        "Genre": "Journal",
+        "Author": "Henry Jones",
+        "DateAdded": "2030-11-28"
+    },
+    "611": {
+        "Book": "The Father Blizzard",
+        "ISBN": "572979080894117",
+        "Genre": "Cookbook",
+        "Author": "James Johnson",
+        "DateAdded": "2025-03-08"
+    },
+    "612": {
+        "Book": "The Crime Forever",
+        "ISBN": "606442356043173",
+        "Genre": "Health/fitness",
+        "Author": "Evelyn Miller",
+        "DateAdded": "2029-11-20"
+    },
+    "613": {
+        "Book": "A Octopus Storm",
+        "ISBN": "655436143251484",
+        "Genre": "Diary",
+        "Author": "Noah Garcia",
+        "DateAdded": "2024-08-27"
+    },
+    "614": {
+        "Book": "The Men Blizzard",
+        "ISBN": "530553842082119",
+        "Genre": "Science",
+        "Author": "Theodore Moore",
+        "DateAdded": "2024-06-07"
+    },
+    "615": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "577378335287856",
+        "Genre": "Historical fiction",
+        "Author": "Oliver Jones",
+        "DateAdded": "2032-06-06"
+    },
+    "616": {
+        "Book": "We Plane Ice",
+        "ISBN": "830253945113486",
+        "Genre": "Journal",
+        "Author": "James Lopez",
+        "DateAdded": "2024-03-14"
+    },
+    "617": {
+        "Book": "A Never Fire",
+        "ISBN": "676259404365636",
+        "Genre": "Western",
+        "Author": "Theodore Williams",
+        "DateAdded": "2025-07-20"
+    },
+    "618": {
+        "Book": "The Men Dragon",
+        "ISBN": "194393396421457",
+        "Genre": "Crafts/hobbies",
+        "Author": "Henry Brown",
+        "DateAdded": "2028-05-11"
+    },
+    "619": {
+        "Book": "A Men Beneath",
+        "ISBN": "829243379202381",
+        "Genre": "Alternate history",
+        "Author": "Harper Martin",
+        "DateAdded": "2027-03-01"
+    },
+    "620": {
+        "Book": "The Men Storm",
+        "ISBN": "271542826663567",
+        "Genre": "Crafts/hobbies",
+        "Author": "William Wilson",
+        "DateAdded": "2026-08-06"
+    },
+    "621": {
+        "Book": "We Murder Dragon",
+        "ISBN": "117674581911644",
+        "Genre": "Home and garden",
+        "Author": "Liam Jackson",
+        "DateAdded": "2030-05-26"
+    },
+    "622": {
+        "Book": "A Never Blizzard",
+        "ISBN": "262584638268866",
+        "Genre": "Classic",
+        "Author": "Liam Jones",
+        "DateAdded": "2030-05-30"
+    },
+    "623": {
+        "Book": "We Trial Legacy",
+        "ISBN": "318621892058610",
+        "Genre": "True crime",
+        "Author": "Benjamin Moore",
+        "DateAdded": "2027-04-11"
+    },
+    "624": {
+        "Book": "The Father Blizzard",
+        "ISBN": "859736830230273",
+        "Genre": "Philosophy",
+        "Author": "Ava Moore",
+        "DateAdded": "2028-05-16"
+    },
+    "625": {
+        "Book": "The Deer Fire",
+        "ISBN": "326135641336525",
+        "Genre": "Autobiography",
+        "Author": "Harper Wilson",
+        "DateAdded": "2029-03-03"
+    },
+    "626": {
+        "Book": "A Deer Fire",
+        "ISBN": "67891722224773",
+        "Genre": "Classic",
+        "Author": "Charlotte Johnson",
+        "DateAdded": "2023-08-18"
+    },
+    "627": {
+        "Book": "We Never Blizzard",
+        "ISBN": "855742261208853",
+        "Genre": "Home and garden",
+        "Author": "Evelyn Smith",
+        "DateAdded": "2032-03-31"
+    },
+    "628": {
+        "Book": "A Never Fire",
+        "ISBN": "231367488981487",
+        "Genre": "Crime",
+        "Author": "Oliver Moore",
+        "DateAdded": "2022-10-30"
+    },
+    "629": {
+        "Book": "A Murder Fire",
+        "ISBN": "533275945776092",
+        "Genre": "Children",
+        "Author": "Henry Davis",
+        "DateAdded": "2031-10-21"
+    },
+    "630": {
+        "Book": "We Murder Dragon",
+        "ISBN": "418317638796629",
+        "Genre": "Art/architecture",
+        "Author": "Noah Anderson",
+        "DateAdded": "2030-11-04"
+    },
+    "631": {
+        "Book": "A Never Blizzard",
+        "ISBN": "393188511724522",
+        "Genre": "Guide",
+        "Author": "Benjamin Smith",
+        "DateAdded": "2023-06-05"
+    },
+    "632": {
+        "Book": "We War Ice",
+        "ISBN": "208092133451913",
+        "Genre": "History",
+        "Author": "Amelia Rodriguez",
+        "DateAdded": "2023-09-23"
+    },
+    "633": {
+        "Book": "The Trial Beneath",
+        "ISBN": "476470391554638",
+        "Genre": "Classic",
+        "Author": "Sophia Smith",
+        "DateAdded": "2027-02-20"
+    },
+    "634": {
+        "Book": "A Octopus Storm",
+        "ISBN": "108232653020324",
+        "Genre": "Philosophy",
+        "Author": "Amelia Smith",
+        "DateAdded": "2031-11-14"
+    },
+    "635": {
+        "Book": "A Father Beneath",
+        "ISBN": "159742763666971",
+        "Genre": "Encyclopedia",
+        "Author": "Oliver Rodriguez",
+        "DateAdded": "2027-02-04"
+    },
+    "636": {
+        "Book": "A Deer Beneath",
+        "ISBN": "591303228796272",
+        "Genre": "Fantasy",
+        "Author": "Isabella Davis",
+        "DateAdded": "2024-01-07"
+    },
+    "637": {
+        "Book": "The Never Beneath",
+        "ISBN": "816149859257951",
+        "Genre": "Historical fiction",
+        "Author": "Emma Martinez",
+        "DateAdded": "2029-06-16"
+    },
+    "638": {
+        "Book": "We Plane Legacy",
+        "ISBN": "8281525759570",
+        "Genre": "Classic",
+        "Author": "Theodore Brown",
+        "DateAdded": "2024-10-01"
+    },
+    "639": {
+        "Book": "The War Ice",
+        "ISBN": "58134970200920",
+        "Genre": "Classic",
+        "Author": "Noah Smith",
+        "DateAdded": "2031-02-17"
+    },
+    "640": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "452359704888761",
+        "Genre": "Science",
+        "Author": "Henry Jackson",
+        "DateAdded": "2023-07-08"
+    },
+    "641": {
+        "Book": "A Trial Beneath",
+        "ISBN": "710554438059313",
+        "Genre": "Mystery",
+        "Author": "Henry Lopez",
+        "DateAdded": "2026-05-10"
+    },
+    "642": {
+        "Book": "We Plane Forever",
+        "ISBN": "487114474478023",
+        "Genre": "Journal",
+        "Author": "Ava Johnson",
+        "DateAdded": "2031-02-08"
+    },
+    "643": {
+        "Book": "The Deer Beneath",
+        "ISBN": "282383575315081",
+        "Genre": "Anthology",
+        "Author": "William Rodriguez",
+        "DateAdded": "2031-08-21"
+    },
+    "644": {
+        "Book": "A Deer Dragon",
+        "ISBN": "521384350377197",
+        "Genre": "Children",
+        "Author": "Theodore Lopez",
+        "DateAdded": "2024-05-02"
+    },
+    "645": {
+        "Book": "The Father Fire",
+        "ISBN": "358030178272908",
+        "Genre": "Graphic novel",
+        "Author": "Oliver Moore",
+        "DateAdded": "2025-07-04"
+    },
+    "646": {
+        "Book": "The Trial Sorrow",
+        "ISBN": "782685067393925",
+        "Genre": "Western",
+        "Author": "Noah Thomas",
+        "DateAdded": "2030-12-27"
+    },
+    "647": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "181429810740182",
+        "Genre": "Autobiography",
+        "Author": "James Wilson",
+        "DateAdded": "2030-05-09"
+    },
+    "648": {
+        "Book": "A Murder Ice",
+        "ISBN": "388419884115285",
+        "Genre": "Mystery",
+        "Author": "Sophia Johnson",
+        "DateAdded": "2029-04-13"
+    },
+    "649": {
+        "Book": "We Never Storm",
+        "ISBN": "278054037894183",
+        "Genre": "Diary",
+        "Author": "Charlotte Thomas",
+        "DateAdded": "2031-04-30"
+    },
+    "650": {
+        "Book": "We Father Blizzard",
+        "ISBN": "353755744294853",
+        "Genre": "Biography",
+        "Author": "Lucas Lee",
+        "DateAdded": "2022-08-19"
+    },
+    "651": {
+        "Book": "A Plane Ice",
+        "ISBN": "801247332176390",
+        "Genre": "Crime",
+        "Author": "Ava Davis",
+        "DateAdded": "2029-08-06"
+    },
+    "652": {
+        "Book": "We Murder Ice",
+        "ISBN": "818897178088225",
+        "Genre": "Science fiction",
+        "Author": "Theodore Martin",
+        "DateAdded": "2023-12-11"
+    },
+    "653": {
+        "Book": "We Deer Sorrow",
+        "ISBN": "547675233017871",
+        "Genre": "Graphic novel",
+        "Author": "Ava Garcia",
+        "DateAdded": "2023-05-04"
+    },
+    "654": {
+        "Book": "We Men Storm",
+        "ISBN": "955533480024143",
+        "Genre": "Diary",
+        "Author": "James Thomas",
+        "DateAdded": "2027-05-21"
+    },
+    "655": {
+        "Book": "The Crime Legacy",
+        "ISBN": "6222896614792",
+        "Genre": "Philosophy",
+        "Author": "Theodore Davis",
+        "DateAdded": "2025-01-03"
+    },
+    "656": {
+        "Book": "We Trial Beneath",
+        "ISBN": "364022237145171",
+        "Genre": "Poetry",
+        "Author": "Evelyn Brown",
+        "DateAdded": "2030-08-15"
+    },
+    "657": {
+        "Book": "A Crime Fire",
+        "ISBN": "72153323384888",
+        "Genre": "Drama",
+        "Author": "Harper Wilson",
+        "DateAdded": "2029-01-29"
+    },
+    "658": {
+        "Book": "We Murder Ice",
+        "ISBN": "620060429837598",
+        "Genre": "Humor",
+        "Author": "Lucas Brown",
+        "DateAdded": "2023-06-08"
+    },
+    "659": {
+        "Book": "We Never Fire",
+        "ISBN": "858388862815818",
+        "Genre": "Western",
+        "Author": "Mia Wilson",
+        "DateAdded": "2025-12-28"
+    },
+    "660": {
+        "Book": "The Father Sorrow",
+        "ISBN": "222480286235874",
+        "Genre": "Crafts/hobbies",
+        "Author": "Oliver Lopez",
+        "DateAdded": "2030-01-10"
+    },
+    "661": {
+        "Book": "A Never Beneath",
+        "ISBN": "357217356802538",
+        "Genre": "Anthology",
+        "Author": "Liam Taylor",
+        "DateAdded": "2024-10-29"
+    },
+    "662": {
+        "Book": "We Never Ice",
+        "ISBN": "581366583702307",
+        "Genre": "Crime",
+        "Author": "Noah Martinez",
+        "DateAdded": "2030-02-27"
+    },
+    "663": {
+        "Book": "We Never Beneath",
+        "ISBN": "459783701658858",
+        "Genre": "Cookbook",
+        "Author": "Sophia Wilson",
+        "DateAdded": "2023-10-16"
+    },
+    "664": {
+        "Book": "A War Fire",
+        "ISBN": "468883644919742",
+        "Genre": "Science fiction",
+        "Author": "Lucas Lee",
+        "DateAdded": "2030-06-22"
+    },
+    "665": {
+        "Book": "The Murder Legacy",
+        "ISBN": "713213123977095",
+        "Genre": "Anthology",
+        "Author": "Emma Miller",
+        "DateAdded": "2024-09-24"
+    },
+    "666": {
+        "Book": "A Trial Sorrow",
+        "ISBN": "266574561969216",
+        "Genre": "Mystery",
+        "Author": "Mia Martinez",
+        "DateAdded": "2023-09-06"
+    },
+    "667": {
+        "Book": "The Deer Beneath",
+        "ISBN": "866784541948594",
+        "Genre": "Action and adventure",
+        "Author": "Theodore Williams",
+        "DateAdded": "2027-09-30"
+    },
+    "668": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "418933776281239",
+        "Genre": "Textbook",
+        "Author": "Evelyn Martinez",
+        "DateAdded": "2025-04-03"
+    },
+    "669": {
+        "Book": "The Murder Beneath",
+        "ISBN": "639401701825247",
+        "Genre": "Young adult",
+        "Author": "Charlotte Jackson",
+        "DateAdded": "2027-10-06"
+    },
+    "670": {
+        "Book": "We Crime Ice",
+        "ISBN": "562306674512369",
+        "Genre": "Graphic novel",
+        "Author": "Noah Williams",
+        "DateAdded": "2024-11-05"
+    },
+    "671": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "560700157417948",
+        "Genre": "Alternate history",
+        "Author": "Noah Moore",
+        "DateAdded": "2026-10-09"
+    },
+    "672": {
+        "Book": "We Father Fire",
+        "ISBN": "555151278108366",
+        "Genre": "Alternate history",
+        "Author": "Theodore Garcia",
+        "DateAdded": "2025-09-01"
+    },
+    "673": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "706258129243469",
+        "Genre": "Philosophy",
+        "Author": "Noah Davis",
+        "DateAdded": "2023-02-05"
+    },
+    "674": {
+        "Book": "We Octopus Fire",
+        "ISBN": "323098609276530",
+        "Genre": "Chick lit",
+        "Author": "Theodore Garcia",
+        "DateAdded": "2026-04-06"
+    },
+    "675": {
+        "Book": "We Father Ice",
+        "ISBN": "699489927805139",
+        "Genre": "Comic book",
+        "Author": "Theodore Smith",
+        "DateAdded": "2027-10-28"
+    },
+    "676": {
+        "Book": "We Never Legacy",
+        "ISBN": "661968700224076",
+        "Genre": "Biography",
+        "Author": "Elijah Thomas",
+        "DateAdded": "2030-02-19"
+    },
+    "677": {
+        "Book": "The Men Storm",
+        "ISBN": "836830925177896",
+        "Genre": "Biography",
+        "Author": "Henry Thomas",
+        "DateAdded": "2026-02-04"
+    },
+    "678": {
+        "Book": "We Men Forever",
+        "ISBN": "899874240080261",
+        "Genre": "Alternate history",
+        "Author": "Evelyn Jones",
+        "DateAdded": "2023-02-13"
+    },
+    "679": {
+        "Book": "A Father Fire",
+        "ISBN": "617168008755651",
+        "Genre": "Journal",
+        "Author": "Liam Miller",
+        "DateAdded": "2030-07-21"
+    },
+    "680": {
+        "Book": "The Trial Ice",
+        "ISBN": "898417603310592",
+        "Genre": "Comic book",
+        "Author": "Oliver Wilson",
+        "DateAdded": "2025-06-05"
+    },
+    "681": {
+        "Book": "A Crime Blizzard",
+        "ISBN": "532206409996218",
+        "Genre": "Encyclopedia",
+        "Author": "William Johnson",
+        "DateAdded": "2032-06-21"
+    },
+    "682": {
+        "Book": "A War Sorrow",
+        "ISBN": "686633081277891",
+        "Genre": "Mystery",
+        "Author": "James Garcia",
+        "DateAdded": "2022-10-12"
+    },
+    "683": {
+        "Book": "The War Ice",
+        "ISBN": "461419156800951",
+        "Genre": "Journal",
+        "Author": "William Lee",
+        "DateAdded": "2023-09-09"
+    },
+    "684": {
+        "Book": "A Plane Beneath",
+        "ISBN": "541433663786393",
+        "Genre": "Science fiction",
+        "Author": "Henry Garcia",
+        "DateAdded": "2029-07-21"
+    },
+    "685": {
+        "Book": "The Crime Forever",
+        "ISBN": "444811006278644",
+        "Genre": "Home and garden",
+        "Author": "Theodore Martin",
+        "DateAdded": "2029-10-17"
+    },
+    "686": {
+        "Book": "We Deer Beneath",
+        "ISBN": "925900561138720",
+        "Genre": "Science",
+        "Author": "Henry Davis",
+        "DateAdded": "2023-10-12"
+    },
+    "687": {
+        "Book": "A Men Dragon",
+        "ISBN": "286000935921391",
+        "Genre": "Mystery",
+        "Author": "Emma Martinez",
+        "DateAdded": "2023-09-30"
+    },
+    "688": {
+        "Book": "We Crime Forever",
+        "ISBN": "358268629932517",
+        "Genre": "Encyclopedia",
+        "Author": "Benjamin Miller",
+        "DateAdded": "2026-06-15"
+    },
+    "689": {
+        "Book": "We Crime Forever",
+        "ISBN": "395393646091226",
+        "Genre": "Health/fitness",
+        "Author": "Oliver Taylor",
+        "DateAdded": "2025-11-19"
+    },
+    "690": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "733339911027333",
+        "Genre": "Science fiction",
+        "Author": "Emma Rodriguez",
+        "DateAdded": "2023-03-31"
+    },
+    "691": {
+        "Book": "We War Sorrow",
+        "ISBN": "800735938726620",
+        "Genre": "Chick lit",
+        "Author": "Elijah Thomas",
+        "DateAdded": "2032-01-09"
+    },
+    "692": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "183772943284588",
+        "Genre": "Alternate history",
+        "Author": "Theodore Williams",
+        "DateAdded": "2027-08-01"
+    },
+    "693": {
+        "Book": "We Father Beneath",
+        "ISBN": "850068536020533",
+        "Genre": "Drama",
+        "Author": "Sophia Moore",
+        "DateAdded": "2027-09-14"
+    },
+    "694": {
+        "Book": "A Crime Fire",
+        "ISBN": "567901953586242",
+        "Genre": "Textbook",
+        "Author": "Oliver Johnson",
+        "DateAdded": "2022-09-18"
+    },
+    "695": {
+        "Book": "A Plane Dragon",
+        "ISBN": "685068902448682",
+        "Genre": "Dictionary",
+        "Author": "James Lee",
+        "DateAdded": "2030-07-10"
+    },
+    "696": {
+        "Book": "A Father Sorrow",
+        "ISBN": "525169370326255",
+        "Genre": "Art/architecture",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2025-12-17"
+    },
+    "697": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "526754462736539",
+        "Genre": "Historical fiction",
+        "Author": "Lucas Smith",
+        "DateAdded": "2022-10-01"
+    },
+    "698": {
+        "Book": "We Plane Blizzard",
+        "ISBN": "922966235272166",
+        "Genre": "Horror",
+        "Author": "Ava Thomas",
+        "DateAdded": "2029-05-01"
+    },
+    "699": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "481521691136549",
+        "Genre": "Graphic novel",
+        "Author": "Mia Rodriguez",
+        "DateAdded": "2022-10-30"
+    },
+    "700": {
+        "Book": "A Never Blizzard",
+        "ISBN": "756560441475819",
+        "Genre": "Travel",
+        "Author": "Lucas Garcia",
+        "DateAdded": "2031-09-04"
+    },
+    "701": {
+        "Book": "The Men Blizzard",
+        "ISBN": "987251238649865",
+        "Genre": "Sports",
+        "Author": "James Garcia",
+        "DateAdded": "2023-10-10"
+    },
+    "702": {
+        "Book": "A Trial Sorrow",
+        "ISBN": "725410233965987",
+        "Genre": "Thriller",
+        "Author": "Liam Lee",
+        "DateAdded": "2026-08-20"
+    },
+    "703": {
+        "Book": "We Octopus Sorrow",
+        "ISBN": "466027448963571",
+        "Genre": "Chick lit",
+        "Author": "Noah Williams",
+        "DateAdded": "2026-04-06"
+    },
+    "704": {
+        "Book": "A Crime Forever",
+        "ISBN": "860442002577248",
+        "Genre": "Anthology",
+        "Author": "Harper Miller",
+        "DateAdded": "2031-11-23"
+    },
+    "705": {
+        "Book": "The Octopus Blizzard",
+        "ISBN": "780278658344646",
+        "Genre": "Textbook",
+        "Author": "Lucas Lopez",
+        "DateAdded": "2022-11-06"
+    },
+    "706": {
+        "Book": "The Never Storm",
+        "ISBN": "772419416943243",
+        "Genre": "Horror",
+        "Author": "Harper Williams",
+        "DateAdded": "2022-08-11"
+    },
+    "707": {
+        "Book": "A Father Storm",
+        "ISBN": "882857499013440",
+        "Genre": "Cookbook",
+        "Author": "Noah Williams",
+        "DateAdded": "2031-02-27"
+    },
+    "708": {
+        "Book": "A Father Storm",
+        "ISBN": "140166052685522",
+        "Genre": "Humor",
+        "Author": "Elijah Jones",
+        "DateAdded": "2027-11-19"
+    },
+    "709": {
+        "Book": "We Murder Ice",
+        "ISBN": "881286517944311",
+        "Genre": "Crime",
+        "Author": "Ava Thomas",
+        "DateAdded": "2031-01-27"
+    },
+    "710": {
+        "Book": "We Deer Dragon",
+        "ISBN": "452043399635406",
+        "Genre": "Science fiction",
+        "Author": "Lucas Lopez",
+        "DateAdded": "2031-09-04"
+    },
+    "711": {
+        "Book": "A Crime Ice",
+        "ISBN": "998146891538076",
+        "Genre": "Travel",
+        "Author": "James Jones",
+        "DateAdded": "2024-10-13"
+    },
+    "712": {
+        "Book": "We Plane Fire",
+        "ISBN": "308439726426548",
+        "Genre": "Crime",
+        "Author": "Amelia Johnson",
+        "DateAdded": "2032-06-06"
+    },
+    "713": {
+        "Book": "The War Fire",
+        "ISBN": "920341409146748",
+        "Genre": "Anthology",
+        "Author": "Lucas Rodriguez",
+        "DateAdded": "2023-07-10"
+    },
+    "714": {
+        "Book": "We Father Legacy",
+        "ISBN": "128021488418333",
+        "Genre": "Biography",
+        "Author": "Olivia Smith",
+        "DateAdded": "2027-02-11"
+    },
+    "715": {
+        "Book": "A Father Storm",
+        "ISBN": "983036552914388",
+        "Genre": "Children",
+        "Author": "Charlotte Martinez",
+        "DateAdded": "2023-08-27"
+    },
+    "716": {
+        "Book": "A Murder Storm",
+        "ISBN": "196453296405527",
+        "Genre": "True crime",
+        "Author": "Harper Taylor",
+        "DateAdded": "2028-04-22"
+    },
+    "717": {
+        "Book": "The Octopus Fire",
+        "ISBN": "158812949879470",
+        "Genre": "Anthology",
+        "Author": "Benjamin Anderson",
+        "DateAdded": "2024-11-09"
+    },
+    "718": {
+        "Book": "The Trial Fire",
+        "ISBN": "969846294082934",
+        "Genre": "Historical fiction",
+        "Author": "Liam Anderson",
+        "DateAdded": "2022-11-03"
+    },
+    "719": {
+        "Book": "We Trial Sorrow",
+        "ISBN": "860598482142450",
+        "Genre": "Drama",
+        "Author": "Isabella Rodriguez",
+        "DateAdded": "2030-12-03"
+    },
+    "720": {
+        "Book": "We War Ice",
+        "ISBN": "585886651323997",
+        "Genre": "Biography",
+        "Author": "Theodore Moore",
+        "DateAdded": "2028-06-25"
+    },
+    "721": {
+        "Book": "We War Legacy",
+        "ISBN": "642837869683896",
+        "Genre": "Drama",
+        "Author": "Elijah Taylor",
+        "DateAdded": "2025-11-22"
+    },
+    "722": {
+        "Book": "A War Fire",
+        "ISBN": "35683492386569",
+        "Genre": "Autobiography",
+        "Author": "Henry Wilson",
+        "DateAdded": "2024-05-20"
+    },
+    "723": {
+        "Book": "A Men Legacy",
+        "ISBN": "474798166654672",
+        "Genre": "Diary",
+        "Author": "Lucas Lopez",
+        "DateAdded": "2030-10-18"
+    },
+    "724": {
+        "Book": "A Father Beneath",
+        "ISBN": "631034228245994",
+        "Genre": "Cookbook",
+        "Author": "Liam Brown",
+        "DateAdded": "2022-07-29"
+    },
+    "725": {
+        "Book": "The Deer Forever",
+        "ISBN": "525050359527369",
+        "Genre": "Travel",
+        "Author": "Elijah Martinez",
+        "DateAdded": "2025-11-17"
+    },
+    "726": {
+        "Book": "A Crime Blizzard",
+        "ISBN": "657778588283961",
+        "Genre": "Historical fiction",
+        "Author": "Harper Miller",
+        "DateAdded": "2031-10-13"
+    },
+    "727": {
+        "Book": "We Men Storm",
+        "ISBN": "669438307372170",
+        "Genre": "Young adult",
+        "Author": "Oliver Smith",
+        "DateAdded": "2026-03-11"
+    },
+    "728": {
+        "Book": "We Father Legacy",
+        "ISBN": "705169804834623",
+        "Genre": "Romance",
+        "Author": "Lucas Taylor",
+        "DateAdded": "2030-09-19"
+    },
+    "729": {
+        "Book": "A Father Forever",
+        "ISBN": "908292135790860",
+        "Genre": "Business/economics",
+        "Author": "Ava Jackson",
+        "DateAdded": "2022-08-05"
+    },
+    "730": {
+        "Book": "The Plane Fire",
+        "ISBN": "38377607244169",
+        "Genre": "Children",
+        "Author": "Henry Lee",
+        "DateAdded": "2032-05-07"
+    },
+    "731": {
+        "Book": "We Crime Beneath",
+        "ISBN": "758230392968732",
+        "Genre": "Encyclopedia",
+        "Author": "Amelia Smith",
+        "DateAdded": "2030-12-30"
+    },
+    "732": {
+        "Book": "The Plane Ice",
+        "ISBN": "866119426708409",
+        "Genre": "Children",
+        "Author": "Oliver Smith",
+        "DateAdded": "2024-10-05"
+    },
+    "733": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "145787705794343",
+        "Genre": "Travel",
+        "Author": "Theodore Johnson",
+        "DateAdded": "2024-12-08"
+    },
+    "734": {
+        "Book": "A Trial Blizzard",
+        "ISBN": "473162033582208",
+        "Genre": "Action and adventure",
+        "Author": "Oliver Garcia",
+        "DateAdded": "2029-09-10"
+    },
+    "735": {
+        "Book": "A Plane Sorrow",
+        "ISBN": "558477121093361",
+        "Genre": "Crafts/hobbies",
+        "Author": "Amelia Thomas",
+        "DateAdded": "2024-04-12"
+    },
+    "736": {
+        "Book": "We Never Beneath",
+        "ISBN": "807487775187845",
+        "Genre": "Young adult",
+        "Author": "Liam Williams",
+        "DateAdded": "2027-03-25"
+    },
+    "737": {
+        "Book": "The Father Dragon",
+        "ISBN": "429977018795091",
+        "Genre": "Graphic novel",
+        "Author": "Noah Jackson",
+        "DateAdded": "2031-10-21"
+    },
+    "738": {
+        "Book": "The Plane Ice",
+        "ISBN": "412100883995928",
+        "Genre": "Encyclopedia",
+        "Author": "Amelia Martin",
+        "DateAdded": "2022-08-24"
+    },
+    "739": {
+        "Book": "The Men Blizzard",
+        "ISBN": "343823666492019",
+        "Genre": "Crafts/hobbies",
+        "Author": "Mia Wilson",
+        "DateAdded": "2023-08-13"
+    },
+    "740": {
+        "Book": "A Never Forever",
+        "ISBN": "749495517541807",
+        "Genre": "Diary",
+        "Author": "Benjamin Thomas",
+        "DateAdded": "2024-09-22"
+    },
+    "741": {
+        "Book": "We Crime Dragon",
+        "ISBN": "787508041452584",
+        "Genre": "Historical fiction",
+        "Author": "Mia Martin",
+        "DateAdded": "2030-06-07"
+    },
+    "742": {
+        "Book": "We Octopus Fire",
+        "ISBN": "878090071885139",
+        "Genre": "Science fiction",
+        "Author": "Evelyn Garcia",
+        "DateAdded": "2026-03-21"
+    },
+    "743": {
+        "Book": "The Deer Forever",
+        "ISBN": "649784318418602",
+        "Genre": "Diary",
+        "Author": "Mia Davis",
+        "DateAdded": "2031-08-09"
+    },
+    "744": {
+        "Book": "The Octopus Storm",
+        "ISBN": "283675724596467",
+        "Genre": "Young adult",
+        "Author": "Amelia Jackson",
+        "DateAdded": "2032-05-16"
+    },
+    "745": {
+        "Book": "The Deer Storm",
+        "ISBN": "216679094062143",
+        "Genre": "Journal",
+        "Author": "Elijah Martinez",
+        "DateAdded": "2029-06-20"
+    },
+    "746": {
+        "Book": "The Crime Legacy",
+        "ISBN": "622583017181223",
+        "Genre": "Children",
+        "Author": "Isabella Rodriguez",
+        "DateAdded": "2028-05-19"
+    },
+    "747": {
+        "Book": "The Trial Dragon",
+        "ISBN": "882685678167560",
+        "Genre": "Sports",
+        "Author": "Harper Martinez",
+        "DateAdded": "2027-02-17"
+    },
+    "748": {
+        "Book": "A Never Forever",
+        "ISBN": "311604844085432",
+        "Genre": "Journal",
+        "Author": "Isabella Jones",
+        "DateAdded": "2024-03-16"
+    },
+    "749": {
+        "Book": "We Plane Dragon",
+        "ISBN": "788850505881267",
+        "Genre": "Young adult",
+        "Author": "Isabella Jackson",
+        "DateAdded": "2025-06-20"
+    },
+    "750": {
+        "Book": "The Crime Legacy",
+        "ISBN": "654051797685438",
+        "Genre": "Alternate history",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2029-09-26"
+    },
+    "751": {
+        "Book": "A Men Dragon",
+        "ISBN": "155839307785572",
+        "Genre": "Cookbook",
+        "Author": "Harper Smith",
+        "DateAdded": "2028-06-30"
+    },
+    "752": {
+        "Book": "The Octopus Forever",
+        "ISBN": "895009306618822",
+        "Genre": "Drama",
+        "Author": "Liam Martinez",
+        "DateAdded": "2030-07-18"
+    },
+    "753": {
+        "Book": "The Father Sorrow",
+        "ISBN": "741964274264303",
+        "Genre": "True crime",
+        "Author": "Isabella Davis",
+        "DateAdded": "2027-02-14"
+    },
+    "754": {
+        "Book": "A Never Storm",
+        "ISBN": "456331194119523",
+        "Genre": "Graphic novel",
+        "Author": "Mia Davis",
+        "DateAdded": "2031-10-29"
+    },
+    "755": {
+        "Book": "We Men Legacy",
+        "ISBN": "790544617894489",
+        "Genre": "Drama",
+        "Author": "Harper Davis",
+        "DateAdded": "2028-08-16"
+    },
+    "756": {
+        "Book": "A War Storm",
+        "ISBN": "460294536097087",
+        "Genre": "Science",
+        "Author": "Elijah Martin",
+        "DateAdded": "2031-04-07"
+    },
+    "757": {
+        "Book": "The War Sorrow",
+        "ISBN": "983690710317749",
+        "Genre": "Children",
+        "Author": "Mia Rodriguez",
+        "DateAdded": "2025-06-12"
+    },
+    "758": {
+        "Book": "A War Ice",
+        "ISBN": "513338919889944",
+        "Genre": "Drama",
+        "Author": "Oliver Martinez",
+        "DateAdded": "2026-08-19"
+    },
+    "759": {
+        "Book": "The Deer Dragon",
+        "ISBN": "196088908729809",
+        "Genre": "Mystery",
+        "Author": "Henry Wilson",
+        "DateAdded": "2031-08-09"
+    },
+    "760": {
+        "Book": "A Plane Ice",
+        "ISBN": "956036953887715",
+        "Genre": "Romance",
+        "Author": "Benjamin Williams",
+        "DateAdded": "2022-09-30"
+    },
+    "761": {
+        "Book": "A Father Storm",
+        "ISBN": "223106957959911",
+        "Genre": "History",
+        "Author": "Harper Thomas",
+        "DateAdded": "2023-04-19"
+    },
+    "762": {
+        "Book": "A Murder Beneath",
+        "ISBN": "115691938951330",
+        "Genre": "Graphic novel",
+        "Author": "William Wilson",
+        "DateAdded": "2032-03-15"
+    },
+    "763": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "24443762976760",
+        "Genre": "Historical fiction",
+        "Author": "Isabella Williams",
+        "DateAdded": "2031-10-25"
+    },
+    "764": {
+        "Book": "The War Forever",
+        "ISBN": "308073005607434",
+        "Genre": "Science",
+        "Author": "Benjamin Thomas",
+        "DateAdded": "2028-06-01"
+    },
+    "765": {
+        "Book": "A Deer Forever",
+        "ISBN": "557587246875930",
+        "Genre": "Diary",
+        "Author": "Lucas Martinez",
+        "DateAdded": "2031-02-17"
+    },
+    "766": {
+        "Book": "The Octopus Legacy",
+        "ISBN": "899705779888748",
+        "Genre": "Art/architecture",
+        "Author": "Noah Moore",
+        "DateAdded": "2026-03-14"
+    },
+    "767": {
+        "Book": "A Plane Forever",
+        "ISBN": "571554373340446",
+        "Genre": "Health/fitness",
+        "Author": "Emma Davis",
+        "DateAdded": "2029-04-06"
+    },
+    "768": {
+        "Book": "The Murder Blizzard",
+        "ISBN": "991845509798585",
+        "Genre": "Children",
+        "Author": "James Rodriguez",
+        "DateAdded": "2031-01-17"
+    },
+    "769": {
+        "Book": "A Crime Storm",
+        "ISBN": "709609776234656",
+        "Genre": "Crime",
+        "Author": "James Jackson",
+        "DateAdded": "2026-03-06"
+    },
+    "770": {
+        "Book": "The Octopus Fire",
+        "ISBN": "539429923549640",
+        "Genre": "Mystery",
+        "Author": "Emma Garcia",
+        "DateAdded": "2024-06-21"
+    },
+    "771": {
+        "Book": "We Murder Forever",
+        "ISBN": "674934267680966",
+        "Genre": "Classic",
+        "Author": "Evelyn Davis",
+        "DateAdded": "2031-12-22"
+    },
+    "772": {
+        "Book": "We Deer Storm",
+        "ISBN": "118464362298771",
+        "Genre": "Science fiction",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2027-04-28"
+    },
+    "773": {
+        "Book": "The Deer Blizzard",
+        "ISBN": "807803607250749",
+        "Genre": "Chick lit",
+        "Author": "Mia Anderson",
+        "DateAdded": "2030-06-24"
+    },
+    "774": {
+        "Book": "We War Ice",
+        "ISBN": "22831551405958",
+        "Genre": "Autobiography",
+        "Author": "Oliver Brown",
+        "DateAdded": "2029-05-17"
+    },
+    "775": {
+        "Book": "A Plane Dragon",
+        "ISBN": "206237292171602",
+        "Genre": "Action and adventure",
+        "Author": "Sophia Thomas",
+        "DateAdded": "2025-10-24"
+    },
+    "776": {
+        "Book": "We Deer Beneath",
+        "ISBN": "580056596013403",
+        "Genre": "Crafts/hobbies",
+        "Author": "Sophia Thomas",
+        "DateAdded": "2029-03-19"
+    },
+    "777": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "107292692914910",
+        "Genre": "Action and adventure",
+        "Author": "Harper Wilson",
+        "DateAdded": "2032-01-09"
+    },
+    "778": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "400573024178903",
+        "Genre": "Science fiction",
+        "Author": "Harper Rodriguez",
+        "DateAdded": "2026-08-25"
+    },
+    "779": {
+        "Book": "The Men Blizzard",
+        "ISBN": "225413598091846",
+        "Genre": "Crafts/hobbies",
+        "Author": "Lucas Davis",
+        "DateAdded": "2023-11-26"
+    },
+    "780": {
+        "Book": "We Men Sorrow",
+        "ISBN": "513089479663855",
+        "Genre": "Romance",
+        "Author": "Charlotte Jackson",
+        "DateAdded": "2031-08-28"
+    },
+    "781": {
+        "Book": "We Never Forever",
+        "ISBN": "147818769586512",
+        "Genre": "Crime",
+        "Author": "Charlotte Wilson",
+        "DateAdded": "2023-08-22"
+    },
+    "782": {
+        "Book": "The Crime Forever",
+        "ISBN": "850989885311962",
+        "Genre": "Biography",
+        "Author": "William Miller",
+        "DateAdded": "2027-11-05"
+    },
+    "783": {
+        "Book": "The War Storm",
+        "ISBN": "162216736836623",
+        "Genre": "Textbook",
+        "Author": "Elijah Rodriguez",
+        "DateAdded": "2029-12-18"
+    },
+    "784": {
+        "Book": "The Father Blizzard",
+        "ISBN": "250299686118770",
+        "Genre": "Dictionary",
+        "Author": "Sophia Martin",
+        "DateAdded": "2029-02-12"
+    },
+    "785": {
+        "Book": "The Plane Legacy",
+        "ISBN": "167082327418390",
+        "Genre": "Poetry",
+        "Author": "Mia Miller",
+        "DateAdded": "2026-07-12"
+    },
+    "786": {
+        "Book": "We Murder Fire",
+        "ISBN": "305813266855568",
+        "Genre": "Science fiction",
+        "Author": "Benjamin Miller",
+        "DateAdded": "2030-02-13"
+    },
+    "787": {
+        "Book": "The Plane Sorrow",
+        "ISBN": "544639997294617",
+        "Genre": "Art/architecture",
+        "Author": "Benjamin Anderson",
+        "DateAdded": "2024-06-19"
+    },
+    "788": {
+        "Book": "We Never Storm",
+        "ISBN": "78720036352031",
+        "Genre": "Guide",
+        "Author": "Sophia Smith",
+        "DateAdded": "2030-04-02"
+    },
+    "789": {
+        "Book": "A Plane Ice",
+        "ISBN": "442560604849117",
+        "Genre": "Children",
+        "Author": "Benjamin Wilson",
+        "DateAdded": "2030-10-28"
+    },
+    "790": {
+        "Book": "A Murder Dragon",
+        "ISBN": "835853570647192",
+        "Genre": "Health/fitness",
+        "Author": "William Jackson",
+        "DateAdded": "2024-08-09"
+    },
+    "791": {
+        "Book": "A Octopus Ice",
+        "ISBN": "943326913885187",
+        "Genre": "Anthology",
+        "Author": "James Martinez",
+        "DateAdded": "2027-05-15"
+    },
+    "792": {
+        "Book": "The Plane Legacy",
+        "ISBN": "488801131545920",
+        "Genre": "Historical fiction",
+        "Author": "Ava Williams",
+        "DateAdded": "2026-03-27"
+    },
+    "793": {
+        "Book": "The Men Storm",
+        "ISBN": "381801904106258",
+        "Genre": "Travel",
+        "Author": "Elijah Rodriguez",
+        "DateAdded": "2025-06-24"
+    },
+    "794": {
+        "Book": "A Never Legacy",
+        "ISBN": "945296898382282",
+        "Genre": "Encyclopedia",
+        "Author": "Liam Miller",
+        "DateAdded": "2032-06-01"
+    },
+    "795": {
+        "Book": "A War Legacy",
+        "ISBN": "675356838558666",
+        "Genre": "Science",
+        "Author": "William Jones",
+        "DateAdded": "2030-12-26"
+    },
+    "796": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "401044109169259",
+        "Genre": "Children",
+        "Author": "Theodore Wilson",
+        "DateAdded": "2025-12-31"
+    },
+    "797": {
+        "Book": "A Murder Forever",
+        "ISBN": "57389274023222",
+        "Genre": "Crafts/hobbies",
+        "Author": "Elijah Wilson",
+        "DateAdded": "2023-12-11"
+    },
+    "798": {
+        "Book": "The Murder Beneath",
+        "ISBN": "110419094245005",
+        "Genre": "Diary",
+        "Author": "Harper Jackson",
+        "DateAdded": "2023-03-03"
+    },
+    "799": {
+        "Book": "The War Blizzard",
+        "ISBN": "233657413481544",
+        "Genre": "Autobiography",
+        "Author": "Isabella Smith",
+        "DateAdded": "2024-02-06"
+    },
+    "800": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "895508705037630",
+        "Genre": "Cookbook",
+        "Author": "Harper Lee",
+        "DateAdded": "2028-08-31"
+    },
+    "801": {
+        "Book": "The War Dragon",
+        "ISBN": "499105821776906",
+        "Genre": "Health/fitness",
+        "Author": "Emma Williams",
+        "DateAdded": "2023-10-16"
+    },
+    "802": {
+        "Book": "We Murder Blizzard",
+        "ISBN": "619826366016815",
+        "Genre": "Art/architecture",
+        "Author": "Oliver Moore",
+        "DateAdded": "2029-03-10"
+    },
+    "803": {
+        "Book": "The Murder Fire",
+        "ISBN": "350127719858594",
+        "Genre": "Biography",
+        "Author": "Ava Martinez",
+        "DateAdded": "2029-05-28"
+    },
+    "804": {
+        "Book": "A Trial Ice",
+        "ISBN": "796247982196490",
+        "Genre": "Historical fiction",
+        "Author": "William Johnson",
+        "DateAdded": "2024-11-01"
+    },
+    "805": {
+        "Book": "We Never Ice",
+        "ISBN": "126766953556447",
+        "Genre": "Art/architecture",
+        "Author": "Harper Lopez",
+        "DateAdded": "2029-02-05"
+    },
+    "806": {
+        "Book": "The Crime Forever",
+        "ISBN": "176326500658782",
+        "Genre": "Action and adventure",
+        "Author": "Benjamin Wilson",
+        "DateAdded": "2028-09-12"
+    },
+    "807": {
+        "Book": "The Men Storm",
+        "ISBN": "203990503178405",
+        "Genre": "Health/fitness",
+        "Author": "Henry Thomas",
+        "DateAdded": "2024-07-30"
+    },
+    "808": {
+        "Book": "We War Fire",
+        "ISBN": "888651321988236",
+        "Genre": "Western",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2027-09-19"
+    },
+    "809": {
+        "Book": "We Men Legacy",
+        "ISBN": "361244508887769",
+        "Genre": "Graphic novel",
+        "Author": "Ava Moore",
+        "DateAdded": "2032-03-08"
+    },
+    "810": {
+        "Book": "A Father Fire",
+        "ISBN": "959570245943012",
+        "Genre": "Travel",
+        "Author": "Elijah Jackson",
+        "DateAdded": "2028-05-05"
+    },
+    "811": {
+        "Book": "The Never Forever",
+        "ISBN": "134790333638634",
+        "Genre": "Poetry",
+        "Author": "Mia Jackson",
+        "DateAdded": "2030-01-26"
+    },
+    "812": {
+        "Book": "The Crime Ice",
+        "ISBN": "32781106623098",
+        "Genre": "Historical fiction",
+        "Author": "Sophia Johnson",
+        "DateAdded": "2027-08-20"
+    },
+    "813": {
+        "Book": "A Deer Legacy",
+        "ISBN": "170483372171109",
+        "Genre": "Western",
+        "Author": "James Williams",
+        "DateAdded": "2029-07-31"
+    },
+    "814": {
+        "Book": "We Crime Storm",
+        "ISBN": "567306979212506",
+        "Genre": "Anthology",
+        "Author": "Elijah Johnson",
+        "DateAdded": "2024-04-07"
+    },
+    "815": {
+        "Book": "We Octopus Forever",
+        "ISBN": "533445741795220",
+        "Genre": "Travel",
+        "Author": "Mia Garcia",
+        "DateAdded": "2028-06-27"
+    },
+    "816": {
+        "Book": "We Octopus Fire",
+        "ISBN": "319436217099832",
+        "Genre": "Horror",
+        "Author": "Liam Davis",
+        "DateAdded": "2026-01-02"
+    },
+    "817": {
+        "Book": "We War Blizzard",
+        "ISBN": "571537124869023",
+        "Genre": "Sports",
+        "Author": "Harper Lopez",
+        "DateAdded": "2023-03-14"
+    },
+    "818": {
+        "Book": "A Plane Ice",
+        "ISBN": "671245610795687",
+        "Genre": "Crime",
+        "Author": "Theodore Anderson",
+        "DateAdded": "2022-08-26"
+    },
+    "819": {
+        "Book": "We Never Legacy",
+        "ISBN": "248350969193582",
+        "Genre": "Science fiction",
+        "Author": "Isabella Martinez",
+        "DateAdded": "2025-12-15"
+    },
+    "820": {
+        "Book": "A Trial Beneath",
+        "ISBN": "527330683700711",
+        "Genre": "Children",
+        "Author": "Evelyn Garcia",
+        "DateAdded": "2028-07-26"
+    },
+    "821": {
+        "Book": "A Father Storm",
+        "ISBN": "512931988169949",
+        "Genre": "Mystery",
+        "Author": "Charlotte Jones",
+        "DateAdded": "2023-06-21"
+    },
+    "822": {
+        "Book": "We Father Sorrow",
+        "ISBN": "984419597182946",
+        "Genre": "Journal",
+        "Author": "James Jackson",
+        "DateAdded": "2025-03-30"
+    },
+    "823": {
+        "Book": "We Father Ice",
+        "ISBN": "174835301776297",
+        "Genre": "Drama",
+        "Author": "Ava Jackson",
+        "DateAdded": "2032-01-01"
+    },
+    "824": {
+        "Book": "The Murder Forever",
+        "ISBN": "249508020870219",
+        "Genre": "Science",
+        "Author": "Liam Smith",
+        "DateAdded": "2024-08-05"
+    },
+    "825": {
+        "Book": "We Deer Storm",
+        "ISBN": "253530366447331",
+        "Genre": "Poetry",
+        "Author": "Lucas Smith",
+        "DateAdded": "2024-04-11"
+    },
+    "826": {
+        "Book": "The Octopus Legacy",
+        "ISBN": "467051732207233",
+        "Genre": "Classic",
+        "Author": "Ava Davis",
+        "DateAdded": "2028-06-09"
+    },
+    "827": {
+        "Book": "A Murder Beneath",
+        "ISBN": "213600007992477",
+        "Genre": "Classic",
+        "Author": "Liam Brown",
+        "DateAdded": "2027-02-16"
+    },
+    "828": {
+        "Book": "The Crime Storm",
+        "ISBN": "870047178761083",
+        "Genre": "Art/architecture",
+        "Author": "Amelia Davis",
+        "DateAdded": "2031-08-20"
+    },
+    "829": {
+        "Book": "A Trial Ice",
+        "ISBN": "149745836862678",
+        "Genre": "Poetry",
+        "Author": "Henry Lee",
+        "DateAdded": "2028-02-10"
+    },
+    "830": {
+        "Book": "A Octopus Storm",
+        "ISBN": "332217252385141",
+        "Genre": "Sports",
+        "Author": "Harper Rodriguez",
+        "DateAdded": "2031-10-18"
+    },
+    "831": {
+        "Book": "We Plane Beneath",
+        "ISBN": "168680365122878",
+        "Genre": "True crime",
+        "Author": "Elijah Thomas",
+        "DateAdded": "2026-11-04"
+    },
+    "832": {
+        "Book": "The War Forever",
+        "ISBN": "158830858832333",
+        "Genre": "Autobiography",
+        "Author": "William Johnson",
+        "DateAdded": "2026-11-02"
+    },
+    "833": {
+        "Book": "The Plane Beneath",
+        "ISBN": "50802551614989",
+        "Genre": "Health/fitness",
+        "Author": "Evelyn Miller",
+        "DateAdded": "2032-01-01"
+    },
+    "834": {
+        "Book": "The Octopus Blizzard",
+        "ISBN": "831804094993785",
+        "Genre": "Children",
+        "Author": "Benjamin Anderson",
+        "DateAdded": "2031-03-19"
+    },
+    "835": {
+        "Book": "The Murder Dragon",
+        "ISBN": "46698775962431",
+        "Genre": "Sports",
+        "Author": "Isabella Martin",
+        "DateAdded": "2022-11-20"
+    },
+    "836": {
+        "Book": "We Octopus Fire",
+        "ISBN": "698017794432187",
+        "Genre": "Chick lit",
+        "Author": "Lucas Johnson",
+        "DateAdded": "2028-10-13"
+    },
+    "837": {
+        "Book": "We Father Dragon",
+        "ISBN": "867074474830422",
+        "Genre": "Encyclopedia",
+        "Author": "Elijah Brown",
+        "DateAdded": "2023-07-22"
+    },
+    "838": {
+        "Book": "The Men Forever",
+        "ISBN": "411504379789928",
+        "Genre": "Anthology",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2031-02-20"
+    },
+    "839": {
+        "Book": "The Father Fire",
+        "ISBN": "362788290401747",
+        "Genre": "Graphic novel",
+        "Author": "Henry Taylor",
+        "DateAdded": "2028-02-22"
+    },
+    "840": {
+        "Book": "The Octopus Dragon",
+        "ISBN": "117932335247411",
+        "Genre": "Comic book",
+        "Author": "Isabella Moore",
+        "DateAdded": "2024-12-24"
+    },
+    "841": {
+        "Book": "The Murder Forever",
+        "ISBN": "254879730082104",
+        "Genre": "Art/architecture",
+        "Author": "Liam Anderson",
+        "DateAdded": "2022-12-03"
+    },
+    "842": {
+        "Book": "We Murder Forever",
+        "ISBN": "68208077896143",
+        "Genre": "Travel",
+        "Author": "Mia Smith",
+        "DateAdded": "2025-11-02"
+    },
+    "843": {
+        "Book": "We Deer Ice",
+        "ISBN": "111550559398398",
+        "Genre": "Poetry",
+        "Author": "Harper Jackson",
+        "DateAdded": "2030-07-25"
+    },
+    "844": {
+        "Book": "A War Blizzard",
+        "ISBN": "885041084150172",
+        "Genre": "Fantasy",
+        "Author": "Henry Garcia",
+        "DateAdded": "2031-12-21"
+    },
+    "845": {
+        "Book": "A Trial Sorrow",
+        "ISBN": "360335855129349",
+        "Genre": "Young adult",
+        "Author": "Olivia Taylor",
+        "DateAdded": "2028-08-24"
+    },
+    "846": {
+        "Book": "A Octopus Dragon",
+        "ISBN": "262291871432475",
+        "Genre": "Comic book",
+        "Author": "Harper Williams",
+        "DateAdded": "2026-10-29"
+    },
+    "847": {
+        "Book": "The Octopus Legacy",
+        "ISBN": "103103072967326",
+        "Genre": "Crafts/hobbies",
+        "Author": "Charlotte Johnson",
+        "DateAdded": "2031-09-14"
+    },
+    "848": {
+        "Book": "We War Dragon",
+        "ISBN": "567631680469254",
+        "Genre": "True crime",
+        "Author": "Theodore Anderson",
+        "DateAdded": "2029-05-06"
+    },
+    "849": {
+        "Book": "A Octopus Forever",
+        "ISBN": "404481586154541",
+        "Genre": "Science fiction",
+        "Author": "James Johnson",
+        "DateAdded": "2030-09-29"
+    },
+    "850": {
+        "Book": "The Deer Beneath",
+        "ISBN": "770955894412484",
+        "Genre": "Historical fiction",
+        "Author": "Charlotte Taylor",
+        "DateAdded": "2022-12-29"
+    },
+    "851": {
+        "Book": "A Octopus Storm",
+        "ISBN": "332062106914956",
+        "Genre": "Fantasy",
+        "Author": "Charlotte Lopez",
+        "DateAdded": "2032-05-02"
+    },
+    "852": {
+        "Book": "We Octopus Legacy",
+        "ISBN": "947091042709809",
+        "Genre": "Thriller",
+        "Author": "Sophia Wilson",
+        "DateAdded": "2031-11-19"
+    },
+    "853": {
+        "Book": "The Plane Legacy",
+        "ISBN": "382618980650423",
+        "Genre": "True crime",
+        "Author": "Oliver Martin",
+        "DateAdded": "2026-01-13"
+    },
+    "854": {
+        "Book": "A Men Beneath",
+        "ISBN": "420544491564406",
+        "Genre": "Textbook",
+        "Author": "Lucas Moore",
+        "DateAdded": "2025-02-28"
+    },
+    "855": {
+        "Book": "The Deer Dragon",
+        "ISBN": "227917552914177",
+        "Genre": "Business/economics",
+        "Author": "Liam Lee",
+        "DateAdded": "2029-09-01"
+    },
+    "856": {
+        "Book": "We Trial Dragon",
+        "ISBN": "819015457953509",
+        "Genre": "Cookbook",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2023-02-17"
+    },
+    "857": {
+        "Book": "The Trial Ice",
+        "ISBN": "770158765423729",
+        "Genre": "Coming-of-age",
+        "Author": "Ava Thomas",
+        "DateAdded": "2027-10-17"
+    },
+    "858": {
+        "Book": "A Men Legacy",
+        "ISBN": "874269866752755",
+        "Genre": "Graphic novel",
+        "Author": "Olivia Jones",
+        "DateAdded": "2023-05-01"
+    },
+    "859": {
+        "Book": "The Crime Blizzard",
+        "ISBN": "226023607457990",
+        "Genre": "Science fiction",
+        "Author": "William Martinez",
+        "DateAdded": "2031-01-31"
+    },
+    "860": {
+        "Book": "A Men Ice",
+        "ISBN": "722688340938141",
+        "Genre": "Action and adventure",
+        "Author": "Ava Rodriguez",
+        "DateAdded": "2023-11-25"
+    },
+    "861": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "727693376429021",
+        "Genre": "Textbook",
+        "Author": "Henry Anderson",
+        "DateAdded": "2030-12-21"
+    },
+    "862": {
+        "Book": "A Murder Fire",
+        "ISBN": "266674297592106",
+        "Genre": "Biography",
+        "Author": "James Garcia",
+        "DateAdded": "2029-06-08"
+    },
+    "863": {
+        "Book": "The War Dragon",
+        "ISBN": "612209870886984",
+        "Genre": "Action and adventure",
+        "Author": "William Lopez",
+        "DateAdded": "2031-04-28"
+    },
+    "864": {
+        "Book": "We Crime Ice",
+        "ISBN": "820082631090165",
+        "Genre": "Romance",
+        "Author": "Liam Wilson",
+        "DateAdded": "2027-11-21"
+    },
+    "865": {
+        "Book": "We Men Storm",
+        "ISBN": "156555718129712",
+        "Genre": "Dictionary",
+        "Author": "Theodore Jackson",
+        "DateAdded": "2025-02-18"
+    },
+    "866": {
+        "Book": "We War Sorrow",
+        "ISBN": "414660469378107",
+        "Genre": "Textbook",
+        "Author": "Emma Davis",
+        "DateAdded": "2027-11-20"
+    },
+    "867": {
+        "Book": "We Crime Legacy",
+        "ISBN": "491742722290893",
+        "Genre": "Philosophy",
+        "Author": "Mia Martin",
+        "DateAdded": "2029-03-19"
+    },
+    "868": {
+        "Book": "We War Fire",
+        "ISBN": "518870972810728",
+        "Genre": "Philosophy",
+        "Author": "James Lopez",
+        "DateAdded": "2028-10-24"
+    },
+    "869": {
+        "Book": "The Octopus Forever",
+        "ISBN": "924100855026750",
+        "Genre": "Mystery",
+        "Author": "Theodore Martinez",
+        "DateAdded": "2026-04-09"
+    },
+    "870": {
+        "Book": "The Octopus Blizzard",
+        "ISBN": "518100034892508",
+        "Genre": "Poetry",
+        "Author": "Henry Martin",
+        "DateAdded": "2030-10-27"
+    },
+    "871": {
+        "Book": "We Men Legacy",
+        "ISBN": "948298104420961",
+        "Genre": "Dictionary",
+        "Author": "Theodore Lopez",
+        "DateAdded": "2031-08-07"
+    },
+    "872": {
+        "Book": "The Crime Sorrow",
+        "ISBN": "396179303010200",
+        "Genre": "Children",
+        "Author": "Theodore Wilson",
+        "DateAdded": "2024-05-12"
+    },
+    "873": {
+        "Book": "The Crime Fire",
+        "ISBN": "523358736752538",
+        "Genre": "Journal",
+        "Author": "Evelyn Garcia",
+        "DateAdded": "2025-08-22"
+    },
+    "874": {
+        "Book": "A Never Sorrow",
+        "ISBN": "939190298993662",
+        "Genre": "Classic",
+        "Author": "Noah Lopez",
+        "DateAdded": "2029-12-12"
+    },
+    "875": {
+        "Book": "We Crime Storm",
+        "ISBN": "323954721313531",
+        "Genre": "Crafts/hobbies",
+        "Author": "Sophia Johnson",
+        "DateAdded": "2028-08-05"
+    },
+    "876": {
+        "Book": "We Crime Fire",
+        "ISBN": "894113863095148",
+        "Genre": "Science",
+        "Author": "Evelyn Jones",
+        "DateAdded": "2032-06-16"
+    },
+    "877": {
+        "Book": "The Trial Forever",
+        "ISBN": "968882695051165",
+        "Genre": "Thriller",
+        "Author": "Mia Lopez",
+        "DateAdded": "2029-10-31"
+    },
+    "878": {
+        "Book": "The War Forever",
+        "ISBN": "68981998667826",
+        "Genre": "Historical fiction",
+        "Author": "William Lee",
+        "DateAdded": "2026-08-09"
+    },
+    "879": {
+        "Book": "The Men Forever",
+        "ISBN": "584233800689416",
+        "Genre": "Science",
+        "Author": "Theodore Garcia",
+        "DateAdded": "2029-01-25"
+    },
+    "880": {
+        "Book": "The Men Legacy",
+        "ISBN": "959354046513624",
+        "Genre": "Chick lit",
+        "Author": "Liam Thomas",
+        "DateAdded": "2022-12-21"
+    },
+    "881": {
+        "Book": "A Crime Blizzard",
+        "ISBN": "379929913463246",
+        "Genre": "Western",
+        "Author": "Sophia Martin",
+        "DateAdded": "2025-12-04"
+    },
+    "882": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "868189989437701",
+        "Genre": "Journal",
+        "Author": "Amelia Miller",
+        "DateAdded": "2030-03-11"
+    },
+    "883": {
+        "Book": "We Father Dragon",
+        "ISBN": "227232058430530",
+        "Genre": "Biography",
+        "Author": "Charlotte Lopez",
+        "DateAdded": "2029-08-24"
+    },
+    "884": {
+        "Book": "We Father Beneath",
+        "ISBN": "743703069479853",
+        "Genre": "History",
+        "Author": "Theodore Johnson",
+        "DateAdded": "2026-05-06"
+    },
+    "885": {
+        "Book": "The Murder Dragon",
+        "ISBN": "325264829658556",
+        "Genre": "History",
+        "Author": "Amelia Moore",
+        "DateAdded": "2025-12-08"
+    },
+    "886": {
+        "Book": "A Never Beneath",
+        "ISBN": "273766495462385",
+        "Genre": "Poetry",
+        "Author": "Charlotte Lee",
+        "DateAdded": "2026-06-03"
+    },
+    "887": {
+        "Book": "The Murder Fire",
+        "ISBN": "137468944960190",
+        "Genre": "Children",
+        "Author": "Harper Garcia",
+        "DateAdded": "2028-02-08"
+    },
+    "888": {
+        "Book": "The Men Beneath",
+        "ISBN": "713943417433741",
+        "Genre": "Classic",
+        "Author": "Evelyn Martin",
+        "DateAdded": "2031-06-27"
+    },
+    "889": {
+        "Book": "A Father Dragon",
+        "ISBN": "496043064079739",
+        "Genre": "Alternate history",
+        "Author": "Theodore Williams",
+        "DateAdded": "2024-06-24"
+    },
+    "890": {
+        "Book": "A Father Storm",
+        "ISBN": "484198901251651",
+        "Genre": "Chick lit",
+        "Author": "Sophia Taylor",
+        "DateAdded": "2032-01-17"
+    },
+    "891": {
+        "Book": "The Never Legacy",
+        "ISBN": "894694339255506",
+        "Genre": "Coming-of-age",
+        "Author": "Elijah Smith",
+        "DateAdded": "2023-10-22"
+    },
+    "892": {
+        "Book": "The Crime Forever",
+        "ISBN": "223697034606168",
+        "Genre": "Textbook",
+        "Author": "Mia Jones",
+        "DateAdded": "2030-03-09"
+    },
+    "893": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "556394547797271",
+        "Genre": "Western",
+        "Author": "Ava Anderson",
+        "DateAdded": "2028-10-31"
+    },
+    "894": {
+        "Book": "We Father Beneath",
+        "ISBN": "458908624100075",
+        "Genre": "Sports",
+        "Author": "Benjamin Johnson",
+        "DateAdded": "2032-03-24"
+    },
+    "895": {
+        "Book": "A Octopus Fire",
+        "ISBN": "721580917382717",
+        "Genre": "Crime",
+        "Author": "Mia Jackson",
+        "DateAdded": "2023-02-20"
+    },
+    "896": {
+        "Book": "The Men Sorrow",
+        "ISBN": "14128733308635",
+        "Genre": "Alternate history",
+        "Author": "Harper Thomas",
+        "DateAdded": "2027-06-12"
+    },
+    "897": {
+        "Book": "A War Sorrow",
+        "ISBN": "64417737196281",
+        "Genre": "Poetry",
+        "Author": "Evelyn Davis",
+        "DateAdded": "2024-02-14"
+    },
+    "898": {
+        "Book": "A Father Dragon",
+        "ISBN": "841860610106512",
+        "Genre": "Journal",
+        "Author": "Elijah Lee",
+        "DateAdded": "2024-02-12"
+    },
+    "899": {
+        "Book": "The Murder Blizzard",
+        "ISBN": "500501945233612",
+        "Genre": "Dictionary",
+        "Author": "James Lopez",
+        "DateAdded": "2028-12-27"
+    },
+    "900": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "501367181271908",
+        "Genre": "Journal",
+        "Author": "William Brown",
+        "DateAdded": "2028-12-27"
+    },
+    "901": {
+        "Book": "The Men Storm",
+        "ISBN": "430354235825205",
+        "Genre": "Journal",
+        "Author": "Elijah Jones",
+        "DateAdded": "2029-11-25"
+    },
+    "902": {
+        "Book": "A Crime Fire",
+        "ISBN": "592693993531462",
+        "Genre": "Business/economics",
+        "Author": "Amelia Moore",
+        "DateAdded": "2026-07-18"
+    },
+    "903": {
+        "Book": "A Deer Beneath",
+        "ISBN": "805707408453439",
+        "Genre": "Western",
+        "Author": "Liam Brown",
+        "DateAdded": "2026-04-23"
+    },
+    "904": {
+        "Book": "We Octopus Blizzard",
+        "ISBN": "592840318992332",
+        "Genre": "Graphic novel",
+        "Author": "James Anderson",
+        "DateAdded": "2032-06-29"
+    },
+    "905": {
+        "Book": "A Murder Forever",
+        "ISBN": "915853066258992",
+        "Genre": "Textbook",
+        "Author": "Benjamin Moore",
+        "DateAdded": "2027-08-16"
+    },
+    "906": {
+        "Book": "We Trial Legacy",
+        "ISBN": "712578718982567",
+        "Genre": "Travel",
+        "Author": "Mia Smith",
+        "DateAdded": "2023-12-08"
+    },
+    "907": {
+        "Book": "We Never Ice",
+        "ISBN": "499965924888667",
+        "Genre": "Dictionary",
+        "Author": "William Jackson",
+        "DateAdded": "2024-07-10"
+    },
+    "908": {
+        "Book": "We Father Legacy",
+        "ISBN": "343595124657542",
+        "Genre": "Travel",
+        "Author": "Noah Smith",
+        "DateAdded": "2030-03-28"
+    },
+    "909": {
+        "Book": "A Father Ice",
+        "ISBN": "247583600697344",
+        "Genre": "Health/fitness",
+        "Author": "Theodore Miller",
+        "DateAdded": "2030-07-20"
+    },
+    "910": {
+        "Book": "A Father Forever",
+        "ISBN": "331288403156108",
+        "Genre": "Coming-of-age",
+        "Author": "Olivia Johnson",
+        "DateAdded": "2026-03-22"
+    },
+    "911": {
+        "Book": "A War Fire",
+        "ISBN": "146049012567920",
+        "Genre": "Mystery",
+        "Author": "Mia Davis",
+        "DateAdded": "2030-07-29"
+    },
+    "912": {
+        "Book": "We Murder Ice",
+        "ISBN": "238621467296437",
+        "Genre": "Graphic novel",
+        "Author": "Oliver Martinez",
+        "DateAdded": "2028-12-16"
+    },
+    "913": {
+        "Book": "We Never Legacy",
+        "ISBN": "948549000578395",
+        "Genre": "Autobiography",
+        "Author": "Harper Garcia",
+        "DateAdded": "2031-09-06"
+    },
+    "914": {
+        "Book": "The Father Dragon",
+        "ISBN": "776755710509848",
+        "Genre": "Western",
+        "Author": "Charlotte Anderson",
+        "DateAdded": "2030-04-25"
+    },
+    "915": {
+        "Book": "A Crime Legacy",
+        "ISBN": "252961144123756",
+        "Genre": "Crafts/hobbies",
+        "Author": "James Martinez",
+        "DateAdded": "2029-12-16"
+    },
+    "916": {
+        "Book": "A Octopus Legacy",
+        "ISBN": "978700246789286",
+        "Genre": "Comic book",
+        "Author": "Noah Lee",
+        "DateAdded": "2027-07-22"
+    },
+    "917": {
+        "Book": "The Plane Beneath",
+        "ISBN": "723136453352823",
+        "Genre": "Dictionary",
+        "Author": "Ava Jones",
+        "DateAdded": "2031-07-11"
+    },
+    "918": {
+        "Book": "We Octopus Sorrow",
+        "ISBN": "779208510810701",
+        "Genre": "Business/economics",
+        "Author": "Lucas Martinez",
+        "DateAdded": "2022-07-29"
+    },
+    "919": {
+        "Book": "The Never Forever",
+        "ISBN": "302741621921446",
+        "Genre": "Travel",
+        "Author": "Charlotte Williams",
+        "DateAdded": "2032-04-26"
+    },
+    "920": {
+        "Book": "A Crime Blizzard",
+        "ISBN": "336014524278902",
+        "Genre": "Crafts/hobbies",
+        "Author": "Henry Jones",
+        "DateAdded": "2030-01-31"
+    },
+    "921": {
+        "Book": "A Crime Dragon",
+        "ISBN": "360453836334122",
+        "Genre": "Business/economics",
+        "Author": "Mia Jackson",
+        "DateAdded": "2029-11-20"
+    },
+    "922": {
+        "Book": "We Father Storm",
+        "ISBN": "821485132327652",
+        "Genre": "Home and garden",
+        "Author": "Theodore Miller",
+        "DateAdded": "2028-03-19"
+    },
+    "923": {
+        "Book": "The Octopus Ice",
+        "ISBN": "564726830113626",
+        "Genre": "Romance",
+        "Author": "Noah Thomas",
+        "DateAdded": "2025-05-25"
+    },
+    "924": {
+        "Book": "The Murder Blizzard",
+        "ISBN": "552849616489208",
+        "Genre": "Dictionary",
+        "Author": "Oliver Brown",
+        "DateAdded": "2025-11-27"
+    },
+    "925": {
+        "Book": "The Trial Forever",
+        "ISBN": "700948696846313",
+        "Genre": "Western",
+        "Author": "Isabella Garcia",
+        "DateAdded": "2029-10-31"
+    },
+    "926": {
+        "Book": "A Trial Fire",
+        "ISBN": "900093898300339",
+        "Genre": "Guide",
+        "Author": "Oliver Moore",
+        "DateAdded": "2026-05-08"
+    },
+    "927": {
+        "Book": "We Men Blizzard",
+        "ISBN": "149517406032246",
+        "Genre": "Children",
+        "Author": "Charlotte Thomas",
+        "DateAdded": "2031-10-18"
+    },
+    "928": {
+        "Book": "A Plane Dragon",
+        "ISBN": "665729686118652",
+        "Genre": "Science",
+        "Author": "Evelyn Thomas",
+        "DateAdded": "2029-12-22"
+    },
+    "929": {
+        "Book": "The Father Forever",
+        "ISBN": "982336760367900",
+        "Genre": "Alternate history",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2030-09-06"
+    },
+    "930": {
+        "Book": "We Murder Storm",
+        "ISBN": "498038640970482",
+        "Genre": "Alternate history",
+        "Author": "Isabella Lopez",
+        "DateAdded": "2022-12-24"
+    },
+    "931": {
+        "Book": "The War Dragon",
+        "ISBN": "840693510090309",
+        "Genre": "Sports",
+        "Author": "Henry Moore",
+        "DateAdded": "2031-08-17"
+    },
+    "932": {
+        "Book": "We Trial Beneath",
+        "ISBN": "217604897222382",
+        "Genre": "Action and adventure",
+        "Author": "Mia Lee",
+        "DateAdded": "2024-05-19"
+    },
+    "933": {
+        "Book": "We Trial Beneath",
+        "ISBN": "806369295297058",
+        "Genre": "History",
+        "Author": "Elijah Anderson",
+        "DateAdded": "2027-10-07"
+    },
+    "934": {
+        "Book": "The Plane Ice",
+        "ISBN": "268829270905572",
+        "Genre": "Humor",
+        "Author": "Theodore Taylor",
+        "DateAdded": "2027-02-19"
+    },
+    "935": {
+        "Book": "A Father Sorrow",
+        "ISBN": "149170223570404",
+        "Genre": "Fantasy",
+        "Author": "Henry Smith",
+        "DateAdded": "2030-08-08"
+    },
+    "936": {
+        "Book": "We Deer Dragon",
+        "ISBN": "156328599425846",
+        "Genre": "Autobiography",
+        "Author": "Henry Miller",
+        "DateAdded": "2023-07-18"
+    },
+    "937": {
+        "Book": "The Deer Forever",
+        "ISBN": "151425196166057",
+        "Genre": "Science",
+        "Author": "Ava Miller",
+        "DateAdded": "2026-05-23"
+    },
+    "938": {
+        "Book": "A Trial Storm",
+        "ISBN": "556576198352657",
+        "Genre": "Classic",
+        "Author": "Evelyn Jones",
+        "DateAdded": "2023-01-17"
+    },
+    "939": {
+        "Book": "The Crime Legacy",
+        "ISBN": "837386583454256",
+        "Genre": "Anthology",
+        "Author": "Noah Miller",
+        "DateAdded": "2026-10-03"
+    },
+    "940": {
+        "Book": "We Never Forever",
+        "ISBN": "256827030042842",
+        "Genre": "Children",
+        "Author": "Theodore Jones",
+        "DateAdded": "2022-08-14"
+    },
+    "941": {
+        "Book": "A Plane Forever",
+        "ISBN": "625100410244189",
+        "Genre": "Anthology",
+        "Author": "Lucas Jones",
+        "DateAdded": "2030-06-24"
+    },
+    "942": {
+        "Book": "The Octopus Fire",
+        "ISBN": "787852569219498",
+        "Genre": "Diary",
+        "Author": "Ava Johnson",
+        "DateAdded": "2031-12-17"
+    },
+    "943": {
+        "Book": "We Deer Dragon",
+        "ISBN": "733767347440162",
+        "Genre": "Humor",
+        "Author": "Oliver Johnson",
+        "DateAdded": "2029-02-01"
+    },
+    "944": {
+        "Book": "The Crime Storm",
+        "ISBN": "388368559954234",
+        "Genre": "Crime",
+        "Author": "Henry Miller",
+        "DateAdded": "2026-08-01"
+    },
+    "945": {
+        "Book": "We Plane Sorrow",
+        "ISBN": "125475019445575",
+        "Genre": "Philosophy",
+        "Author": "William Jones",
+        "DateAdded": "2032-06-10"
+    },
+    "946": {
+        "Book": "The Deer Forever",
+        "ISBN": "240690380897351",
+        "Genre": "Chick lit",
+        "Author": "Lucas Lee",
+        "DateAdded": "2027-01-10"
+    },
+    "947": {
+        "Book": "We Trial Forever",
+        "ISBN": "836330038738619",
+        "Genre": "Philosophy",
+        "Author": "Harper Johnson",
+        "DateAdded": "2023-07-11"
+    },
+    "948": {
+        "Book": "A Deer Beneath",
+        "ISBN": "850416509746147",
+        "Genre": "Autobiography",
+        "Author": "Henry Martinez",
+        "DateAdded": "2026-04-12"
+    },
+    "949": {
+        "Book": "We War Fire",
+        "ISBN": "922309286756369",
+        "Genre": "Sports",
+        "Author": "Sophia Davis",
+        "DateAdded": "2027-03-23"
+    },
+    "950": {
+        "Book": "The Plane Storm",
+        "ISBN": "704251597140419",
+        "Genre": "Guide",
+        "Author": "Ava Jones",
+        "DateAdded": "2022-11-07"
+    },
+    "951": {
+        "Book": "The Deer Fire",
+        "ISBN": "79888645849613",
+        "Genre": "Diary",
+        "Author": "Oliver Lee",
+        "DateAdded": "2031-07-01"
+    },
+    "952": {
+        "Book": "We Deer Beneath",
+        "ISBN": "883698973471094",
+        "Genre": "Science",
+        "Author": "Noah Lee",
+        "DateAdded": "2031-11-07"
+    },
+    "953": {
+        "Book": "A Octopus Forever",
+        "ISBN": "365292126671702",
+        "Genre": "Drama",
+        "Author": "Mia Garcia",
+        "DateAdded": "2029-02-20"
+    },
+    "954": {
+        "Book": "The Plane Ice",
+        "ISBN": "994359358589620",
+        "Genre": "Fantasy",
+        "Author": "Emma Wilson",
+        "DateAdded": "2025-08-03"
+    },
+    "955": {
+        "Book": "A Octopus Storm",
+        "ISBN": "565370403611679",
+        "Genre": "Coming-of-age",
+        "Author": "Sophia Johnson",
+        "DateAdded": "2025-07-10"
+    },
+    "956": {
+        "Book": "We Men Forever",
+        "ISBN": "972433088286809",
+        "Genre": "Poetry",
+        "Author": "Emma Garcia",
+        "DateAdded": "2025-12-04"
+    },
+    "957": {
+        "Book": "We Murder Sorrow",
+        "ISBN": "730323464526029",
+        "Genre": "Romance",
+        "Author": "Emma Moore",
+        "DateAdded": "2027-01-15"
+    },
+    "958": {
+        "Book": "A Father Sorrow",
+        "ISBN": "723972509776775",
+        "Genre": "Fantasy",
+        "Author": "Charlotte Brown",
+        "DateAdded": "2027-11-21"
+    },
+    "959": {
+        "Book": "A Plane Legacy",
+        "ISBN": "473057310101744",
+        "Genre": "Classic",
+        "Author": "Amelia Miller",
+        "DateAdded": "2025-12-19"
+    },
+    "960": {
+        "Book": "A Men Storm",
+        "ISBN": "617211545416922",
+        "Genre": "Alternate history",
+        "Author": "Ava Lopez",
+        "DateAdded": "2025-09-13"
+    },
+    "961": {
+        "Book": "The Octopus Storm",
+        "ISBN": "506345355641168",
+        "Genre": "Crafts/hobbies",
+        "Author": "Benjamin Jackson",
+        "DateAdded": "2022-11-09"
+    },
+    "962": {
+        "Book": "We War Fire",
+        "ISBN": "360976477386150",
+        "Genre": "Home and garden",
+        "Author": "Mia Johnson",
+        "DateAdded": "2028-01-03"
+    },
+    "963": {
+        "Book": "We Octopus Dragon",
+        "ISBN": "16112625871124",
+        "Genre": "Cookbook",
+        "Author": "Theodore Miller",
+        "DateAdded": "2032-03-14"
+    },
+    "964": {
+        "Book": "The Crime Ice",
+        "ISBN": "214486583112405",
+        "Genre": "Historical fiction",
+        "Author": "Lucas Moore",
+        "DateAdded": "2022-11-19"
+    },
+    "965": {
+        "Book": "We Murder Forever",
+        "ISBN": "861956688184233",
+        "Genre": "Diary",
+        "Author": "Noah Taylor",
+        "DateAdded": "2025-08-29"
+    },
+    "966": {
+        "Book": "We Murder Blizzard",
+        "ISBN": "54577249263658",
+        "Genre": "Crafts/hobbies",
+        "Author": "William Taylor",
+        "DateAdded": "2027-08-08"
+    },
+    "967": {
+        "Book": "The War Forever",
+        "ISBN": "754338982554395",
+        "Genre": "Children",
+        "Author": "Harper Martin",
+        "DateAdded": "2027-02-22"
+    },
+    "968": {
+        "Book": "We War Storm",
+        "ISBN": "467899060845558",
+        "Genre": "Children",
+        "Author": "Olivia Thomas",
+        "DateAdded": "2024-05-08"
+    },
+    "969": {
+        "Book": "We Never Ice",
+        "ISBN": "742148334407020",
+        "Genre": "Home and garden",
+        "Author": "Liam Rodriguez",
+        "DateAdded": "2028-02-29"
+    },
+    "970": {
+        "Book": "We Father Legacy",
+        "ISBN": "129508926477894",
+        "Genre": "Philosophy",
+        "Author": "Noah Moore",
+        "DateAdded": "2025-02-12"
+    },
+    "971": {
+        "Book": "A Murder Forever",
+        "ISBN": "853341857085095",
+        "Genre": "Guide",
+        "Author": "Henry Garcia",
+        "DateAdded": "2024-06-03"
+    },
+    "972": {
+        "Book": "The Never Dragon",
+        "ISBN": "597140653342603",
+        "Genre": "Humor",
+        "Author": "Lucas Jackson",
+        "DateAdded": "2032-07-15"
+    },
+    "973": {
+        "Book": "We Father Sorrow",
+        "ISBN": "130762816652101",
+        "Genre": "Cookbook",
+        "Author": "Charlotte Taylor",
+        "DateAdded": "2023-07-11"
+    },
+    "974": {
+        "Book": "We Father Storm",
+        "ISBN": "223257803611211",
+        "Genre": "Historical fiction",
+        "Author": "Oliver Wilson",
+        "DateAdded": "2022-09-23"
+    },
+    "975": {
+        "Book": "A Crime Fire",
+        "ISBN": "968152508832389",
+        "Genre": "Anthology",
+        "Author": "Sophia Miller",
+        "DateAdded": "2024-04-18"
+    },
+    "976": {
+        "Book": "A Octopus Beneath",
+        "ISBN": "902090976291042",
+        "Genre": "Travel",
+        "Author": "Oliver Thomas",
+        "DateAdded": "2029-02-02"
+    },
+    "977": {
+        "Book": "We Trial Dragon",
+        "ISBN": "331432800117857",
+        "Genre": "Horror",
+        "Author": "Elijah Johnson",
+        "DateAdded": "2028-01-26"
+    },
+    "978": {
+        "Book": "We Never Beneath",
+        "ISBN": "113934573723535",
+        "Genre": "Cookbook",
+        "Author": "Isabella Lee",
+        "DateAdded": "2030-01-28"
+    },
+    "979": {
+        "Book": "A Octopus Sorrow",
+        "ISBN": "889001253582462",
+        "Genre": "Comic book",
+        "Author": "Benjamin Lopez",
+        "DateAdded": "2025-08-31"
+    },
+    "980": {
+        "Book": "A Crime Forever",
+        "ISBN": "726635652368491",
+        "Genre": "Diary",
+        "Author": "Liam Lopez",
+        "DateAdded": "2031-12-13"
+    },
+    "981": {
+        "Book": "A War Fire",
+        "ISBN": "266342049453061",
+        "Genre": "Classic",
+        "Author": "Lucas Anderson",
+        "DateAdded": "2027-08-04"
+    },
+    "982": {
+        "Book": "The Never Blizzard",
+        "ISBN": "285350598267675",
+        "Genre": "Crafts/hobbies",
+        "Author": "Noah Lopez",
+        "DateAdded": "2026-06-14"
+    },
+    "983": {
+        "Book": "A Crime Forever",
+        "ISBN": "373301660592538",
+        "Genre": "True crime",
+        "Author": "Sophia Rodriguez",
+        "DateAdded": "2030-02-26"
+    },
+    "984": {
+        "Book": "A Crime Sorrow",
+        "ISBN": "916941061039345",
+        "Genre": "Alternate history",
+        "Author": "Oliver Lee",
+        "DateAdded": "2030-03-06"
+    },
+    "985": {
+        "Book": "We Octopus Sorrow",
+        "ISBN": "418471675066686",
+        "Genre": "History",
+        "Author": "Benjamin Moore",
+        "DateAdded": "2028-11-12"
+    },
+    "986": {
+        "Book": "The Deer Beneath",
+        "ISBN": "639148562458324",
+        "Genre": "History",
+        "Author": "Ava Garcia",
+        "DateAdded": "2030-12-31"
+    },
+    "987": {
+        "Book": "A War Ice",
+        "ISBN": "105343134715156",
+        "Genre": "Guide",
+        "Author": "Lucas Lopez",
+        "DateAdded": "2029-08-14"
+    },
+    "988": {
+        "Book": "A Octopus Ice",
+        "ISBN": "682763057867304",
+        "Genre": "Children",
+        "Author": "Noah Jackson",
+        "DateAdded": "2023-04-02"
+    },
+    "989": {
+        "Book": "A War Forever",
+        "ISBN": "442309208222067",
+        "Genre": "Anthology",
+        "Author": "Olivia Williams",
+        "DateAdded": "2029-01-04"
+    },
+    "990": {
+        "Book": "A Trial Legacy",
+        "ISBN": "359559533089698",
+        "Genre": "Anthology",
+        "Author": "Olivia Moore",
+        "DateAdded": "2030-05-30"
+    },
+    "991": {
+        "Book": "A Murder Dragon",
+        "ISBN": "787692180182472",
+        "Genre": "Children",
+        "Author": "James Lee",
+        "DateAdded": "2032-04-12"
+    },
+    "992": {
+        "Book": "A Murder Blizzard",
+        "ISBN": "39455359503870",
+        "Genre": "Crime",
+        "Author": "Amelia Jackson",
+        "DateAdded": "2031-04-12"
+    },
+    "993": {
+        "Book": "We Trial Blizzard",
+        "ISBN": "617890015112057",
+        "Genre": "Dictionary",
+        "Author": "Oliver Rodriguez",
+        "DateAdded": "2027-06-22"
+    },
+    "994": {
+        "Book": "The Octopus Sorrow",
+        "ISBN": "673407210954693",
+        "Genre": "Western",
+        "Author": "Oliver Moore",
+        "DateAdded": "2030-04-02"
+    },
+    "995": {
+        "Book": "A Plane Forever",
+        "ISBN": "549889150321391",
+        "Genre": "Thriller",
+        "Author": "Ava Martin",
+        "DateAdded": "2027-09-09"
+    },
+    "996": {
+        "Book": "The Trial Forever",
+        "ISBN": "414591670228391",
+        "Genre": "Sports",
+        "Author": "Ava Thomas",
+        "DateAdded": "2025-08-12"
+    },
+    "997": {
+        "Book": "A Deer Beneath",
+        "ISBN": "932202107851400",
+        "Genre": "Children",
+        "Author": "Noah Smith",
+        "DateAdded": "2025-08-28"
+    },
+    "998": {
+        "Book": "We Deer Fire",
+        "ISBN": "786487352478678",
+        "Genre": "Autobiography",
+        "Author": "Noah Lopez",
+        "DateAdded": "2030-09-06"
+    },
+    "999": {
+        "Book": "A Plane Dragon",
+        "ISBN": "613438035825055",
+        "Genre": "Anthology",
+        "Author": "Oliver Lopez",
+        "DateAdded": "2022-10-23"
+    }
+}
