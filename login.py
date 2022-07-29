@@ -1,6 +1,11 @@
 from flask import Flask, request, render_template, session, abort, flash
 import os
+import pymongo
 import json
+
+mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
+mongo_db = mongo_client['w_books']
+mongo_coll = mongo_db['users']
 
 app = Flask(__name__)
 @app.route('/')
