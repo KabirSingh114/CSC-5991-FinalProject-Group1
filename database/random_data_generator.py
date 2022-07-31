@@ -1,6 +1,7 @@
 import random
 import json
 import os
+import numpy as np
 from faker import Faker #pip install Faker
 fake = Faker()
 
@@ -29,7 +30,8 @@ for x in range(1000):
                    "ISBN": str(random.randint(1000000000000, 999999999999999)),
                    "Genre": random.choice(genre),
                    "Author": random.choice(first_names) + " " + random.choice(last_names),
-                   "DateAdded": str(fake.date_between(start_date='today', end_date='+10y'))})
+                   "DateAdded": str(fake.date_between(start_date='today', end_date='+10y')),
+                   "Trending": np.random.choice(["No", "Yes"], p=[0.75, 0.25])})
 json.dump(book_dict, out_file, indent = 4)
 out_file.close()
 print(book_dict)

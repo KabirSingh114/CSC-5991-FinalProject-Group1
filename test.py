@@ -5,6 +5,7 @@ import json
 import os
 import pymongo
 from faker import Faker
+import numpy as np
 
 mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
 mongo_db = mongo_client['w_books']
@@ -22,13 +23,16 @@ mongo_coll = mongo_db['books']
 
 # # cursor = mongo_db.books.find( {"DateAdded": { "$gt": "2020-07-25" } } )
 
-cursor = mongo_coll.find({"DateAdded" : { "$gt": "2030-07-25" } })
-count = 0
-for x in cursor:
-    count = count + 1
-    #print(x)
-print(count)
+# cursor = mongo_coll.find({"DateAdded" : { "$gt": "2030-07-25" } })
+# count = 0
+# for x in cursor:
+#     count = count + 1
+#     #print(x)
+# print(count)
 
+arr = []
+for doc in range(10):
+    print(np.random.choice(["Yes", "No"], p=[0.75, 0.25]))
 
 
 

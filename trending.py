@@ -17,7 +17,7 @@ def trending_list():
     #add trending tag or trending table
     #pull all from table
     #display
-    #cursor = mongo_coll.find({"DateAdded" : { "$gt": "2030-07-25" } }) 
+    cursor = mongo_coll.find({"Trending" : "Yes" }) 
     for document in cursor:
             print(document)
             ret = document
@@ -26,4 +26,4 @@ def trending_list():
 
 if __name__ == '__main__':
     #app.secret_key = os.urandom(12) #needed?
-    app.run(host='0.0.0.0', port=5002)
+    app.run(host='0.0.0.0', port=5003)
