@@ -22,10 +22,12 @@ mongo_coll = mongo_db['books']
 
 # # cursor = mongo_db.books.find( {"DateAdded": { "$gt": "2020-07-25" } } )
 
-cursor = mongo_coll.find({"ISBN" : "323449414257768"})
+cursor = mongo_coll.find({"DateAdded" : { "$gt": "2030-07-25" } })
+count = 0
 for x in cursor:
-    print(x)
-
+    count = count + 1
+    #print(x)
+print(count)
 
 
 
