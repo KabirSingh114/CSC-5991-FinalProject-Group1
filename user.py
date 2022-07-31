@@ -25,11 +25,19 @@ def users_list():
 
 
 @app.route('/users/<username>', methods=['GET'])
-def user_info(username):
+def user_by_username(username):
     user_data = mongo_users_coll.find_one({"Username": username})
     hide_password = {"Password": ""}
     user_data.update(hide_password)
     return dumps(user_data)
+
+@app.route('/users/<email>', methods=['GET'])
+def user_by_email(email):
+    user_data = mongo_users_coll.find_one({"Email": email})
+    hide_password = {"Password": ""}
+    user_data.update(hide_password)
+    return dumps(user_data)
+
 
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
