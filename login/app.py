@@ -3,7 +3,7 @@ import os
 import pymongo
 import json
 import requests
-from werkzeug.utils import redirect
+from bson.json_util import dumps
 
 mongo_client = pymongo.MongoClient('mongodb://db:27017/')
 mongo_db = mongo_client['w_books']
@@ -19,7 +19,7 @@ def home():
     if not session.get('logged_in'):
         return render_template('login.html')
     else:
-        user_profile = user_profile = requests.get("http://users:5000/users/{}".format(session.get('user')))
+        user_profile = requests.get("http://users:5000/users/{}".format(session.get('user')))
         user_profile = user_profile.json()
 
         return render_template('index.html', user_profile=user_profile)
@@ -43,7 +43,13 @@ def book_search():
     print(request.form['search'])
     print(request.form['option'])
 
-    return home()
+    build_call_url = "http://books:5000/books/" + request.form['option'] + "/{}"
+    print(build_call_url)
+
+    search_result = requests.get(build_call_url.format(request.form['search']))
+    search_result = search_result.json()
+
+    return render_template('results.html', search_result=search_result)
 
 
 if __name__ == '__main__':

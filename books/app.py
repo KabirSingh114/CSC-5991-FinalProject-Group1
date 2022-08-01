@@ -21,13 +21,13 @@ def books_list():
     books_data = mongo_books_coll.find()
     return dumps(books_data)
 
-@app.route('/books/<ISBN>', methods=['GET'])
+@app.route('/books/isbn/<ISBN>', methods=['GET'])
 def book_info(isbn):
     book_data = mongo_books_coll.find_one({"ISBN": isbn})
     return dumps(book_data)
 
 
-@app.route('/books/<genre>', methods=['GET'])
+@app.route('/books/genre/<genre>', methods=['GET'])
 def genre_info(genre):
     genre_data = mongo_books_coll.find({"Genre": genre})
     return dumps(genre_data)
