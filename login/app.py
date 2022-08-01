@@ -1,6 +1,4 @@
 from flask import Flask, request, render_template, session, abort, flash
-from flask_session import Session
-from flask_cors import CORS
 import os
 import pymongo
 import json
@@ -18,7 +16,8 @@ app.secret_key = os.urandom(12)
 @app.route('/')
 def home():
     if session.get('logged_in'):
-        user_profile = requests.get("http://users:5003/users/{}".format(session.get('user')))  #some problem with getting this api call
+        user_profile = requests.get("http://users:5000/users/{}".format(session.get('user')))  #some problem with getting this api call
+        user_profile = user_profile.json()
         welcome_message = "Welcome " + user_profile["First_Name"] + "!"
         return welcome_message
     return render_template('login.html')
