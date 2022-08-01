@@ -13,14 +13,17 @@ mongo_users_coll = mongo_db['users']
 app = Flask(__name__)
 app.secret_key = os.urandom(12)
 
+
 @app.route('/')
 def home():
-    if session.get('logged_in'):
-        user_profile = requests.get("http://users:5000/users/{}".format(session.get('user')))  #some problem with getting this api call
+    if not session.get('logged_in'):
+        return render_template('login.html')
+    else:
+        user_profile = user_profile = requests.get("http://users:5000/users/{}".format(session.get('user')))
         user_profile = user_profile.json()
-        welcome_message = "Welcome " + user_profile["First_Name"] + "!"
-        return welcome_message
-    return render_template('login.html')
+
+        return render_template('index.html', user_profile=user_profile)
+
 
 @app.route('/login', methods=['POST'])
 def authenticate():
@@ -32,6 +35,14 @@ def authenticate():
         session['user'] = request.form['username']
     else:
         flash('Invalid Login Attempt')
+    return home()
+
+
+@app.route('/search', methods=['POST'])
+def book_search():
+    print(request.form['search'])
+    print(request.form['option'])
+
     return home()
 
 

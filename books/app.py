@@ -32,6 +32,18 @@ def genre_info(genre):
     genre_data = mongo_books_coll.find({"Genre": genre})
     return dumps(genre_data)
 
+
+@app.route('/books/title/<title>', methods=['GET'])
+def book_by_title(title):
+    title_data = mongo_books_coll.find({"Book": title})
+    return dumps(title_data)
+
+
+@app.route('/books/author/<author>', methods=['GET'])
+def book_by_author(author):
+    author_data = mongo_books_coll.find({"Author": author})
+    return dumps(author_data)
+
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
     app.run(host='0.0.0.0', port=5004)
