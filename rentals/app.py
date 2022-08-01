@@ -10,8 +10,7 @@ app = Flask(__name__)
 
 @app.route('/rent', methods=['POST'])
 def rental():
-
-    mongoClient = pymongo.MongoClient('mongodb://localhost:27017/')
+    mongo_client = pymongo.MongoClient('mongodb://db:27017/')
     mongoDb = mongoClient['w_books']
     bookCollection = mongoDb['books_rentals']
     result = bookCollection.insert_one({
@@ -28,4 +27,4 @@ def rental():
 
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5006)

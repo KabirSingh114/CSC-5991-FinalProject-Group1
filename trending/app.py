@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route("/trending", methods=['GET'])
 def trending_list():
-    mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
+    mongo_client = pymongo.MongoClient('mongodb://db:27017/')
     mongo_db = mongo_client['w_books']
     mongo_coll = mongo_db['books']
     ret = dict()

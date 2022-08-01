@@ -6,23 +6,20 @@ from bson.json_util import dumps
 import requests
 from werkzeug.utils import redirect
 
-mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
+mongo_client = pymongo.MongoClient('mongodb://db:27017/')
 mongo_db = mongo_client['w_books']
 mongo_books_coll = mongo_db['books']
 
 app = Flask(__name__)
 
-
 @app.route('/')
 def home():
     return "Welcome!"
-
 
 @app.route('/books', methods=['GET'])
 def books_list():
     books_data = mongo_books_coll.find()
     return dumps(books_data)
-
 
 @app.route('/books/<ISBN>', methods=['GET'])
 def book_info(isbn):

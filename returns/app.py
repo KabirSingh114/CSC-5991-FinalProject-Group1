@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 @app.route('/return', methods=['POST'])
 def returned():
-    mongoClient = pymongo.MongoClient('mongodb://localhost:27017/')
+    mongo_client = pymongo.MongoClient('mongodb://db:27017/')
     mongoDb = mongoClient['w_books']
     bookCollection = mongoDb['books_rentals']
 

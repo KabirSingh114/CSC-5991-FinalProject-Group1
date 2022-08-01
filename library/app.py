@@ -5,7 +5,7 @@ from datetime import datetime
 import json
 from bson.json_util import dumps, loads
 
-mongo_client = pymongo.MongoClient('mongodb://localhost:27017/')
+mongo_client = pymongo.MongoClient('mongodb://db:27017/')
 mongo_db = mongo_client['w_books']
 bookCollection = mongoDb['books_rentals']
 app = Flask(__name__)
