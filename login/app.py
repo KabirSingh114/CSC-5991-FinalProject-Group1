@@ -1,4 +1,6 @@
 from flask import Flask, request, render_template, session, abort, flash
+from flask_session import Session
+from flask_cors import CORS
 import os
 import pymongo
 import json
@@ -11,36 +13,28 @@ mongo_coll = mongo_db['users']
 mongo_users_coll = mongo_db['users']
 
 app = Flask(__name__)
+app.secret_key = os.urandom(12)
+
 @app.route('/')
 def home():
-    if not session.get('logged_in'):
-        return render_template('login.html')
-    else:
-        user_profile = requests.get("http://users/{}".format(session.get('user')))
-        user_profile = user_profile.json()
+    if session.get('logged_in'):
+        user_profile = requests.get("http://users:5003/users/{}".format(session.get('user')))  #some problem with getting this api call
         welcome_message = "Welcome " + user_profile["First_Name"] + "!"
         return welcome_message
+    return render_template('login.html')
 
-@app.route('/home')
-def homePage():
-    user_profile = requests.get("http://users/{}".format(session.get('user')))
-    user_profile = user_profile.json()
-    welcome_message = "Welcome " + user_profile["First_Name"] + "!"
-    return welcome_message
-        
 @app.route('/login', methods=['POST'])
 def authenticate():
     print(request)
     query = {"Username": request.form['username'], "Password": request.form['password']}
     valid_login = mongo_users_coll.count_documents(query)
-    if valid_login == 1:
+    if valid_login > 0:
         session['logged_in'] = True
         session['user'] = request.form['username']
-        return homePage()
     else:
-        return home()
+        flash('Invalid Login Attempt')
+    return home()
 
 
 if __name__ == '__main__':
-    app.secret_key = os.urandom(12)
-    app.run(host='0.0.0.0', port=8008)
+    app.run(host='0.0.0.0')
