@@ -6,3 +6,4 @@ docker pull kabirsingh114/csc5991group1:login
 docker pull kabirsingh114/csc5991group1:returns
 docker pull kabirsingh114/csc5991group1:recentlyAdded
 docker pull kabirsingh114/csc5991group1:books
+docker pull kabirsingh114/csc5991group1:ratings
