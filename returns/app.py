@@ -11,7 +11,7 @@ app = Flask(__name__)
 @app.route('/return', methods=['POST'])
 def returned():
     mongo_client = pymongo.MongoClient('mongodb://db:27017/')
-    mongoDb = mongoClient['w_books']
+    mongoDb = mongo_client['w_books']
     bookCollection = mongoDb['books_rentals']
 
     query = {

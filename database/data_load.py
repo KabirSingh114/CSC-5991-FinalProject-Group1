@@ -6,6 +6,7 @@ mongo_db = mongo_client['w_books']
 mongo_db.create_collection('books')
 mongo_books_coll = mongo_db['books']
 mongo_db.create_collection('users')
+mongo_db.create_collection('books_rentals')
 mongo_users_coll = mongo_db['users']
 
 print(mongo_db.list_collection_names())
