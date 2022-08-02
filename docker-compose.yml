@@ -36,3 +36,7 @@ services:
     image: kabirsingh114/csc5991group1:login
     ports:
         - "8008:5000"
+  ratings:
+    image: kabirsingh114/csc5991group1:ratings
+    ports:
+      - "5009:5000"
