@@ -17,12 +17,11 @@ def home():
     if not session.get('logged_in'):
         return render_template('login.html')
     else:
-        user_profile = requests.get("http://127.0.0.1:5002/users/{}".format(session.get('user')))
+        user_profile = requests.get("http://127.0.0.1:5003/users/{}".format(session.get('user')))
         user_profile = user_profile.json()
         welcome_message = "Welcome " + user_profile["First_Name"] + "!"
         return welcome_message
-
-
+        
 @app.route('/login', methods=['POST'])
 def authenticate():
 
@@ -34,6 +33,7 @@ def authenticate():
     if valid_login == 1:
         session['logged_in'] = True
         session['user'] = request.form['username']
+        #return userHomePage()
     else:
         flash('Invalid Login Attempt')
     return home()
@@ -41,4 +41,4 @@ def authenticate():
 
 if __name__ == '__main__':
     app.secret_key = os.urandom(12)
-    app.run(host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=8008)

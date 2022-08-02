@@ -1,0 +1,79 @@
+[
+    {
+        "Username": "admin",
+        "Password": "password1",
+        "First_Name": "admin",
+        "Last_Name": "admin",
+        "Email": "admin@google.com"
+    },
+    {
+        "Username": "EvelynBrown",
+        "Password": "gk9gHGIK_7",
+        "First_Name": "Evelyn",
+        "Last_Name": "Brown",
+        "Email": "EvelynBrown@hotmail.com"
+    },
+    {
+        "Username": "HarperJohnson",
+        "Password": "$0W6V!nc27",
+        "First_Name": "Harper",
+        "Last_Name": "Johnson",
+        "Email": "HarperJohnson@google.com"
+    },
+    {
+        "Username": "SophiaDavis",
+        "Password": "(3SZYxlrr^",
+        "First_Name": "Sophia",
+        "Last_Name": "Davis",
+        "Email": "SophiaDavis@google.com"
+    },
+    {
+        "Username": "OliverMartinez",
+        "Password": "!^3QAnxqV9",
+        "First_Name": "Oliver",
+        "Last_Name": "Martinez",
+        "Email": "OliverMartinez@yahoo.com"
+    },
+    {
+        "Username": "LucasMartin",
+        "Password": "a*70cpRy74",
+        "First_Name": "Lucas",
+        "Last_Name": "Martin",
+        "Email": "LucasMartin@wayne.edu"
+    },
+    {
+        "Username": "HarperMartin",
+        "Password": "&3GH3wvct&",
+        "First_Name": "Harper",
+        "Last_Name": "Martin",
+        "Email": "HarperMartin@wayne.edu"
+    },
+    {
+        "Username": "HenryMoore",
+        "Password": "Z%FUUsp9#9",
+        "First_Name": "Henry",
+        "Last_Name": "Moore",
+        "Email": "HenryMoore@wayne.edu"
+    },
+    {
+        "Username": "AvaJohnson",
+        "Password": ")ZWLqtuxY8",
+        "First_Name": "Ava",
+        "Last_Name": "Johnson",
+        "Email": "AvaJohnson@wayne.edu"
+    },
+    {
+        "Username": "CharlotteLee",
+        "Password": "fg2(ZrKmJ^",
+        "First_Name": "Charlotte",
+        "Last_Name": "Lee",
+        "Email": "CharlotteLee@yahoo.com"
+    },
+    {
+        "Username": "OliverJones",
+        "Password": "sy#9OJbb(Z",
+        "First_Name": "Oliver",
+        "Last_Name": "Jones",
+        "Email": "OliverJones@yahoo.com"
+    }
+]

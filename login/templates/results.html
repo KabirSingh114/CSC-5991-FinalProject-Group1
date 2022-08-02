@@ -1,0 +1,24 @@
+{% block body %}
+
+Search Results
+
+<div>
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Author</th>
+            <th>Genre</th>
+            <th>ISBN</th>
+        </tr>
+        {% for item in search_result %}
+        <tr>
+            <td>{{ item['Book'] }}</td>
+            <td>{{ item['Author'] }}</td>
+            <td>{{ item['Genre'] }}</td>
+            <td>{{ item['ISBN'] }}</td>
+        </tr>
+{% endfor %}
+    </table>
+</div>
+
+{% endblock %}
