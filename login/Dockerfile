@@ -5,6 +5,6 @@ WORKDIR /api
 COPY login/requirements.txt requirements.txt
 RUN pip3 install -r requirements.txt
 
-COPY . .
+COPY ./login .
 
 CMD ["python3", "app.py"]

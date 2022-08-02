@@ -5,34 +5,34 @@ services:
         - "27017:27017"
     container_name: w_books
   users:
-    build: ./users
+    image: kabirsingh114/csc5991group1:users
     ports:
         - "5003:5000"
   books:
-    build: ./books
+    image: kabirsingh114/csc5991group1:books
     ports:
         - "5004:5000"
   library:
-    build: ./library
+    image: kabirsingh114/csc5991group1:library
     ports:
         - "5005:5000"
   recentlyadded:
-    build: ./recentlyAdded
+    image: kabirsingh114/csc5991group1:recentlyAdded
     ports:
         - "5001:5000"
   rentals:
-    build: ./rentals
+    image: kabirsingh114/csc5991group1:rentals
     ports:
         - "5006:5000"
   returns:
-    build: ./returns
+    image: kabirsingh114/csc5991group1:returns
     ports:
         - "5007:5000"
   trending:
-    build: ./trending
+    image: kabirsingh114/csc5991group1:trending
     ports:
         - "5002:5000"
   login:
-    build: ./login
+    image: kabirsingh114/csc5991group1:login
     ports:
         - "8008:5000"
