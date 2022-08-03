@@ -4,14 +4,17 @@ import pymongo
 from datetime import datetime
 import json
 from bson.json_util import dumps, loads
+from bson.objectid import ObjectId
 
 app = Flask(__name__)
 
 
 @app.route('/rent', methods=['POST'])
-def rental():
+def topten():
     mongo_client = pymongo.MongoClient('mongodb://db:27017/')
-    mongoDb = mongoClient['w_books']
+    mongoDb = mongo_client['w_books']
+    originalBooks = mongoDb['books']
+    originalBooks.update_one({'_id': ObjectId(request.form['book_id'])}, {'$inc': {'rental_count':1}})
     bookCollection = mongoDb['books_rentals']
     result = bookCollection.insert_one({
         'book_id': request.form['book_id'],

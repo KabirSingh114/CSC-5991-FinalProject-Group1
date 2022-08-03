@@ -40,3 +40,7 @@ services:
     image: kabirsingh114/csc5991group1:ratings
     ports:
       - "5009:5000"
+  topten:
+    image: kabirsingh114/csc5991group1:topten
+    ports:
+      - "5008:5000"
